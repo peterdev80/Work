@@ -1,0 +1,83 @@
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.Properties.Resources.resources
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\bin\Debug\PatchMnemoLib.dll
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\bin\Debug\PatchMnemoLib.pdb
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.dll
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.pdb
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewPatchProperty.baml
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewPatchProperty.g.cs
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib_MarkupCompile.cache
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.g.resources
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib_MarkupCompile.lref
+C:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\PatchMnemoLib.dll
+C:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\PatchMnemoLib.pdb
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\Command\Window1.g.cs
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewPatchProperty.g.cs
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib_MarkupCompile.cache
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib_MarkupCompile.lref
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\Command\Window1.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewPatchProperty.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.g.resources
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.Properties.Resources.resources
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.dll
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.pdb
+E:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\PatchMnemoLib.dll
+E:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\PatchMnemoLib.pdb
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\Command\Window1.g.cs
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewPatchProperty.g.cs
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib_MarkupCompile.cache
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib_MarkupCompile.lref
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\Command\Window1.baml
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewPatchProperty.baml
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.g.resources
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.Properties.Resources.resources
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.csproj.GenerateResource.Cache
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.dll
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.pdb
+C:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\ValueLibrary.dll
+C:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\fmslapi.dll
+C:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\ValueLibrary.pdb
+C:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\fmslapi.pdb
+C:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\ResourceFiless.dll
+C:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\ResourceFiless.pdb
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewVariableM.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewVariableM.g.cs
+E:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\ResourceFiless.dll
+E:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\ValueLibrary.dll
+E:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\fmslapi.dll
+E:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\ResourceFiless.pdb
+E:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\ValueLibrary.pdb
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\PatchMnemoLib.csprojResolveAssemblyReference.cache
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewVariableM.g.cs
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewVariableM.baml
+E:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\fmslapi.pdb
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewPenEditor.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewPenEditor.g.cs
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewRouted.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewRouted.g.cs
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewPenEditor.baml
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewPenEditor.g.cs
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewRouted.g.cs
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewRouted.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewDPProperty.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewDPProperty.g.cs
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewDPProperty.g.cs
+E:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewDPProperty.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\MUtilites.dll
+C:\WORK\WpfDrawing\PatchMnemoLib\bin\Debug\MUtilites.pdb
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewKlapanProperty.g.cs
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewKlapanProperty.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewLabelPropety.g.cs
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewLabelPropety.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\UtilControl\UserControlMaket.g.cs
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\UtilControl\UserControlMaket.baml
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewarcBalon.g.cs
+C:\WORK\WpfDrawing\PatchMnemoLib\obj\x86\Debug\View\ViewarcBalon.baml

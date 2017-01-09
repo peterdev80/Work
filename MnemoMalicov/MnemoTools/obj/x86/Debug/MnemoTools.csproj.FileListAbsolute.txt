@@ -1,0 +1,97 @@
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\bin\Debug\MnemoTools.dll
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\bin\Debug\MnemoTools.pdb
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\bin\Debug\DrawToolsLib.dll
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\bin\Debug\WPFMnemoLibrary.dll
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\bin\Debug\ValueLibrary.dll
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\bin\Debug\fmslapi.dll
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\bin\Debug\DrawToolsLib.pdb
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\bin\Debug\WPFMnemoLibrary.pdb
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\bin\Debug\ValueLibrary.pdb
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\MainWindow.baml
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\WindowsToolMarshrut.baml
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\WindowToolAnim.baml
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\MainWindow.g.cs
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\WindowsToolMarshrut.g.cs
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\WindowToolAnim.g.cs
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\MnemoTools_MarkupCompile.cache
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\MnemoTools.g.resources
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\MnemoTools.Properties.Resources.resources
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\MnemoTools.dll
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\MnemoTools.pdb
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\n.bachman\Рабочий стол\DrawToolsWPF\MnemoTools\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\MnemoTools.dll
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\MnemoTools.pdb
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\DrawToolsLib.dll
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\DrawToolsLib.pdb
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools.csprojResolveAssemblyReference.cache
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MainWindow.baml
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\WindowsToolMarshrut.baml
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\WindowToolAnim.baml
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MainWindow.g.cs
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\WindowsToolMarshrut.g.cs
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\WindowToolAnim.g.cs
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools_MarkupCompile.cache
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools.g.resources
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools.Properties.Resources.resources
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools.csproj.GenerateResource.Cache
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools.dll
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools.pdb
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\WPFMnemoLibrary.dll
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\ValueLibrary.dll
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\fmslapi.dll
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\WPFMnemoLibrary.pdb
+E:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\ValueLibrary.pdb
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\MnemoTools.dll
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\bin\Debug\MnemoTools.pdb
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MainWindow.baml
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\WindowToolAnim.baml
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MainWindow.g.cs
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\WindowToolAnim.g.cs
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools_MarkupCompile.cache
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools.g.resources
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools.Properties.Resources.resources
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools.dll
+C:\WORK\MnemoWPF\WpfProject700\MnemoBulder\MnemoTools\obj\x86\Debug\MnemoTools.pdb
+E:\WORK\MnemoMalicov\MnemoTools\bin\Debug\MnemoTools.dll
+E:\WORK\MnemoMalicov\MnemoTools\bin\Debug\MnemoTools.pdb
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MainWindow.baml
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\WindowToolAnim.baml
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MainWindow.g.cs
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\WindowToolAnim.g.cs
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools_MarkupCompile.cache
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.g.resources
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.Properties.Resources.resources
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.csproj.GenerateResource.Cache
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.dll
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.pdb
+E:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.csprojResolveAssemblyReference.cache
+D:\MnemoMalicov\MnemoTools\bin\Debug\MnemoTools.dll
+D:\MnemoMalicov\MnemoTools\bin\Debug\MnemoTools.pdb
+D:\MnemoMalicov\MnemoTools\obj\x86\Debug\MainWindow.baml
+D:\MnemoMalicov\MnemoTools\obj\x86\Debug\WindowToolAnim.baml
+D:\MnemoMalicov\MnemoTools\obj\x86\Debug\MainWindow.g.cs
+D:\MnemoMalicov\MnemoTools\obj\x86\Debug\WindowToolAnim.g.cs
+D:\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools_MarkupCompile.cache
+D:\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.g.resources
+D:\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.Properties.Resources.resources
+D:\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.csproj.GenerateResource.Cache
+D:\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.dll
+D:\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.pdb
+C:\WORK\MnemoMalicov\MnemoTools\bin\Debug\MnemoTools.dll
+C:\WORK\MnemoMalicov\MnemoTools\bin\Debug\MnemoTools.pdb
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MainWindow.baml
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\WindowToolAnim.baml
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MainWindow.g.cs
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\WindowToolAnim.g.cs
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools_MarkupCompile.cache
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.g.resources
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.Properties.Resources.resources
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.csproj.GenerateResource.Cache
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.dll
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.pdb
+C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\MnemoTools.csprojResolveAssemblyReference.cache

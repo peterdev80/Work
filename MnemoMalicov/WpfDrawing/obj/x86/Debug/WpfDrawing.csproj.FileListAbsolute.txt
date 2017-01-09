@@ -1,0 +1,65 @@
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\bin\Debug\WpfDrawing.exe
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\bin\Debug\WpfDrawing.pdb
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\MainWindow.baml
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\MainWindow.g.cs
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\App.g.cs
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing_MarkupCompile.cache
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.g.resources
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.Properties.Resources.resources
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.exe
+c:\documents and settings\n.bachman\мои документы\visual studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.pdb
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing_MarkupCompile.lref
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\WpfDrawing\bin\Debug\PatchMnemoLib.dll
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\WpfDrawing\bin\Debug\PatchMnemoLib.pdb
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\NewPatchWindow.baml
+C:\Documents and Settings\n.bachman\Мои документы\Visual Studio 2010\Projects\WpfDrawing\WpfDrawing\obj\x86\Debug\NewPatchWindow.g.cs
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.exe
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.pdb
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.exe
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.pdb
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\WpfDrawing.exe
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\WpfDrawing.pdb
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\PatchMnemoLib.dll
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\PatchMnemoLib.pdb
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\MainWindow.g.cs
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\App.g.cs
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing_MarkupCompile.cache
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing_MarkupCompile.lref
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\MainWindow.baml
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.g.resources
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.Properties.Resources.resources
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\WORK\WpfDrawing\WpfDrawing\bin\Debug\WpfDrawing.exe
+E:\WORK\WpfDrawing\WpfDrawing\bin\Debug\WpfDrawing.pdb
+E:\WORK\WpfDrawing\WpfDrawing\bin\Debug\PatchMnemoLib.dll
+E:\WORK\WpfDrawing\WpfDrawing\bin\Debug\PatchMnemoLib.pdb
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.csprojResolveAssemblyReference.cache
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\NewPatchWindow.baml
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\MainWindow.g.cs
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\NewPatchWindow.g.cs
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\App.g.cs
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing_MarkupCompile.cache
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing_MarkupCompile.lref
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\MainWindow.baml
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.g.resources
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.Properties.Resources.resources
+E:\WORK\WpfDrawing\WpfDrawing\obj\x86\Debug\WpfDrawing.csproj.GenerateResource.Cache
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\ValueLibrary.dll
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\fmslapi.dll
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\ValueLibrary.pdb
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\fmslapi.pdb
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\ResourceFiless.dll
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\ResourceFiless.pdb
+E:\WORK\WpfDrawing\WpfDrawing\bin\Debug\ResourceFiless.dll
+E:\WORK\WpfDrawing\WpfDrawing\bin\Debug\ValueLibrary.dll
+E:\WORK\WpfDrawing\WpfDrawing\bin\Debug\fmslapi.dll
+E:\WORK\WpfDrawing\WpfDrawing\bin\Debug\ResourceFiless.pdb
+E:\WORK\WpfDrawing\WpfDrawing\bin\Debug\ValueLibrary.pdb
+E:\WORK\WpfDrawing\WpfDrawing\bin\Debug\fmslapi.pdb
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\MUtilites.dll
+C:\WORK\WpfDrawing\WpfDrawing\bin\Debug\MUtilites.pdb
