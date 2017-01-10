@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ValueBulder
 {
-    //проверка гит
+    //пр
     class ElementValue
     {
         public string NameVal { get; set; }
