@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<ArrayOfRoute xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Route>
+    <Name>Shtrih</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlackPunktir</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlackPunktir</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlackPunktir</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>l211_25</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l251_147</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SEP_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>0</ValuePos>
+  </Route>
+</ArrayOfRoute>
