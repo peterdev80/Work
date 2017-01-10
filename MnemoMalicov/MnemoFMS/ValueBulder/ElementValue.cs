@@ -9,6 +9,9 @@ namespace ValueBulder
     //проверка гит
     class ElementValue
     {
+        /// <summary>
+        /// hhh
+        /// </summary>
         public string NameVal { get; set; }
         public int PosValue { get; set; }
         public int LenghtValue { get; set; }
