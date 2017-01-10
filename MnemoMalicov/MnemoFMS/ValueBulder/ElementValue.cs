@@ -1,4 +1,4 @@
-п»їusing System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ValueBulder
 {
-    //РїСЂ
+    //проверка гит
     class ElementValue
     {
         public string NameVal { get; set; }
