@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\WORK\MnemoMalicov\MnemoTools\obj\x86\Debug\
+F:\gitwork\MnemoMalicov\MnemoTools\obj\x86\Debug\
 MnemoTools
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 2298650639
 
-161494187597
-12-1547151337
+16-1927920533
+12-1381780322
 MainWindow.xaml;WindowToolAnim.xaml;
 
 False

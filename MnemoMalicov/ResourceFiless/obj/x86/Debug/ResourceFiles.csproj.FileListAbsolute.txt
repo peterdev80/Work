@@ -43,3 +43,11 @@ C:\WORK\MnemoMalicov\ResourceFiless\obj\x86\Debug\ResourceFiles.Properties.Resou
 C:\WORK\MnemoMalicov\ResourceFiless\obj\x86\Debug\ResourceFiles.csproj.GenerateResource.Cache
 C:\WORK\MnemoMalicov\ResourceFiless\obj\x86\Debug\ResourceFiles.dll
 C:\WORK\MnemoMalicov\ResourceFiless\obj\x86\Debug\ResourceFiles.pdb
+F:\gitwork\MnemoMalicov\ResourceFiless\bin\Debug\ResourceFiles.dll
+F:\gitwork\MnemoMalicov\ResourceFiless\bin\Debug\ResourceFiles.pdb
+F:\gitwork\MnemoMalicov\ResourceFiless\obj\x86\Debug\ResourceFiles.csprojResolveAssemblyReference.cache
+F:\gitwork\MnemoMalicov\ResourceFiless\obj\x86\Debug\ResourceFiles.g.resources
+F:\gitwork\MnemoMalicov\ResourceFiless\obj\x86\Debug\ResourceFiles.Properties.Resources.resources
+F:\gitwork\MnemoMalicov\ResourceFiless\obj\x86\Debug\ResourceFiles.csproj.GenerateResource.Cache
+F:\gitwork\MnemoMalicov\ResourceFiless\obj\x86\Debug\ResourceFiles.dll
+F:\gitwork\MnemoMalicov\ResourceFiless\obj\x86\Debug\ResourceFiles.pdb

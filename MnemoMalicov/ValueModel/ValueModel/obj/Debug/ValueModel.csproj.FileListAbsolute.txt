@@ -30,3 +30,14 @@ C:\WORK\MnemoMalicov\ValueModel\ValueModel\obj\Debug\ValueModel.csproj.GenerateR
 C:\WORK\MnemoMalicov\ValueModel\ValueModel\obj\Debug\ValueModel.dll
 C:\WORK\MnemoMalicov\ValueModel\ValueModel\obj\Debug\ValueModel.pdb
 C:\WORK\MnemoMalicov\ValueModel\ValueModel\obj\Debug\ValueModel.csprojResolveAssemblyReference.cache
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\bin\Debug\ValueModel.dll
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\bin\Debug\ValueModel.pdb
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\bin\Debug\System.Net.Http.dll
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\bin\Debug\fmslapi.pdb
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\bin\Debug\System.Net.Http.xml
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\bin\Debug\ru\System.Net.Http.resources.dll
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\obj\Debug\ValueModel.csprojResolveAssemblyReference.cache
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\obj\Debug\ValueModel.Properties.Resources.resources
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\obj\Debug\ValueModel.csproj.GenerateResource.Cache
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\obj\Debug\ValueModel.dll
+F:\gitwork\MnemoMalicov\ValueModel\ValueModel\obj\Debug\ValueModel.pdb

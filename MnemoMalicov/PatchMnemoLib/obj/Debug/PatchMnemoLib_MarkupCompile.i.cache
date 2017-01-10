@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\WORK\MnemoMalicov\PatchMnemoLib\obj\Debug\
+F:\gitwork\MnemoMalicov\PatchMnemoLib\obj\Debug\
 PatchMnemoLib
 none
 false
@@ -12,8 +12,8 @@ DEBUG;TRACE
 
 13-815282541
 
-781918105064
-15-632054018
+78-1504003066
+15-1994517300
 Command\Window1.xaml;UtilControl\UserControlMaket.xaml;View\ViewAnimKlapanProperty.xaml;View\ViewarcBalon.xaml;View\ViewColorIndicatorProperty.xaml;View\ViewDPProperty.xaml;View\ViewKlapanProperty.xaml;View\ViewLabelPropety.xaml;View\ViewPatchProperty.xaml;View\ViewPenEditor.xaml;View\ViewRouted.xaml;View\ViewVariableM.xaml;View\ViewVoltmetrEditor.xaml;
 
 True

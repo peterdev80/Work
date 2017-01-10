@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\WORK\MnemoMalicov\MUtilites\obj\Debug\
+F:\gitwork\MnemoMalicov\MUtilites\obj\Debug\
 MUtilites
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 3-629266375
 
-10-1711655647
-12-1547151337
+10-838796481
+12-1381780322
 ColorDialog.xaml;ColorSelector.xaml;MovCalcDlg.xaml;
 
-False
+True
 

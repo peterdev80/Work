@@ -73,3 +73,5 @@ C:\WORK\MnemoMalicov\PultMnemo\obj\x86\Debug\PultMnemo.csproj.GenerateResource.C
 C:\WORK\MnemoMalicov\PultMnemo\obj\x86\Debug\PultMnemo.exe
 C:\WORK\MnemoMalicov\PultMnemo\obj\x86\Debug\PultMnemo.pdb
 C:\WORK\MnemoMalicov\PultMnemo\obj\x86\Debug\PultMnemo.csprojResolveAssemblyReference.cache
+F:\gitwork\MnemoMalicov\PultMnemo\obj\x86\Debug\PultMnemo.exe
+F:\gitwork\MnemoMalicov\PultMnemo\obj\x86\Debug\PultMnemo.pdb
