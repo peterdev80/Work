@@ -4,7 +4,7 @@
         xmlns:local="clr-namespace:WpfDrawing"
         xmlns:lib="clr-namespace:PatchMnemoLib;assembly=PatchMnemoLib"
         xmlns:vm="clr-namespace:PatchMnemoLib.ViewModel;assembly=PatchMnemoLib"
-        Title="MainWindow" Height="790" Width="1040" Loaded="Window_Loaded">
+        Title="MainWindow" Height="870" Width="1500" Loaded="Window_Loaded">
     <Window.Resources>
         <vm:ViewModelEditor x:Key="modelsotr" FShema="SerializationSOTR_MC.xml" FRout="RoutedSOTR_MC.xml" />
          <vm:ViewModelEditor x:Key="modelkok" FShema="SerializationSOTRkok_MC.xml" FRout="RoutedSOTRkok_MC.xml" />
@@ -60,7 +60,7 @@
        
         <Viewbox>
 
-            <ScrollViewer HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible"  Name="scrImage" Width="975" Height="652">
+            <ScrollViewer HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible"  Name="scrImage" Width="1480" Height="768">
                
                     <lib:MnemoCanvas Name="MC"  Width="1500" Height="870" Visibility="Visible" Background="#FFF2ECEC">
                      </lib:MnemoCanvas>
