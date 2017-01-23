@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ArrayOfVariableM xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfVariableM xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <VariableM>
     <VarID>Mnemo</VarID>
     <VarName>__SEP_3</VarName>
@@ -2178,5 +2178,85 @@
       <int>1</int>
     </Mask>
     <Remark>добавленные максом переменные</Remark>
+  </VariableM>
+  <VariableM>
+    <VarID>Mnemo</VarID>
+    <VarName>__PTVOD_PODVOD_1</VarName>
+    <Typ>BitStuct</Typ>
+    <Mask>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+    </Mask>
+    <Remark>ОТВ/ПОДВОД</Remark>
+  </VariableM>
+  <VariableM>
+    <VarID>Mnemo</VarID>
+    <VarName>__PTVOD_PODVOD_2</VarName>
+    <Typ>BitStuct</Typ>
+    <Mask>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+    </Mask>
+    <Remark>отвод/подвод</Remark>
   </VariableM>
 </ArrayOfVariableM>
