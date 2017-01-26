@@ -14,7 +14,7 @@
 
     <Grid x:Name="root" DataContext="{Binding Source={StaticResource model}}">
         <Viewbox >
-            <my:MnemoCanvas Width="1000" Height="1000" Visibility="Visible" Name="MC" Margin="-200,0,0,0" />
+            <my:MnemoCanvas Width="800" Height="900" Visibility="Visible" Name="MC" Margin="-400,0,0,0" />
         </Viewbox>
     </Grid>
 </UserControl>

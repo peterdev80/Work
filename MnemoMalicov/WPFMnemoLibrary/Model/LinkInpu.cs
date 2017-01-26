@@ -114,6 +114,9 @@ namespace WPFMnemoLibrary.Model
                 ((FloatVar)ViewModelVariableList.Instance.GetVariable("__KDU_12").VarM).VaRStatefloat = rd.ReadSingle();
                 //переменные мнемосхем
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__KDU_MS1").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                //отвод подвод
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PTVOD_PODVOD_1").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PTVOD_PODVOD_2").VarM).VarBitInt = (Int32)rd.ReadUInt32();
 
             }
         }

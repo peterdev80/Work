@@ -162,10 +162,11 @@ namespace WPFMnemoLibrary.Model
                        d.Invoke(new Action(() => ((FloatVar)val.GetVariable("__KDU_12").VarM).VaRStatefloat = BitConverter.ToSingle(message, 46 * 4)));
                        
                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__KDU_MS1").VarM).VarBitInt = BitConverter.ToInt32(message, 47 * 4)));
+                        //отвод подвод
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_1").VarM).VarBitInt = BitConverter.ToInt32(message, 48 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_2").VarM).VarBitInt = BitConverter.ToInt32(message, 49 * 4)));
 
 
-
-                       
 
 
 

@@ -435,6 +435,7 @@ void lan_out_mnemo_run()
 	UpravSEP_MC();
 	UpravSOTR_MC();
 	UpravKDU();
+	Uprav_OP_DPO();
 	
 
 #ifndef FMS700

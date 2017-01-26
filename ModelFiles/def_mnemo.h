@@ -744,6 +744,74 @@ typedef struct MNEMO_BUFF_
         unsigned A80 :1;
         unsigned A47 :1;
        } OP_DPO2;
+	    struct {
+        unsigned H_pt10:1;
+        unsigned H_PK_V5:1;
+        unsigned H_12_4d:1;
+        unsigned H_1V5:1;
+        unsigned H_pt37:1;
+        unsigned H1040:1;
+        unsigned H764:1;
+        unsigned H766:1;
+        unsigned H_AC2:1;
+        unsigned H_AC3:1;
+        unsigned H_AC1:1;
+        unsigned H748:1;
+        unsigned H774:1;
+        unsigned H766_zero:1;
+        unsigned H742:1;
+        unsigned H753:1;
+        unsigned H_PK_D13:1;
+        unsigned H754:1;
+        unsigned H_PZ_0p:1;
+        unsigned H_PZ_dl:1;
+        unsigned H745:1;
+        unsigned HR6657 :1;
+        unsigned H_5G17:1;
+        unsigned H_PK_G17:1;
+        unsigned H_1D8:1;
+        unsigned H_1D7:1;
+        unsigned bt26:1;
+        unsigned bt27:1;
+        unsigned bt28:1;
+        unsigned bt29:1;
+        unsigned bt30:1;
+        unsigned bt31:1;
+       } PitSSWP_1;
+struct {
+        unsigned H_PK_D9:1;
+        unsigned H_PK_D11:1;
+        unsigned bt2_zero:1;
+        unsigned H743:1;
+        unsigned H747:1;
+        unsigned H750:1;
+        unsigned H_12_5:1;
+        unsigned H_1D9:1;
+        unsigned bt8_zero:1;
+        unsigned H744:1;
+        unsigned H757:1;
+        unsigned H760:1;
+        unsigned H_PK_D17:1;
+        unsigned H_PK_D15:1;
+        unsigned H_1D15:1;
+        unsigned H_6D17:1;
+        unsigned H_PGS_C1:1;
+        unsigned H_PGS_0p:1;
+        unsigned bt18:1;
+        unsigned bt19:1;
+        unsigned bt20:1;
+        unsigned bt21:1;
+        unsigned bt22:1;
+        unsigned bt23:1;
+        unsigned bt24:1;
+        unsigned bt25:1;
+        unsigned bt26:1;
+        unsigned bt27:1;
+        unsigned bt28:1;
+        unsigned bt29:1;
+        unsigned bt30:1;
+        unsigned bt31:1;
+       } PitSSWP_2;
 	   
 
 } MNEMO_BUFF;
@@ -804,7 +872,8 @@ extern MNEMO_BUFF mnemo_buff;
 #define KDU_MS1 mnemo_buff.KDU_MS1
 #define OP_DPO1 mnemo_buff.OP_DPO1
 #define OP_DPO2 mnemo_buff.OP_DPO2
-
+#define PitSSWP_1 mnemo_buff.PitSSWP_1
+#define PitSSWP_2 mnemo_buff.PitSSWP_2
 
 #define Mnemores_51 mnemo_buff.Mnemores_51
 
