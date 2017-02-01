@@ -165,7 +165,9 @@ namespace WPFMnemoLibrary.Model
                         //отвод подвод
                         d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_1").VarM).VarBitInt = BitConverter.ToInt32(message, 48 * 4)));
                         d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_2").VarM).VarBitInt = BitConverter.ToInt32(message, 49 * 4)));
-
+                        //питание ссвп
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_1").VarM).VarBitInt = BitConverter.ToInt32(message, 50 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_2").VarM).VarBitInt = BitConverter.ToInt32(message, 51 * 4)));
 
 
 

@@ -117,6 +117,9 @@ namespace WPFMnemoLibrary.Model
                 //отвод подвод
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PTVOD_PODVOD_1").VarM).VarBitInt = (Int32)rd.ReadUInt32();
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PTVOD_PODVOD_2").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                //питание ссвп
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PitSSWP_1").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PitSSWP_2").VarM).VarBitInt = (Int32)rd.ReadUInt32();
 
             }
         }
