@@ -17,8 +17,8 @@
         <vm:ViewModelEditor x:Key="modelSEP_MC" FShema="SerializationSEP_MC.xml" FRout="RoutedSEP_MC.xml" />
         <vm:ViewModelEditor x:Key="modelukdu" FShema="SerializationUKDU_MC.xml" FRout="RoutedUKDU_MC.xml" />
          <vm:ViewModelEditor x:Key="model_std" FShema="SerializationSTD.xml" FRout="STDRouted.xml" />
-        <vm:ViewModelEditor x:Key="model" FShema="SerializationPitSSVP_MC.xml" FRout="RoutedPitSSVP_MC.xml" />
-        <vm:ViewModelEditor x:Key="modelFKDU_MC" FShema="SerializationFKDU_MC.xml" FRout="RoutedFKDU_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelPitSSVP_MC" FShema="SerializationPitSSVP_MC.xml" FRout="RoutedPitSSVP_MC.xml" />
+        <vm:ViewModelEditor x:Key="model" FShema="SerializationFKDU_MC.xml" FRout="RoutedFKDU_MC.xml" />
         <vm:ViewModelEditor x:Key="modelkdu700" FShema="SerializationKDU.xml" FRout="KDURouted.xml" />
         <vm:ViewModelEditor x:Key="modelUDPO_MC" FShema="SerializationUDPO_MC.xml" FRout="RoutedUDPO_MC.xml" />
     </Window.Resources>
