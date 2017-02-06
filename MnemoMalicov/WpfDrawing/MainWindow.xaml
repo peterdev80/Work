@@ -4,23 +4,24 @@
         xmlns:local="clr-namespace:WpfDrawing"
         xmlns:lib="clr-namespace:PatchMnemoLib;assembly=PatchMnemoLib"
         xmlns:vm="clr-namespace:PatchMnemoLib.ViewModel;assembly=PatchMnemoLib"
-        Title="MainWindow" Height="870" Width="1500" Loaded="Window_Loaded">
+        Title="MainWindow" Height="973.6" Width="1500" Loaded="Window_Loaded">
     <Window.Resources>
         <vm:ViewModelEditor x:Key="modelsotr" FShema="SerializationSOTR_MC.xml" FRout="RoutedSOTR_MC.xml" />
-         <vm:ViewModelEditor x:Key="modelkok" FShema="SerializationSOTRkok_MC.xml" FRout="RoutedSOTRkok_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelkok" FShema="SerializationSOTRkok_MC.xml" FRout="RoutedSOTRkok_MC.xml" />
         <vm:ViewModelEditor x:Key="modelknr" FShema="SerializationSOTRknr_MC.xml" FRout="RoutedSOTRknr_MC.xml" />
         <vm:ViewModelEditor x:Key="modelkvo" FShema="SerializationSOTRkvo_MC.xml" FRout="RoutedSOTRkvo_MC.xml" />
         <vm:ViewModelEditor x:Key="modelxsasa" FShema="SerializationSOTRxsasa_MC.xml" FRout="RoutedSOTRxsasa_MC.xml" />
         <!--<vm:ViewModelEditor x:Key="model" FShema="SerializationUDPO_MC.xml" FRout="RoutedUDPO_MC.xml" />-->
-         <vm:ViewModelEditor x:Key="modelRaz" FShema="SerializationRAZ.xml" FRout="RoutedRAZ.xml" />
-        <vm:ViewModelEditor x:Key="modelSEP" FShema="SerializationSEP.xml" FRout="RoutedSEP.xml" /> 
+        <vm:ViewModelEditor x:Key="modelRaz" FShema="SerializationRAZ.xml" FRout="RoutedRAZ.xml" />
+        <vm:ViewModelEditor x:Key="modelSEP" FShema="SerializationSEP.xml" FRout="RoutedSEP.xml" />
         <vm:ViewModelEditor x:Key="modelSEP_MC" FShema="SerializationSEP_MC.xml" FRout="RoutedSEP_MC.xml" />
         <vm:ViewModelEditor x:Key="modelukdu" FShema="SerializationUKDU_MC.xml" FRout="RoutedUKDU_MC.xml" />
-         <vm:ViewModelEditor x:Key="model_std" FShema="SerializationSTD.xml" FRout="STDRouted.xml" />
+        <vm:ViewModelEditor x:Key="model_std" FShema="SerializationSTD.xml" FRout="STDRouted.xml" />
         <vm:ViewModelEditor x:Key="modelPitSSVP_MC" FShema="SerializationPitSSVP_MC.xml" FRout="RoutedPitSSVP_MC.xml" />
-        <vm:ViewModelEditor x:Key="model" FShema="SerializationFKDU_MC.xml" FRout="RoutedFKDU_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelFKDU_MC" FShema="SerializationFKDU_MC.xml" FRout="RoutedFKDU_MC.xml" />
         <vm:ViewModelEditor x:Key="modelkdu700" FShema="SerializationKDU.xml" FRout="KDURouted.xml" />
         <vm:ViewModelEditor x:Key="modelUDPO_MC" FShema="SerializationUDPO_MC.xml" FRout="RoutedUDPO_MC.xml" />
+        <vm:ViewModelEditor x:Key="model" FShema="SerializationSR32_MC.xml" FRout="RoutedSR32_MC.xml" />
     </Window.Resources>
     <StackPanel  Name="stackPanel1" DataContext="{Binding Source={StaticResource model}}" >
         <Menu Name="menu1" Height="23">
@@ -44,7 +45,7 @@
             </ComboBox>
             <CheckBox IsChecked="{Binding Path=MC.isDrag, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Content="D&amp;D" IsThreeState="False"></CheckBox>
             <CheckBox IsChecked="{Binding Path=MC.SelectAll, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Content="SAll" IsThreeState="False"></CheckBox>
-                <Button Content="+" Height="23" Name="button1" Width="30" Click="button1_Click" />
+            <Button Content="+" Height="23" Name="button1" Width="30" Click="button1_Click" />
             <Button Content="-" Height="23" Name="button2" Width="30" Click="button2_Click" />
             <Button Content="Save" Height="23" Name="btnsave" Width="30" Command="{Binding cmdSave}"/>
             <Button Content="Load" Height="23" Name="btnload" Width="30" Click="btnload_Click" />
@@ -55,16 +56,16 @@
             <Button Content="Delete"  Name="btnload4444456" Width="30" Command="{Binding cmdDelete}" />
             <Button Content="OBack"  Name="btnload44444561" Width="30" Command="{Binding CmdOrder}" />
             <Label Content="{Binding Path=MC.SelectedViewModelGraphics.Name}"/>
-                    
+
         </ToolBar>
-       
+
         <Viewbox>
 
-            <ScrollViewer HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible"  Name="scrImage" Width="1480" Height="768">
-               
-                    <lib:MnemoCanvas Name="MC"  Width="1500" Height="870" Visibility="Visible" Background="#FFF2ECEC">
-                     </lib:MnemoCanvas>
-               
+            <ScrollViewer HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible"  Name="scrImage" Width="1391" Height="819">
+
+                <lib:MnemoCanvas Name="MC"  Width="1429" Height="920" Visibility="Visible" Background="#FFF2ECEC">
+                </lib:MnemoCanvas>
+
             </ScrollViewer>
         </Viewbox>
 
