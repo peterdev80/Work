@@ -197,6 +197,9 @@
     <Compile Include="View\ViewFKDU_MC.xaml.cs">
       <DependentUpon>ViewFKDU_MC.xaml</DependentUpon>
     </Compile>
+    <Compile Include="View\ViewNaduvMC.xaml.cs">
+      <DependentUpon>ViewNaduvMC.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\ViewOK29_MC.xaml.cs">
       <DependentUpon>ViewOK29_MC.xaml</DependentUpon>
     </Compile>
@@ -342,6 +345,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="View\ViewFKDU_MC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ViewNaduvMC.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

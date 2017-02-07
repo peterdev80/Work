@@ -212,7 +212,11 @@ namespace WPFMnemoLibrary.ViewModel
 
                     new CommandViewModel(
                     "КДУ",
-                    new RelayCommand(param => {selectModel=  "КДУ"; Model=new View.ViewFKDU_MC();}))
+                    new RelayCommand(param => {selectModel=  "КДУ"; Model=new View.ViewFKDU_MC();})),
+
+                new CommandViewModel(
+                    "OK39",
+                    new RelayCommand(param => {selectModel=  "КДУ"; Model=new View.ViewNaduvMC();}))
 
 
 
