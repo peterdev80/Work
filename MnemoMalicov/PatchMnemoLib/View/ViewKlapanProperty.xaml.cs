@@ -130,28 +130,32 @@ namespace PatchMnemoLib.View
 
         private void button4_Click(object sender, RoutedEventArgs e)
         {
-            double left = double.Parse(tbLeft.Text, CultureInfo.CurrentCulture);
-            double top = double.Parse(tbTop.Text, CultureInfo.CurrentCulture);
-
-            ObservableCollection<KlapanItem> ki = new ObservableCollection<KlapanItem>();
-            foreach (KlapanItem kli in vmp.GraphicsData)
+            try
             {
-                KlapanItem klin = new KlapanItem();
-                klin.GBrush = kli.GBrush;
-                klin.GData = MovCalcDlg.moveCalc(left, top, kli.GData);
-                klin.GPen = kli.GPen;
-                klin.GpenSize = kli.GpenSize;
-                ki.Add(klin);
+                double left = double.Parse(tbLeft.Text, CultureInfo.CurrentCulture);
+                double top = double.Parse(tbTop.Text, CultureInfo.CurrentCulture);
+
+                ObservableCollection<KlapanItem> ki = new ObservableCollection<KlapanItem>();
+                foreach (KlapanItem kli in vmp.GraphicsData)
+                {
+                    KlapanItem klin = new KlapanItem();
+                    klin.GBrush = kli.GBrush;
+                    klin.GData = MovCalcDlg.moveCalc(left, top, kli.GData);
+                    klin.GPen = kli.GPen;
+                    klin.GpenSize = kli.GpenSize;
+                    ki.Add(klin);
+                }
+
+                vmp.GraphicsData = ki;
+                /*  for (int i = 0; i < vmp.GraphicsData.Count; i++)
+                  {
+                      vmp.GraphicsData[i]=
+                  }*/
+
+
+                vmp.TestVoid();
             }
-
-            vmp.GraphicsData = ki;
-            /*  for (int i = 0; i < vmp.GraphicsData.Count; i++)
-              {
-                  vmp.GraphicsData[i]=
-              }*/
-
-
-            vmp.TestVoid();
+            catch { MessageBox.Show("EROR Button"); }
 
         }
     }

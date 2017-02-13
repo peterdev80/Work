@@ -58,9 +58,13 @@ namespace PatchMnemoLib.View
 
         private void button4_Click(object sender, RoutedEventArgs e)
         {
-            double left = double.Parse(tbLeft.Text, CultureInfo.CurrentCulture);
-            double top = double.Parse(tbTop.Text, CultureInfo.CurrentCulture);
-            SelectObj.MoveGraphics(left, top);
+            try
+            {
+                double left = double.Parse(tbLeft.Text, CultureInfo.CurrentCulture);
+                double top = double.Parse(tbTop.Text, CultureInfo.CurrentCulture);
+                SelectObj.MoveGraphics(left, top);
+            }
+            catch { MessageBox.Show("Неверные значения сдвига"); }
 
         }
 
