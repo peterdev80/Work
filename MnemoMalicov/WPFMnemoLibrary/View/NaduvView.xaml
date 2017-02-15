@@ -1,4 +1,4 @@
-﻿<UserControl x:Class="WPFMnemoLibrary.View.NaduvView"
+﻿<UserControl
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
@@ -8,12 +8,101 @@
 			 xmlns:vm="clr-namespace:WPFMnemoLibrary.ViewModel" 
   
 			 
+             xmlns:WPFMnemoLibrary="clr-namespace:WPFMnemoLibrary" x:Class="WPFMnemoLibrary.View.NaduvView" 
+  
+			 
              mc:Ignorable="d" 
             d:DesignWidth="1920"
     d:DesignHeight="1080"
 			 >
     <UserControl.Resources>
         <vm:UpravNaduvViewModel x:Key="var1" />
+        <WPFMnemoLibrary:IncrementValueConverter x:Key="TextSizeConwerter"/>
+
+        <Style x:Key="KeyBADPOMStyle1" TargetType="{x:Type MnemoModelLibrary_ControlLibrary:KeyBADPOM}">
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type MnemoModelLibrary_ControlLibrary:KeyBADPOM}">
+                        <Grid Background="{TemplateBinding Background}"
+                           >
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="0.25*"/>
+                                <RowDefinition Height="0.242*"/>
+                                <RowDefinition Height="0.021*"/>
+                                <RowDefinition Height="0.021*"/>
+                                <RowDefinition Height="0.196*"/>
+                                <RowDefinition Height="0.271*"/>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="0.358*"/>
+                                <ColumnDefinition Width="0.642*"/>
+                            </Grid.ColumnDefinitions>
+
+                            <Path x:Name="t1" Grid.ColumnSpan="1" Grid.Column="1" Data="M2.7914999,6.6701698 L0.5,0.5 L5.0829998,0.5 z" Fill="#FFF4F4F5" Height="Auto" Grid.RowSpan="3" Stretch="Fill" Stroke="Black" Width="Auto" />
+                            <Path x:Name="t2" Grid.ColumnSpan="1" Grid.Column="1" Data="M3.2085001,0.5 L0.5,7.4996691 L5.9170002,7.4996691 z" Fill="#FFF4F4F5" Height="Auto" Grid.Row="3" Grid.RowSpan="3" Stretch="Fill" Stroke="Black" Width="Auto" />
+                            <Path Grid.ColumnSpan="1" Grid.Column="1" Data="M0.5,0.5 L3.959,0.5 z" Fill="#FFF4F4F5" Grid.Row="2" Grid.RowSpan="2" Stretch="Fill" Stroke="Black" Width="{Binding ActualWidth, ConverterParameter=3, Converter={StaticResource TextSizeConwerter}, ElementName=t1, Mode=OneWay}" HorizontalAlignment="Left"/>
+                            <Path x:Name="m" Grid.ColumnSpan="1" Fill="#FFB9B9BA" Height="Auto" Grid.Row="1" Grid.RowSpan="4" Stretch="Fill" Stroke="Black" Width="Auto">
+                                <Path.Data>
+                                    <PathGeometry>
+                                        <PathFigure IsClosed="True" StartPoint="0.5,4.79520463372276">
+                                            <BezierSegment IsSmoothJoin="True" Point3="4.79000034093857,0.5" Point2="2.4206985616684,0.5" Point1="0.5,2.42302860177743"/>
+                                            <BezierSegment Point3="9.08,4.79520479520479" Point2="9.08,2.42302860177743" Point1="7.15930212020874,0.5"/>
+                                            <BezierSegment IsSmoothJoin="True" Point3="4.78999965906143,9.0904095904096" Point2="7.1593014383316,9.0904095904096" Point1="9.08,7.16738098863217"/>
+                                            <BezierSegment Point3="0.5,4.79520479520479" Point2="0.5,7.16738098863217" Point1="2.42069805026055,9.0904095904096"/>
+                                        </PathFigure>
+                                        <PathFigure IsClosed="True" StartPoint="2.542,2.833">
+                                            <LineSegment Point="3.23745827633379,2.833"/>
+                                            <LineSegment Point="4.61584404924761,5.39389656508067"/>
+                                            <BezierSegment Point3="4.82260191518468,5.83437077427454" Point2="4.79127496580027,5.73705670480147" Point1="4.72235567715458,5.59023217680981"/>
+                                            <LineSegment Point="4.84139808481532,5.83437077427454"/>
+                                            <BezierSegment Point3="5.05755403556772,5.38365297882034" Point2="5.0032538624984,5.48267452107642" Point1="4.93120187891427,5.63291368202468"/>
+                                            <LineSegment Point="6.4641340629275,2.833"/>
+                                            <LineSegment Point="7.122,2.833"/>
+                                            <LineSegment Point="7.122,6.50532567432568"/>
+                                            <LineSegment Point="6.59883994528044,6.50532567432568"/>
+                                            <LineSegment Point="6.59883994528044,4.04174317871808"/>
+                                            <BezierSegment Point3="6.6426976744186,3.32725303706057" Point2="6.61345906085681,3.60895165921944" Point1="6.59883994528044,3.84711503977194"/>
+                                            <LineSegment Point="6.63016689466484,3.32725303706057"/>
+                                            <BezierSegment Point3="6.4954610123119,3.68321765960678" Point2="6.5351416873958,3.61151255578452" Point1="6.58004377564979,3.49285789000875"/>
+                                            <LineSegment Point="4.96044049247606,6.50532567432568"/>
+                                            <LineSegment Point="4.70355950752394,6.50532567432568"/>
+                                            <LineSegment Point="3.17167168262654,3.70370483212743"/>
+                                            <BezierSegment Point3="3.0369658002736,3.32725303706057" Point2="3.08291196083664,3.49627221035589" Point1="3.12781395348837,3.62175614204485"/>
+                                            <LineSegment Point="3.02443502051984,3.32725303706057"/>
+                                            <BezierSegment Point3="3.04949658002736,4.04686497184824" Point2="3.04949658002736,3.71394841838775" Point1="3.04114266312334,3.47407787766167"/>
+                                            <LineSegment Point="3.04949658002736,6.50532567432568"/>
+                                            <LineSegment Point="2.542,6.50532567432568"/>
+                                        </PathFigure>
+                                    </PathGeometry>
+                                </Path.Data>
+                            </Path>
+                        </Grid>
+                        <ControlTemplate.Triggers>
+                            <MultiTrigger>
+                                <MultiTrigger.Conditions>
+                                    <Condition Property="KeyState" Value="True"/>
+                                    <Condition Property="KeyType" Value="Down"/>
+                                </MultiTrigger.Conditions>
+                                <Setter Property="Fill" TargetName="m" Value="Yellow"/>
+                                <Setter Property="Fill" TargetName="t2" Value="Yellow"/>
+                            </MultiTrigger>
+                            <MultiTrigger>
+                                <MultiTrigger.Conditions>
+                                    <Condition Property="KeyState" Value="True"/>
+                                    <Condition Property="KeyType" Value="Up"/>
+                                </MultiTrigger.Conditions>
+                                <Setter Property="Fill" TargetName="m" Value="Yellow"/>
+                                <Setter Property="Fill" TargetName="t1" Value="Yellow"/>
+                            </MultiTrigger>
+                            <Trigger  Property="KeyState" Value="False">
+                                <Setter Property="Fill" TargetName="m" Value="#FFB9B9BA"/>
+                            </Trigger>
+                        </ControlTemplate.Triggers>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
     </UserControl.Resources>
     <Grid Background="#FFF9F8F8">
         <Viewbox >
@@ -90,8 +179,8 @@
 
                 <MnemoModelLibrary_ControlLibrary:KeyBADPOif Canvas.Left="267.375" Canvas.Top="111.908" Height="20.592" Width="11.064" KeyState="{Binding ListValStateVariable[3].ValState[9].StateElement}"/>
                 <MnemoModelLibrary_ControlLibrary:KeyBADPOif Canvas.Left="374.936" Canvas.Top="108.595" Height="20.76" Width="11.064" KeyType="Reiht" KeyState="{Binding ListValStateVariable[3].ValState[10].StateElement}"/>
-                <MnemoModelLibrary_ControlLibrary:KeyBADPOM Canvas.Left="915.333" Canvas.Top="70.462" Height="51.371" Width="68.667" KeyType="Down" KeyState="{Binding ListValStateVariable[3].ValState[11].StateElement}"/>
-                <MnemoModelLibrary_ControlLibrary:KeyBADPOM Canvas.Left="915.333" Canvas.Top="237.812" Height="51.371" Width="68.667" KeyType="Up" KeyState="{Binding ListValStateVariable[3].ValState[12].StateElement}"/>
+                <MnemoModelLibrary_ControlLibrary:KeyBADPOM Canvas.Left="915.333" Canvas.Top="70.462" Height="51.371" Width="68.667" KeyType="Down" Style="{DynamicResource KeyBADPOMStyle1}"/>
+                <MnemoModelLibrary_ControlLibrary:KeyBADPOM Canvas.Left="915.333" Canvas.Top="237.812" Height="51.371" Width="68.667" KeyType="Up" KeyState="True"/>
                 <Path x:Name="c11" Data="M4.1299952,0.50000002 L4.1299952,14.125 M4.6599964,13.875 L0.50000575,13.875 M0.50000006,29.104995 L4.0829922,29.104995 M3.570995,29.104998 L3.570995,49.854999 M3.6044921,54.837998 L1.2189922,50.275999 5.9899921,50.275999 z" Fill="{Binding ListValStateVariable[2].ValState[11].CurentColor}" Height="55.338" Canvas.Left="483.667" Stretch="Fill" Stroke="{Binding ListValStateVariable[2].ValState[11].CurentColor}" Canvas.Top="220.083" Width="6.49"/>
                 <Path x:Name="b28" Data="M242.29201,3.0464998 L238.16701,0.5 238.16701,5.5929997 z M239.25001,2.9690065 L102.91702,2.9690065 M102.91702,2.9940065 L84.957994,2.9940065 M89.587996,18.36101 L102.91702,2.9939973 M70.750007,18.068002 L85.294017,2.8220047 M89.958,18.192992 L0.50000745,18.192992" Fill="{Binding ListValStateVariable[1].ValState[28].CurentColor}" Height="18.861" Canvas.Left="231.75" Stretch="Fill" Stroke="{Binding ListValStateVariable[1].ValState[28].CurentColor}" Canvas.Top="238.265" Width="242.792"/>
                 <Path Data="M7,4.4220001 L0.5,0.5 L0.5,8.3440001 z" Height="9.969" Canvas.Left="226.75" Stretch="Fill" Stroke="{Binding ListValStateVariable[1].ValState[28].CurentColor}" Canvas.Top="251.45" Width="6.25"/>
@@ -458,7 +547,7 @@
                 <Path x:Name="b12" Data="M49.419999,0.49999999 L44.578978,2.9200151 M44.934983,2.837005 L11.168995,2.837005 M11.501012,2.671014 L6.0430002,9.1629915 M6.2039975,8.8309961 L6.2039975,51.826002 M6.2500002,51.71 L0.50000022,58.168 12,58.168 z" Height="58.668" Canvas.Left="498.706" Stretch="Fill" Stroke="{Binding ListValStateVariable[1].ValState[12].CurentColor}" Canvas.Top="408.42" Width="49.92"/>
                 <MnemoModelLibrary_ControlLibrary:keyBADPOOC Canvas.Left="354.875" Canvas.Top="35.75" Height="51.029" Width="49.063" KeyType="Down" KeyState="{Binding ListValStateVariable[3].ValState[7].StateElement}"/>
                 <MnemoModelLibrary_ControlLibrary:keyBADPOOC Canvas.Left="355.313" Canvas.Top="164.656" Height="51.029" Width="49.063" KeyType="Up" KeyState="{Binding ListValStateVariable[3].ValState[8].StateElement}"/>
-                <MnemoModelLibrary_ControlLibrary:keyBADPOOC Canvas.Left="937.693" Canvas.Top="145.167" Height="51.029" Width="49.063" KeyType="Up" KeyState="{Binding ListValStateVariable[3].ValState[13].StateElement}"/>
+                <MnemoModelLibrary_ControlLibrary:keyBADPOOC Canvas.Left="937.693" Canvas.Top="145.167" Height="51.029" Width="49.063" KeyType="Up"/>
                 <Path Data="M0.5,0.5 L23.042,0.5 L23.042,15.167 L0.5,15.167 z" Height="15.667" Canvas.Left="872.96" Stretch="Fill" Stroke="#FF121111" Canvas.Top="428.25" Width="27.623"/>
                 <TextBlock Height="13.125" Canvas.Left="875.126" TextWrapping="Wrap" Canvas.Top="429.456" Width="25.208"><Run FontSize="9.333" Text="10"/><Run FontSize="9.333" Language="ru-ru" Text="сек"/></TextBlock>
                 <Path x:Name="c16" Data="M3.394,13.674 L3.394,3.7990001 M3.2480002,0.50000004 L0.50000004,6.5000001 5.9960003,6.5000001 z" Height="14.174" Canvas.Left="938.316" Stretch="Fill" Stroke="{Binding ListValStateVariable[2].ValState[16].CurentColor}" Canvas.Top="187.845" Width="6.496" Fill="{Binding ListValStateVariable[2].ValState[16].CurentColor}"/>
