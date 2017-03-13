@@ -97,7 +97,7 @@ namespace PatchMnemoLib.ViewModelMElement
        {
 
            base.SetState(val, name);
-         //   if (name != "")
+           if (name != "")
             {
                 SolidColorBrush scb = (SolidColorBrush)_state.StateG.MPen.Brush;
                 GPen = scb.Color;
