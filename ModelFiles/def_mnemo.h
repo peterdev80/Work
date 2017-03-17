@@ -813,6 +813,192 @@ struct {
         unsigned bt31:1;
        } PitSSWP_2;
 	   
+struct 
+{
+        unsigned MS_Selection1CEU  :1;
+        unsigned MS_Selection2CEU  :1;
+        unsigned MS_Section1SC     :1;
+        unsigned MS_Section2SC     :1;
+        unsigned MS_SuperCharging  :1;
+        unsigned MS_OffBlockingSC  :1;
+        unsigned MS_UnionCollectors :1;
+        unsigned MS_Mark94p_m      :1;       
+        unsigned MS_Mark106m :1;
+        unsigned MS_Mark93m :1;
+        unsigned MS_Mark98m :1;
+        unsigned MS_Mark99p :1;
+        unsigned MS_Mark19p :1;
+        unsigned MS_Mark39p :1;
+        unsigned  MS_Mark40p :1;
+        unsigned MS_Mark148p :1;
+        unsigned MS_Mark101p :1;
+        unsigned MS_Mark155p :1;
+        unsigned MS_Mark156p :1;
+        unsigned MS_Mark147m :1;
+        unsigned MS_Mark158p_m :1;      
+        unsigned MS_Mark66p_m :1;
+        unsigned MS_Mark141p :1;
+        unsigned MS_Mark91p_m :1;       
+        unsigned MS_Mark122p     :1;
+        unsigned MS_LogicOperation8_33 :1;
+        unsigned MS_CC1 :1;
+        unsigned MS_CC2 :1;
+        unsigned  MS_CC32 1;
+	    unsigned         MS_CC33 :1;
+        unsigned         MS_CC29 :1;
+} OK39_ND_1;
+struct {
+        unsigned MS_CC39 :1;
+        unsigned MS_CC48 :1;
+        unsigned MS_CC49 :1;
+        unsigned MS_CC62 :1;
+        unsigned MS_KR_UA1 :1;
+        unsigned MS_MC27 :1;
+        unsigned MS_MC70 :1;
+        unsigned MS_ACE1 :1;
+        unsigned MS_MC30 :1;
+        unsigned MS_MC42 :1;
+        unsigned MS_KR_UA6 :1;
+        unsigned MS_KR_UA9 :1;
+        unsigned MS_KR_SH14:1;
+        unsigned MS_PK_I13 :1;
+        unsigned MS_PK_I6 :1;
+        unsigned MS_MC3 :1;
+        unsigned MS_SU5 :1;
+        unsigned MS_MC4 :1;
+        unsigned MS_KZ :1;
+        unsigned MS_SEP2 :1;
+        unsigned MS_PK_I5 :1;
+        unsigned MS_MC73 :1;
+        unsigned MS_PK_L17 :1;
+        unsigned MS_VIC18 :1;
+        unsigned MS_RUS3 :1;
+        unsigned MS_PK_K15 :1;
+        unsigned MS_MC1 :1;
+        unsigned MS_MC26 :1;
+        unsigned MS_PK_D17 :1;
+        unsigned MS_PK_G17 :1;
+        unsigned MS_KR_YU5 :1;
+        
+       } OK39_ND_2;
+	   
+	   
+	   
+	   
+	   
+	   struct {
+        unsigned MS_KR_YU6:1;
+        unsigned MS_PK_D5 :1;
+        unsigned MS3_EVOF1:1;
+        unsigned MS3_EVOF2:1;
+        unsigned MS3_EVOF3:1;
+        unsigned MS3_Col1 :1;
+        unsigned MS3_Col2:1;
+        unsigned MS3_VIC1_Key :1;
+        unsigned MS3_VIC2_Key :1;
+        unsigned MS3_EVOF1_Key1 :1;
+        unsigned MS3_EVOF1_Key2 :1;
+        unsigned MS3_EVOF2_Key1 :1;
+        unsigned MS3_EVOF2_Key2 :1;
+        unsigned MS3_EVOF_Key1 :1;
+        unsigned MS3_EVOF_Key2 :1;
+        unsigned MS3_Efir_Pwr_Key:1;       
+        unsigned MS3_CC39_Key1 :1;
+        unsigned MS3_CC39_Key2 :1;
+        unsigned MS3_CC39_Key3 :1;
+        unsigned MS3_MC43_Line :1;
+        unsigned MS3_PK_G15_Line :1;
+        unsigned MS3_Mark101_Line :1;
+        unsigned MS3_PK_G7_Line :1;
+        unsigned MS3_PK_G8_Line :1;
+        unsigned MS3_KR_E6_Line :1;
+        unsigned MS3_KR_E7_Line :1;
+        unsigned MS3_SU2_Line :1;
+        unsigned MS3_PK_V3_Line :1;
+        unsigned MS3_PK_V4_Line :1;
+        unsigned MS3_MC27_Line :1;
+        unsigned MS3_ACE1_Line :1;
+       }  OK39_ND_3;
+	   
+	   
+	   
+	   
+	   
+	   struct {
+        unsigned MS3_PK_A4_Line :1;
+        unsigned MS3_Mark91_Line :1;
+        unsigned MS3_Mark_91_Line :1;
+        unsigned MS3_MC42_Line :1;
+        unsigned MS3_MC29_Line :1;
+        unsigned MS3_PK_A3_Line :1;
+        unsigned MS3_MC69_Line; :1;
+        unsigned MS3_Mark94_Line :1;
+        unsigned MS3_Mark_94_Line :1;
+        unsigned MS3_PK_V1_Line :1;
+        unsigned MS3_PK_V2_Line :1;
+        unsigned MS3_SU1_Line :1;
+        unsigned MS3_KR_UA6_Line :1;
+        unsigned MS3_KR_UA9_Line :1;
+        unsigned MS3_VIC2_Line :1;
+        unsigned MS3_PK_I13_Line :1;
+        unsigned MS3_VIC1_Line :1;
+        unsigned MS3_PK_I6_Line :1;
+        unsigned MS3_MC3_Line :1;
+        unsigned MS3_SU5_Line :1;
+        unsigned MS3_MC4_Line3 :1;
+        unsigned MS3_KZ_Line3 :1;
+        unsigned MS3_SEP2_Line :1;
+        unsigned  MS3_PK_I5_Line :1;
+        unsigned MS3_MC73_Line :1;
+        unsigned MS3_RUS3_Line :1;
+        unsigned MS3_PK_K15_Line :1;
+        unsigned MS3_PK_DG17_Line1 :1;
+        unsigned MS3_PK_DG17_Line2 :1;
+        unsigned MS3_KR_YU5_6_Line :1;
+        unsigned MS3_PK_D5_Line :1;
+       // unsigned :1;
+       }  OK39_ND_4;
+	   
+	   
+	   
+	   
+	   struct {
+        unsigned MS3_OpenValve1_Line :1;
+        unsigned MS3_OpenV  alve2_Line :1;
+        unsigned MS3_CloseValves_Line :1;
+        unsigned MS3_CC39_Line :1;
+        unsigned MS3_CC48_Line :1;
+        unsigned MS3_CC49not122 :1;
+        unsigned  MS3_Mark122_Line1 :1;
+        unsigned MS3_MC4_Line1 :1;
+        unsigned MS3_MC4_Line2 :1;
+        unsigned MS3_KZ_Line1 :1;
+        unsigned MS3_KZ_Line2            :1;
+        unsigned  MS3_CC2_Line :1;
+       /* unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;
+        unsigned :1;*/
+       }  OK39_ND_5;
+
+
+
 
 } MNEMO_BUFF;
 
