@@ -1,0 +1,73 @@
+#include "comm.h"
+
+#include "def_mnemo.h"
+
+void UpravPitSSWP()
+{
+	 
+  PitSSWP_1.H_pt10=H_pt10;
+  PitSSWP_1.H_PK_V5=H_PK_V5;
+  PitSSWP_1.H_12_4d=H_12_4d;
+  PitSSWP_1.H_1V5=H_1V5;
+  PitSSWP_1.H_pt37=H_pt37;
+  PitSSWP_1.H1040=H1040;
+  PitSSWP_1.H764=H764;
+  PitSSWP_1.H766=H766;
+  PitSSWP_1.H_AC2=H_AC2;
+  PitSSWP_1.H_AC3=H_AC3;
+  PitSSWP_1.H_AC1=H_AC1;
+  PitSSWP_1.H748=H748;
+  PitSSWP_1.H774=H774;
+  PitSSWP_1.H766_zero=0;
+  PitSSWP_1.H742=H742;
+  PitSSWP_1.H753=H753;
+  PitSSWP_1.H_PK_D13=H_PK_D13;
+  PitSSWP_1.H754=H754;
+  PitSSWP_1.H_PZ_0p=H_PZ_0p;
+  PitSSWP_1.H_PZ_dl=H_PZ_dl;
+  PitSSWP_1.H745=H745;
+  PitSSWP_1.HR6657 =HR6657;
+  PitSSWP_1.H_5G17=H_5G17;
+  PitSSWP_1.H_PK_G17=H_PK_G17;
+  PitSSWP_1.H_1D8=H_1D8;
+  PitSSWP_1.H_1D7=H_1D7;
+  PitSSWP_1.bt26=0;
+  PitSSWP_1.bt27=0;
+  PitSSWP_1.bt28=0;
+  PitSSWP_1.bt29=0;
+  PitSSWP_1.bt30=0;
+  PitSSWP_1.bt31=0;
+
+  PitSSWP_2.H_PK_D9=H_PK_D9;
+  PitSSWP_2.H_PK_D11=H_PK_D11;
+  PitSSWP_2.bt2_zero=0;
+  PitSSWP_2.H743=H743;
+  PitSSWP_2.H747=H747;
+  PitSSWP_2.H750=H750;
+  PitSSWP_2.H_12_5=H_12_5;
+  PitSSWP_2.H_1D9=H_1D9;
+ PitSSWP_2. bt8_zero=0;
+ PitSSWP_2. H744=H744;
+  PitSSWP_2.H757=H757;
+  PitSSWP_2.H760=H760;
+  PitSSWP_2.H_PK_D17=H_PK_D17;
+  PitSSWP_2.H_PK_D15=H_PK_D15;
+  PitSSWP_2.H_1D15=H_1D15;
+  PitSSWP_2.H_6D17=H_6D17;
+  PitSSWP_2.H_PGS_C1=H_PGS_C1;
+  PitSSWP_2.H_PGS_0p=H_PGS_0p;
+  PitSSWP_2.bt18=0;
+  PitSSWP_2.bt19=0;
+  PitSSWP_2.bt20=0;
+  PitSSWP_2.bt21=0;
+  PitSSWP_2.bt22=0;
+  PitSSWP_2.bt23=0;
+  PitSSWP_2.bt24=0;
+  PitSSWP_2.bt25=0;
+ PitSSWP_2. bt26=0;
+ PitSSWP_2. bt27=0;
+  PitSSWP_2.bt28=0;
+  PitSSWP_2.bt29=0;
+  PitSSWP_2.bt30=0;
+  PitSSWP_2.bt31=0;
+}

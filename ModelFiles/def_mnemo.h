@@ -963,39 +963,57 @@ struct {
 	   
 	   
 	   struct {
-        unsigned MS3_OpenValve1_Line :1;
-        unsigned MS3_OpenV  alve2_Line :1;
-        unsigned MS3_CloseValves_Line :1;
-        unsigned MS3_CC39_Line :1;
-        unsigned MS3_CC48_Line :1;
-        unsigned MS3_CC49not122 :1;
-        unsigned  MS3_Mark122_Line1 :1;
-        unsigned MS3_MC4_Line1 :1;
-        unsigned MS3_MC4_Line2 :1;
-        unsigned MS3_KZ_Line1 :1;
-        unsigned MS3_KZ_Line2            :1;
-        unsigned  MS3_CC2_Line :1;
-       /* unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;
-        unsigned :1;*/
+        unsigned MS3_OpenValve1_Line :1;                      //   0 
+        unsigned MS3_OpenV  alve2_Line :1;                    //   1 
+        unsigned MS3_CloseValves_Line :1;                     //   2 
+        unsigned MS3_CC39_Line :1;                            //   3 
+        unsigned MS3_CC48_Line :1;                            //   4 
+        unsigned MS3_CC49not122 :1;                           //   5 
+        unsigned  MS3_Mark122_Line1 :1;                       //   6 
+        unsigned MS3_MC4_Line1 :1;                            //   7 
+        unsigned MS3_MC4_Line2 :1;                            //   8 
+        unsigned MS3_KZ_Line1 :1;                             //   9 
+        unsigned MS3_KZ_Line2            :1;                  //   10
+        unsigned  MS3_CC2_Line :1;                            //   11
+        unsigned MS3_EPSV1:1;                                 //   12
+        unsigned MS3_EPSV2:1;                                 //   13
+        unsigned MS3_PV1:1;                                   //   14
+        unsigned MS3_PV2:1;                                   //   15
+        unsigned MS_Close_value_2:1;                          //   16
+        unsigned MS3_SH14_Key:1;                              //   17
+        unsigned MS3_SKD1_Key:1;                              //   18
+        unsigned MS3_OVK1_Key:1;                              //   19
+        unsigned MS3_EVOF1_Key2_Line:1;                       //   20
+        unsigned MS3_EVOF2_Key2_Line:1;                       //   21
+        unsigned MS3_EVOF_Key2_Line:1;                        //   22
+        unsigned  MS3_SKD1_Key_Line:1;                        //   23
+        unsigned MS3_OVK1_Key_Line:1;                         //   24
+        unsigned MS3_SH14_Key_Line:1;                         //   25
+      /*  unsigned :1;                                        //   26
+        unsigned :1;                                          //   27
+        unsigned :1;                                          //   28
+        unsigned :1;                                          //   29
+        unsigned :1;                                          //   30
+        unsigned :1;*/                                        //   31
        }  OK39_ND_5;
+ struct {
+       
+       unsigned  MS3_EVOF1_Pipe:2;
+        unsigned MS3_EVOF2_Pipe:2;
+        unsigned MS3_EPSV1_Pipe:2;
+        unsigned MS3_EPSV2_Pipe:2;
+        unsigned MS3_Ballon1_Pipe:2;
+        unsigned MS3_Ballon2_Pipe:2;
+        unsigned MS3_Col1_new:2;
+        unsigned M3_col2_new:2;
+        /*unsigned :2;
+        unsigned :2;
+        unsigned :2;
+        unsigned :2;
+        unsigned :2;
+        unsigned :2;
+        unsigned :2;*/
+       }  OK39_ND_6;
 
 
 
@@ -1060,7 +1078,12 @@ extern MNEMO_BUFF mnemo_buff;
 #define OP_DPO2 mnemo_buff.OP_DPO2
 #define PitSSWP_1 mnemo_buff.PitSSWP_1
 #define PitSSWP_2 mnemo_buff.PitSSWP_2
-
+#define OK39_ND_1 mnemo_buff.OK39_ND_1
+#define OK39_ND_2 mnemo_buff.OK39_ND_2
+#define OK39_ND_3 mnemo_buff.OK39_ND_3
+#define OK39_ND_4 mnemo_buff.OK39_ND_4
+#define OK39_ND_5 mnemo_buff.OK39_ND_5
+#define OK39_ND_6 mnemo_buff.OK39_ND_6
 #define Mnemores_51 mnemo_buff.Mnemores_51
 
 

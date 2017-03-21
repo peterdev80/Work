@@ -2538,4 +2538,28 @@
       <int>1</int>
     </Mask>
   </VariableM>
+  <VariableM>
+    <VarID>Mnemo</VarID>
+    <VarName>__OK39_ND_6</VarName>
+    <Typ>BitStuct</Typ>
+    <Mask>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>2</int>
+      <int>1</int>
+    </Mask>
+    <Remark>ND 0-zap/1-activ/3-vakum</Remark>
+  </VariableM>
 </ArrayOfVariableM>
