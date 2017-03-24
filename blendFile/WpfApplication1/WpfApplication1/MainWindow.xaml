@@ -1,0 +1,22 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing" x:Class="WpfApplication1.MainWindow"
+        Title="MainWindow" Height="1080" Width="1920">
+	<Canvas>
+		<Canvas.Background>
+			<ImageBrush ImageSource="pack://siteoforigin:,,,/PR12 с №734.jpg"/>
+		</Canvas.Background>
+		<Path Data="M1431.2083,56.09375 L1326.9168,56.09375 1315.8961,65.787614 1315.9064,90.997577" Height="35.929" Canvas.Left="1315.899" Stretch="Fill" Stroke="Black" Canvas.Top="56.081" Width="116.309"/>
+		<Path Data="M-8.3765037,35.24414 L2.952252,43.87668 2.9522149,27.08126 z" Height="17.38" Canvas.Left="1430.5" Stretch="Fill" Stroke="Black" Canvas.Top="48.17" Width="12.164"/>
+		<Path Data="M196.5,123.5 L127.625,123.5 115.53426,133.72696 115.48067,377.16698 127.41578,387.53381 220.24967,387.47911 232.31221,377.43815" Height="265.033" Canvas.Left="115.48" Stretch="Fill" Stroke="Black" Canvas.Top="123.5" Width="117.833"/>
+		<Path Data="M1430.4167,81.152089 L1328.5912,81.147073 1316.113,91.762257" Height="11.195" Canvas.Left="1316.047" Stretch="Fill" Stroke="#FFFF1111" Canvas.Top="81.163" Width="115.37"/>
+		<Path Data="M1315.922,90.953155 L1315.922,120.4857" Height="30.531" Canvas.Left="1315.92" Stretch="Fill" Stroke="#FFFF1111" Canvas.Top="90.978" Width="1"/>
+		<Path Data="M1315.9167,418.41667 L1315.9167,458.00001 1304.7496,467.29152" Height="49.876" Canvas.Left="1304.75" Stretch="Fill" Stroke="#FFFF1111" Canvas.Top="418.416" Width="12.167"/>
+		<Path Data="M1479.5,524.375 L1328.125,524.375 1315.7583,513.36565 1315.8673,477.16639 1304.5,467.45799" Height="57.917" Canvas.Left="1304.5" Stretch="Fill" Stroke="#FFFF1111" Canvas.Top="467.458" Width="176"/>
+		<Path Data="M1677.125,525.375 L1637.25,525.375" Height="1" Canvas.Left="1637.25" Stretch="Fill" Stroke="#FFFF1111" Canvas.Top="525.375" Width="40.875"/>
+		<Path Data="M1637.875,525.83333 L1599.7007,488.79728 1513.4531,489.23905 1479,524.32844" Height="38.036" Canvas.Left="1479" Stretch="Fill" Stroke="#FFFF1111" Canvas.Top="488.797" Width="159.875"/>
+		<Path Data="M1637.25,525.82813 L1603.6992,559.41801 1520.562,559.49272 1479.1865,524.18731" Height="36.306" Canvas.Left="1479.188" Stretch="Fill" Stroke="#FFFF1111" Canvas.Top="524.187" Width="159.062"/>
+		<Path Data="M1304.75,467.45867 L969.75,467.45867" Height="1" Canvas.Left="969.75" Stretch="Fill" Stroke="#FFFF1111" Canvas.Top="467.462" Width="336"/>
+	</Canvas>
+</Window>

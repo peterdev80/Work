@@ -209,6 +209,9 @@
     <Compile Include="View\ViewPitSEP_MC.xaml.cs">
       <DependentUpon>ViewPitSEP_MC.xaml</DependentUpon>
     </Compile>
+    <Compile Include="View\ViewPR12_MC.xaml.cs">
+      <DependentUpon>ViewPR12_MC.xaml</DependentUpon>
+    </Compile>
     <Compile Include="View\ViewSEP.xaml.cs">
       <DependentUpon>ViewSEP.xaml</DependentUpon>
     </Compile>
@@ -361,6 +364,10 @@
       <SubType>Designer</SubType>
     </Page>
     <Page Include="View\ViewPitSEP_MC.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="View\ViewPR12_MC.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>

@@ -136,22 +136,14 @@
     <Resource Include="Data\SerializationFKDU_MC.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Data\SerializationUDPO_MC — копия.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Data\RoutedPitSSVP_MC — копия.xml" />
-  </ItemGroup>
-  <ItemGroup>
-    <Resource Include="Data\RoutedUDPO_MC — копия.xml" />
-  </ItemGroup>
-  <ItemGroup>
     <Resource Include="Data\SerializationSR32_MC.xml" />
   </ItemGroup>
   <ItemGroup>
     <Resource Include="Data\RoutedSR32_MC.xml" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="Data\RoutedSR32_MC — копия.xml" />
+    <Resource Include="Data\RoutedPR12_MC.xml" />
+    <Resource Include="Data\SerializationPR12_MC.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
