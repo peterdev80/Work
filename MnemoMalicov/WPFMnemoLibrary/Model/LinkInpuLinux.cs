@@ -166,8 +166,19 @@ namespace WPFMnemoLibrary.Model
                         d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_1").VarM).VarBitInt = BitConverter.ToInt32(message, 48 * 4)));
                         d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_2").VarM).VarBitInt = BitConverter.ToInt32(message, 49 * 4)));
                         //питание ссвп
-                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_1").VarM).VarBitInt = BitConverter.ToInt32(message, 50 * 4)));
-                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_2").VarM).VarBitInt = BitConverter.ToInt32(message, 51 * 4)));
+                       // d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_1").VarM).VarBitInt = BitConverter.ToInt32(message, 50 * 4)));
+                       // d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PTVOD_PODVOD_2").VarM).VarBitInt = BitConverter.ToInt32(message, 51 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PitSSWP_1").VarM).VarBitInt = BitConverter.ToInt32(message, 50 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PitSSWP_2").VarM).VarBitInt = BitConverter.ToInt32(message, 51 * 4)));
+
+                        //nadduv
+
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__OK39_ND_1").VarM).VarBitInt = BitConverter.ToInt32(message, 52 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__OK39_ND_2").VarM).VarBitInt = BitConverter.ToInt32(message, 53 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__OK39_ND_3").VarM).VarBitInt = BitConverter.ToInt32(message, 54 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__OK39_ND_4").VarM).VarBitInt = BitConverter.ToInt32(message, 55 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__OK39_ND_5").VarM).VarBitInt = BitConverter.ToInt32(message, 56 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__OK39_ND_6").VarM).VarBitInt = BitConverter.ToInt32(message, 57 * 4)));
 
 
 

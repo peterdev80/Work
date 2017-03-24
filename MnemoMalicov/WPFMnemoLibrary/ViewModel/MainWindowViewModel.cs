@@ -216,7 +216,7 @@ namespace WPFMnemoLibrary.ViewModel
 
                 new CommandViewModel(
                     "OK39",
-                    new RelayCommand(param => {selectModel=  "КДУ"; Model=new View.ViewNaduvMC();}))
+                    new RelayCommand(param => {selectModel=  "OK39"; Model=new View.ViewNaduvMC();}))
 
 
 

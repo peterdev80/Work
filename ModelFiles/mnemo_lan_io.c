@@ -10,6 +10,9 @@ MNEMO_BUFF mnemo_buff;
 
 
  void UpravKDU(void);
+ void Uprav_OP_DPO();
+ void UpravPitSSWP();
+ void UpraOK39();
 void lan_out_mnemo_run();
 void lan_out_mnemo_freeze() { lan_out_mnemo_run(); };
 void lan_out_mnemo_init()
@@ -436,6 +439,8 @@ void lan_out_mnemo_run()
 	UpravSOTR_MC();
 	UpravKDU();
 	Uprav_OP_DPO();
+	UpravPitSSWP();
+     UpraOK39();
 	
 
 #ifndef FMS700

@@ -120,6 +120,13 @@ namespace WPFMnemoLibrary.Model
                 //питание ссвп
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PitSSWP_1").VarM).VarBitInt = (Int32)rd.ReadUInt32();
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PitSSWP_2").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                //nadduv OK39
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_1").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_2").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_3").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_4").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_5").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_6").VarM).VarBitInt = (Int32)rd.ReadUInt32();
 
             }
         }
