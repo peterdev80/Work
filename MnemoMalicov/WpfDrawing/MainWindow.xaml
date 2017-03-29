@@ -64,7 +64,7 @@
 
             <ScrollViewer HorizontalScrollBarVisibility="Visible" VerticalScrollBarVisibility="Visible"  Name="scrImage" Width="1391" Height="819">
 
-                <lib:MnemoCanvas Name="MC"  Width="1429" Height="920" Visibility="Visible" Background="#FFF2ECEC">
+                <lib:MnemoCanvas Name="MC"  Width="1929" Height="1024" Visibility="Visible" Background="#FFF2ECEC">
                 </lib:MnemoCanvas>
 
             </ScrollViewer>
