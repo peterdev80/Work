@@ -21,7 +21,7 @@
         <vm:ViewModelEditor x:Key="modelFKDU_MC" FShema="SerializationFKDU_MC.xml" FRout="RoutedFKDU_MC.xml" />
         <vm:ViewModelEditor x:Key="modelkdu700" FShema="SerializationKDU.xml" FRout="KDURouted.xml" />
         <vm:ViewModelEditor x:Key="modelUDPO_MC" FShema="SerializationUDPO_MC.xml" FRout="RoutedUDPO_MC.xml" />
-        <vm:ViewModelEditor x:Key="modelok39" FShema="SerializationSR32_MC.xml" FRout="RoutedSR32_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelSR32_M" FShema="SerializationSR32_MC.xml" FRout="RoutedSR32_MC.xml" />
         <vm:ViewModelEditor x:Key="model" FShema="SerializationPR12_MC.xml" FRout="RoutedPR12_MC.xml" />
     </Window.Resources>
     <StackPanel  Name="stackPanel1" DataContext="{Binding Source={StaticResource model}}" >

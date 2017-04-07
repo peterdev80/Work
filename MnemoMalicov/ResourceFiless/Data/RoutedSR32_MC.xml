@@ -20,6 +20,9 @@
       <StringItem>
         <Value>kl417_379</Value>
       </StringItem>
+      <StringItem>
+        <Value>kl420_51</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__OK39_ND_1</ValueName>
     <TypRoute>0</TypRoute>
@@ -2005,6 +2008,9 @@
     <NameGraphics>
       <StringItem>
         <Value>kl526_487</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl473_36</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__OK39_ND_3</ValueName>
@@ -4954,6 +4960,9 @@
       <StringItem>
         <Value>kl281_250</Value>
       </StringItem>
+      <StringItem>
+        <Value>kl282_171</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__OK39_ND_5</ValueName>
     <TypRoute>0</TypRoute>
@@ -4976,6 +4985,9 @@
       </StringItem>
       <StringItem>
         <Value>kl30_23</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl26_1</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__OK39_ND_5</ValueName>
