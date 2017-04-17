@@ -1,0 +1,149 @@
+   0                 MS_Selection1CEU                        =MS_Section1CEU;      
+   1                 MS_Selection2CEU                         =MS_Section2CEU;      
+   2                 MS_Section1SC                            =MS_Section1SC;       
+   3                 MS_Section2SC                            =MS_Section2SC;       
+   4                 MS_SuperCharging                         =MS_SuperCharging;    
+   5                 MS_OffBlockingSC                         =MS_OffBlockingSC;    
+   6                 MS_UnionCollectors                       =MS_UnionCollectors;  
+   7                 MS_Mark94p                               
+   7                 MS_Mark94m 
+   8                 MS_Mark106m 
+   9                 MS_Mark93m 
+   10                MS_Mark98m 
+   11                MS_Mark99p 
+   12                MS_Mark19p 
+   13                MS_Mark39p 
+   14                 MS_Mark40p 
+   15                MS_Mark148p 
+   16                MS_Mark101p 
+   17                MS_Mark155p 
+   18                MS_Mark156p 
+   19                MS_Mark147m 
+   20                MS_Mark158m 
+   20                MS_Mark158p
+   21                MS_Mark66m 
+   21                MS_Mark66p 
+   22                MS_Mark141p 
+   23                MS_Mark91p 
+   23                MS_Mark91m 
+   24                MS_Mark122p     
+   25                MS_LogicOperation8_33 
+   26                MS_CC1 
+   27                MS_CC2 
+   28                MS_CC32 
+   29                MS_CC33 
+   30                MS_CC29 
+                   ------------------OK39_ND_1--------------------------------------------
+ 0             	   MS_CC39 
+ 1                 MS_CC48 
+ 2                 MS_CC49 
+ 3                 MS_CC62 
+ 4                 MS_KR_UA1 
+ 5                 MS_MC27 
+ 6                 MS_MC70 
+ 7                 MS_ACE1 
+ 8                 MS_MC30 
+ 9                 MS_MC42 
+ 10                MS_KR_UA6 
+ 11                MS_KR_UA9 
+ 12                MS_KR_SH14 
+ 13                MS_PK_I13 
+ 14                MS_PK_I6 
+ 15                MS_MC3 
+ 16                MS_SU5 
+ 17                MS_MC4 
+ 18                MS_KZ 
+ 19                MS_SEP2 
+ 20                MS_PK_I5 
+ 21                MS_MC73 
+ 22                MS_PK_L17 
+ 23                MS_VIC18 
+ 24                MS_RUS3 
+ 25                MS_PK_K15 
+ 26                MS_MC1 
+ 27                MS_MC26 
+ 28                MS_PK_D17 
+ 29                MS_PK_G17 
+ 30                MS_KR_YU5 
+               ------------------------------OK39_ND_2-----------------------------------------------    
+ 0               	MS_KR_YU6 
+ 1                  MS_PK_D5 
+ 2                  MS3_EVOF1 
+ 3                  MS3_EVOF2 
+ 4                  MS3_EVOF3 
+ 5                  MS3_Col1 
+5                   MS3Col1_1
+ 6                  MS3_Col2
+6                   MS3Col2_1              
+ 7                  MS3_VIC1_Key 
+ 8                  MS3_VIC2_Key 
+ 9                  MS3_EVOF1_Key1 
+ 10                 MS3_EVOF1_Key2 
+ 11                 MS3_EVOF2_Key1 
+ 12                 MS3_EVOF2_Key2 
+ 13                 MS3_EVOF_Key1 
+ 14                 MS3_EVOF_Key2 
+ 15                 MS3_Efir_Pwr_Key
+ 15                 MS3_Efir_Pwr_Key_red	  
+ 16                 MS3_CC39_Key1 
+ 17                 MS3_CC39_Key2 
+ 18                 MS3_CC39_Key3 
+ 19                 MS3_MC43_Line 
+ 20                 MS3_PK_G15_Line 
+ 21                 MS3_Mark101_Line 
+ 22                 MS3_PK_G7_Line 
+ 23                 MS3_PK_G8_Line 
+ 24                 MS3_KR_E6_Line 
+ 25                 MS3_KR_E7_Line 
+ 26                 MS3_SU2_Line 
+ 27                 MS3_PK_V3_Line 
+ 28                 MS3_PK_V4_Line 
+ 29                 MS3_MC27_Line 
+ 30                 MS3_ACE1_Line 
+               	 ------------------------OK39_ND_3-------------------------------------------------
+ 0                  MS3_PK_A4_Line 
+ 1                  MS3_Mark91_Line 
+ 2                  MS3_Mark_91_Line 
+ 3                  MS3_MC42_Line 
+ 4                  MS3_MC29_Line 
+ 5                  MS3_PK_A3_Line 
+ 6                  MS3_MC69_Line; 
+ 7                  MS3_Mark94_Line 
+ 8                  MS3_Mark_94_Line 
+ 9                  MS3_PK_V1_Line 
+ 10                 MS3_PK_V2_Line 
+ 11                 MS3_SU1_Line 
+ 12                 MS3_KR_UA6_Line 
+ 13                 MS3_KR_UA9_Line 
+ 14                 MS3_VIC2_Line 
+ 15                 MS3_PK_I13_Line 
+ 16                 MS3_VIC1_Line 
+ 17                 MS3_PK_I6_Line 
+ 18                 MS3_MC3_Line 
+ 19                 MS3_SU5_Line 
+ 20                 MS3_MC4_Line3 
+ 21                 MS3_KZ_Line3 
+ 22                 MS3_SEP2_Line 
+ 23                  MS3_PK_I5_Line 
+ 24                 MS3_MC73_Line 
+ 25                 MS3_RUS3_Line 
+ 26                 MS3_PK_K15_Line 
+ 27                 MS3_PK_DG17_Line1 
+ 28                 MS3_PK_DG17_Line2 
+ 29                 MS3_KR_YU5_6_Line 
+ 30                 MS3_PK_D5_Line 
+               	 ----------------------OK39_ND_4-----------------------------------------------------
+ 0                  MS3_OpenValve1_Line 
+ 1                  MS3_OpenV  alve2_Line 
+ 2                  MS3_CloseValves_Line 
+ 3                  MS3_CC39_Line 
+ 4                  MS3_CC48_Line 
+ 5                  MS3_CC49not122 
+ 6                   MS3_Mark122_Line1 
+ 7                  MS3_MC4_Line1 
+ 8                  MS3_MC4_Line2 
+ 9                  MS3_KZ_Line1 
+ 10                 MS3_KZ_Line2                     
+ 11                  MS3_CC2_Line 
+               	  
+               	  ------------------OK39_ND_5-------------------------------------------
