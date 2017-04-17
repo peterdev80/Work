@@ -34,10 +34,10 @@ typedef struct MNEMO_BUFF_
 		unsigned mmvMS_Mark138 : 1;//24
 		unsigned mmvMS_Mark141 : 1;//25
 		unsigned mnvMS_Mark158 : 1;//26
-	   //  unsigned mnvd3_5                    :1;//27
-	   // unsigned mnvSYGN47                   :1;//28
-	   // unsigned mnvSYGN202                  :1;//29
-	  //  unsigned mnvtSKD                     :1;//30
+	     unsigned mMS2_SE1_Key   :1;//27
+	     unsigned mMS2_SE2_Key   :1;//28
+	    unsigned mMS2_MOE_Key1                  :1;//29
+	    unsigned mMS2_MOE_Key2                  :1;//30
 	  //   unsigned mnvSYGN239                 :1;//31
 
 
@@ -815,37 +815,37 @@ struct {
 	   
 struct 
 {
-        unsigned MS_Selection1CEU  :1;
-        unsigned MS_Selection2CEU  :1;
-        unsigned MS_Section1SC     :1;
-        unsigned MS_Section2SC     :1;
-        unsigned MS_SuperCharging  :1;
-        unsigned MS_OffBlockingSC  :1;
-        unsigned MS_UnionCollectors :1;
-        unsigned MS_Mark94p_m      :1;       
-        unsigned MS_Mark106m :1;
-        unsigned MS_Mark93m :1;
-        unsigned MS_Mark98m :1;
-        unsigned MS_Mark99p :1;
-        unsigned MS_Mark19p :1;
-        unsigned MS_Mark39p :1;
-        unsigned  MS_Mark40p :1;
-        unsigned MS_Mark148p :1;
-        unsigned MS_Mark101p :1;
-        unsigned MS_Mark155p :1;
-        unsigned MS_Mark156p :1;
-        unsigned MS_Mark147m :1;
-        unsigned MS_Mark158p_m :1;      
-        unsigned MS_Mark66p_m :1;
-        unsigned MS_Mark141p :1;
-        unsigned MS_Mark91p_m :1;       
-        unsigned MS_Mark122p     :1;
-        unsigned MS_LogicOperation8_33 :1;
-        unsigned MS_CC1 :1;
-        unsigned MS_CC2 :1;
-        unsigned  MS_CC32 1;
-	    unsigned         MS_CC33 :1;
-        unsigned         MS_CC29 :1;
+   unsigned MS_Selection1CEU  :1;   //0 
+   unsigned MS_Selection2CEU  :1;   //1 
+   unsigned MS_Section1SC     :1;   //2 
+   unsigned MS_Section2SC     :1;   //3 
+   unsigned MS_SuperCharging  :1;   //4 
+   unsigned MS_OffBlockingSC  :1;   //5 
+   unsigned MS_UnionCollectors :1;  //6 
+   unsigned MS_Mark94p_m      :1;   //7     
+   unsigned MS_Mark106m :1;         //8 
+   unsigned MS_Mark93m :1;          //9 
+   unsigned MS_Mark98m :1;          //10
+   unsigned MS_Mark99p :1;          //11
+   unsigned MS_Mark19p :1;          //12
+   unsigned MS_Mark39p :1;          //13
+   unsigned  MS_Mark40p :1;         //14
+   unsigned MS_Mark148p :1;         //15
+   unsigned MS_Mark101p :1;         //16
+   unsigned MS_Mark155p :1;         //17
+   unsigned MS_Mark156p :1;         //18
+   unsigned MS_Mark147m :1;         //19
+   unsigned MS_Mark158p_m :1;       //20
+   unsigned MS_Mark66p_m :1;        //21
+   unsigned MS_Mark141p :1;         //22
+   unsigned MS_Mark91p_m :1;        //23
+   unsigned MS_Mark122p     :1;     //24
+   unsigned MS_LogicOperation8_33 :1; //25;
+   unsigned MS_CC1 :1;              //26
+   unsigned MS_CC2 :1;              //27
+   unsigned  MS_CC32 1;             //28
+   unsigned         MS_CC33 :1;     //29
+   unsigned         MS_CC29 :1;     //30
 } OK39_ND_1;
 struct {
         unsigned MS_CC39 :1;

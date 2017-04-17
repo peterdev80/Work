@@ -71,6 +71,11 @@ void UpravOK29(void)
 	UKDU_1.mmvMS_Mark138 = MS_Mark138;
 	UKDU_1.mmvMS_Mark141 = MS_Mark141;
 	UKDU_1.mnvMS_Mark158 = MS_Mark158;
+	
+	UKDU_1.mMS2_SE1_Key  = MS2_SE1_Key;
+	UKDU_1.mMS2_SE2_Key  = MS2_SE2_Key;
+	UKDU_1.mMS2_MOE_Key1 = MS2_MOE_Key1;
+	UKDU_1.mMS2_MOE_Key2 = MS2_MOE_Key2;
 
 	UKDU_2.mnvMS2_Mark138_Line = MS2_Mark138_Line;
 	UKDU_2.mnvMS2_Mark66_Line = MS2_Mark66_Line;

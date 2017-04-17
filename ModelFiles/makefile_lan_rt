@@ -1,0 +1,71 @@
+-include /simulator/server/soft/rt_nrt/moptmc
+
+
+OBJ_LIST= \
+	$(LAN_SOFT_OBJ)/klapany_lan_io.o\
+	$(LAN_SOFT_OBJ)/mnemo_lan_io.o\
+	$(LAN_SOFT_OBJ)/mnemo_lan_io_FKDU.o\
+	$(LAN_SOFT_OBJ)/mnemo_lan_io_OK39.o\
+	$(LAN_SOFT_OBJ)/mnemo_lan_io_OP_DPO.o\
+	$(LAN_SOFT_OBJ)/mnemo_lan_io_PitSSWP.o\
+	$(LAN_SOFT_OBJ)/vega.o\
+	$(LAN_SOFT_OBJ)/cf_lan_io.o\
+	$(LAN_SOFT_OBJ)/vs_protocol.o\
+	$(LAN_SOFT_OBJ)/inpu_lan_io.o\
+	$(LAN_SOFT_OBJ)/vs_lan_io_vega.o
+
+H_LIST= \
+	$(IDC)/comm.h \
+	$(IDC)/lan.h \
+	$(IDC)/vs_protocol_defs.h \
+	$(IDS)/def_vars.h \
+	$(ID)/def_models.h \
+	$(ID)/def_lan_abnts.h \
+	$(IDS)/def_names.h \
+	$(IDS)/def_ast.h \
+	$(IDC)/def_rtnrt_com.h
+
+$(LAN_SOFT_OBJ)/liblan_rt.a: $(OBJ_LIST) $(H_LIST)
+	ar ruv $(LAN_SOFT_OBJ)/liblan_rt.a $(OBJ_LIST) > /dev/null 2>&1
+
+
+$(LAN_SOFT_OBJ)/mnemo_lan_io_OK39.o: $(LAN_SOFT_SRC)/mnemo_lan_io_OK39.c $(H_LIST) $(ID)/def_mnemo.h
+	echo "  CPP  mnemo_lan_io.c_OK39" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/mnemo_lan_io_OK39.c  -c -o $(LAN_SOFT_OBJ)/mnemo_lan_io_OK39.o
+
+$(LAN_SOFT_OBJ)/mnemo_lan_io_OP_DPO.o: $(LAN_SOFT_SRC)/mnemo_lan_io_OP_DPO.c $(H_LIST) $(ID)/def_mnemo.h
+	echo "  CPP  mnemo_lan_io.c_OK39" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/mnemo_lan_io_OP_DPO.c  -c -o $(LAN_SOFT_OBJ)/mnemo_lan_io_OP_DPO.o
+
+$(LAN_SOFT_OBJ)/mnemo_lan_io_PitSSWP.o: $(LAN_SOFT_SRC)/mnemo_lan_io_PitSSWP.c $(H_LIST) $(ID)/def_mnemo.h
+	echo "  CPP  mnemo_lan_io.c_OK39" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/mnemo_lan_io_PitSSWP.c  -c -o $(LAN_SOFT_OBJ)/mnemo_lan_io_PitSSWP.o
+
+
+
+
+
+
+$(LAN_SOFT_OBJ)/vega.o: $(LAN_SOFT_SRC)/vega.c $(H_LIST)               
+	$(CC) $(CPPFLAGS) $(LAN_SOFT_SRC)/vega.c -c -o $(LAN_SOFT_OBJ)/vega.o && echo "  $(CC)  vega.c"
+
+$(LAN_SOFT_OBJ)/cf_lan_io.o: $(LAN_SOFT_SRC)/cf_lan_io.c $(H_LIST) $(ID)/def_cf.h
+	echo "  CPP  cf_lan_io.c" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/cf_lan_io.c  -c -o $(LAN_SOFT_OBJ)/cf_lan_io.o
+
+$(LAN_SOFT_OBJ)/klapany_lan_io.o: $(LAN_SOFT_SRC)/klapany_lan_io.c $(H_LIST) $(ID)/def_klapany.h
+	echo "  CPP  klapany_lan_io.c" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/klapany_lan_io.c  -c -o $(LAN_SOFT_OBJ)/klapany_lan_io.o
+
+$(LAN_SOFT_OBJ)/mnemo_lan_io.o: $(LAN_SOFT_SRC)/mnemo_lan_io.c $(H_LIST) $(ID)/def_mnemo.h
+	echo "  CPP  mnemo_lan_io.c" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/mnemo_lan_io.c  -c -o $(LAN_SOFT_OBJ)/mnemo_lan_io.o
+
+
+$(LAN_SOFT_OBJ)/mnemo_lan_io_FKDU.o: $(LAN_SOFT_SRC)/mnemo_lan_io_FKDU.c $(H_LIST) $(ID)/def_mnemo.h
+	echo "  CPP  mnemo_lan_io_FKDU.c" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/mnemo_lan_io_FKDU.c  -c -o $(LAN_SOFT_OBJ)/mnemo_lan_io_FKDU.o
+
+
+$(LAN_SOFT_OBJ)/vs_protocol.o: $(LAN_SOFT_SRC)/vs_protocol.c $(H_LIST) $(SERVER)/soft/include/vs_protocol_defs.h
+	echo "  CPP  vs_protocol.c" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/vs_protocol.c  -c -o $(LAN_SOFT_OBJ)/vs_protocol.o
+
+$(LAN_SOFT_OBJ)/inpu_lan_io.o: $(LAN_SOFT_SRC)/inpu_lan_io.c $(H_LIST)
+	echo "  CPP  inpu_lan_io.c" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/inpu_lan_io.c  -c -o $(LAN_SOFT_OBJ)/inpu_lan_io.o
+
+$(LAN_SOFT_OBJ)/vs_lan_io_vega.o: $(LAN_SOFT_SRC)/vs_lan_io_vega.c $(H_LIST) $(SERVER)/soft/include/vs_protocol_defs.h
+	echo "  CPP  vs_lan_io_vega.c" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/vs_lan_io_vega.c  -c -o $(LAN_SOFT_OBJ)/vs_lan_io_vega.o
+
