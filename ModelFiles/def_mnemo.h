@@ -1014,6 +1014,74 @@ struct {
         unsigned :2;
         unsigned :2;*/
        }  OK39_ND_6;
+	struct {
+       
+        unsigned msH1060:1;
+        unsigned msQ33:1;
+        unsigned msK1763:1;
+	} PR12_MC_F;
+	
+	struct {
+		unsigned ms_H_PK_D9   :1; 
+        unsigned ms_H_PK_D11  :1; 
+        unsigned ms_H_PK_D15  :1; 
+        unsigned ms_H_PK_D17  :1; 
+        unsigned ms_H_PK_D13  :1; 
+        unsigned ms_H_PK_G17  :1; 
+        unsigned ms_H_AC1     :1; 
+        unsigned ms_H_AC2     :1; 
+        unsigned ms_H_AC4     :1; 
+        unsigned ms_H_AC3     :1; 
+        unsigned ms_H_AC5     :1; 
+        unsigned ms_H_OSM     :1; 
+        unsigned ms_H_R_OSM_19   :1; 
+        unsigned ms_H_R_OSM_148  :1; 
+        unsigned ms_H_12_5    :1; 
+        unsigned ms_H_12_6    :1; 
+        unsigned ms_H_12_0    :1; 
+        unsigned ms_mn_pr12_cst2_O2  :1; 
+        unsigned ms_mn_pr12_cst2_O3  :1; 
+        unsigned ms_mn_pr12_pk_i5    :1; 
+        unsigned ms_SYGN239   :1; 
+        unsigned ms_T2385     :1; 
+        unsigned ms_X35       :1; 
+        unsigned ms_A15       :1; 
+        unsigned ms_A14       :1; 
+        unsigned ms_A13       :1; 
+        unsigned ms_mn_pr12_pk_i6    :1; 
+        unsigned ms_mn_pr12_otk_cvm  :1; 
+        unsigned ms_mn_pr12_ud4      :1; 
+        unsigned ms_mn_pr12_umin2    :1; 
+        unsigned ms_mn_pr12_obk      :1; 
+	} PR12_MC_1;
+	
+	struct {
+		unsigned ms_mn_pr12_ok51  :1; 
+        unsigned ms_sbrosprogramm  :1; 
+        unsigned ms_isRPVU  :1; 
+        unsigned ms_mn_pr12_ud61  :1; 
+        unsigned ms_H_9_0  :1; 
+        unsigned ms_H_11_0  :1; 
+        unsigned ms_mn_pr12_cst2_04  :1; 
+        unsigned ms_TS_35  :1; 
+        unsigned ms_SYGN232  :1; 
+        unsigned ms_mn_pr12_rus2  :1; 
+        unsigned ms_SYGN62  :1; 
+        unsigned ms_mn_pr12_pk_z7  :1; 
+        unsigned ms_SYGN221  :1; 
+        unsigned ms_TS_26  :1; 
+        unsigned ms_mn_pr12_cst2_01  :1; 
+        unsigned ms_SYGN_801  :1; 
+        unsigned ms_SYGN1_802  :1; 
+        unsigned ms_SYGN1_803  :1; 
+        unsigned ms_SYGN1_804  :1; 
+        unsigned ms_SYGN1_805  :1; 
+        unsigned ms_SYGN1_806  :1; 
+	} PR12_MC_2;
+	
+
+	PR12_MC_2;  
+	   
 
 
 
@@ -1084,6 +1152,10 @@ extern MNEMO_BUFF mnemo_buff;
 #define OK39_ND_4 mnemo_buff.OK39_ND_4
 #define OK39_ND_5 mnemo_buff.OK39_ND_5
 #define OK39_ND_6 mnemo_buff.OK39_ND_6
+#define PR12_MC_F mnemo_buff.PR12_MC_F;
+#define PR12_MC_1 mnemo_buff.PR12_MC_1;
+#define PR12_MC_2 mnemo_buff.PR12_MC_2;
+#define PR12_MC_3 mnemo_buff.PR12_MC_3;
 #define Mnemores_51 mnemo_buff.Mnemores_51
 
 

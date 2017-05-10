@@ -155,7 +155,7 @@
         <Value>kl121_43</Value>
       </StringItem>
       <StringItem>
-        <Value>kl241_184</Value>
+        <Value>kl145_42</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_1</ValueName>
@@ -645,7 +645,7 @@
         <Value>pBlack</Value>
       </StringItem>
       <StringItem>
-        <Value>pRed</Value>
+        <Value>pBlue</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -1053,6 +1053,12 @@
       <StringItem>
         <Value>l265_97</Value>
       </StringItem>
+      <StringItem>
+        <Value>kl265_128</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl269_21</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_2</ValueName>
     <TypRoute>0</TypRoute>
@@ -1072,6 +1078,9 @@
     <NameGraphics>
       <StringItem>
         <Value>l238_236</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl241_184</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_1</ValueName>
@@ -1252,6 +1261,12 @@
       <StringItem>
         <Value>kl123_36</Value>
       </StringItem>
+      <StringItem>
+        <Value>l54_1</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl124_2</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_2</ValueName>
     <TypRoute>0</TypRoute>
@@ -1271,6 +1286,12 @@
     <NameGraphics>
       <StringItem>
         <Value>kl176_6</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l266_111</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl267_45</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_2</ValueName>
@@ -1564,5 +1585,108 @@
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
     <ValuePos>29</ValuePos>
+  </Route>
+  <Route>
+    <Name>Q51_Red</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pRed</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl111_42</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__PTVOD_PODVOD_2</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>18</ValuePos>
+  </Route>
+  <Route>
+    <Name>H772_Red</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pRed</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl122_21</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__PTVOD_PODVOD_2</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>15</ValuePos>
+  </Route>
+  <Route>
+    <Name>H1060</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl106_102</Value>
+      </StringItem>
+      <StringItem>
+        <Value>vl86_15</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__PR12_MC_F</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>0</ValuePos>
+  </Route>
+  <Route>
+    <Name>Q33</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl104_82</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__PR12_MC_F</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>1</ValuePos>
+  </Route>
+  <Route>
+    <Name>K1763</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl102_76</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__PR12_MC_F</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>3</ValuePos>
   </Route>
 </ArrayOfRoute>

@@ -126,8 +126,14 @@ namespace WPFMnemoLibrary.Model
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_3").VarM).VarBitInt = (Int32)rd.ReadUInt32();
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_4").VarM).VarBitInt = (Int32)rd.ReadUInt32();
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_5").VarM).VarBitInt = (Int32)rd.ReadUInt32();
-                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_6").VarM).VarBitInt = (Int32)rd.ReadUInt32();
-
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__OK39_ND_6").VarM).VarBitInt = (Int32)rd.ReadUInt32(); 
+                //PR12
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PR12_MC_F").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PR12_MC_1").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__PR12_MC_2").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((FloatVar)ViewModelVariableList.Instance.GetVariable("__PR12_MC_3").VarM).VaRStatefloat = rd.ReadSingle();
+                //Выбор схемы
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__select_MFL").VarM).VarBitInt = (Int32)rd.ReadUInt32();
             }
         }
     }

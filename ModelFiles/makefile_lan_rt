@@ -8,6 +8,7 @@ OBJ_LIST= \
 	$(LAN_SOFT_OBJ)/mnemo_lan_io_OK39.o\
 	$(LAN_SOFT_OBJ)/mnemo_lan_io_OP_DPO.o\
 	$(LAN_SOFT_OBJ)/mnemo_lan_io_PitSSWP.o\
+	$(LAN_SOFT_OBJ)/mnemo_lan_io_PR12.o\
 	$(LAN_SOFT_OBJ)/vega.o\
 	$(LAN_SOFT_OBJ)/cf_lan_io.o\
 	$(LAN_SOFT_OBJ)/vs_protocol.o\
@@ -37,6 +38,9 @@ $(LAN_SOFT_OBJ)/mnemo_lan_io_OP_DPO.o: $(LAN_SOFT_SRC)/mnemo_lan_io_OP_DPO.c $(H
 
 $(LAN_SOFT_OBJ)/mnemo_lan_io_PitSSWP.o: $(LAN_SOFT_SRC)/mnemo_lan_io_PitSSWP.c $(H_LIST) $(ID)/def_mnemo.h
 	echo "  CPP  mnemo_lan_io.c_OK39" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/mnemo_lan_io_PitSSWP.c  -c -o $(LAN_SOFT_OBJ)/mnemo_lan_io_PitSSWP.o
+
+	$(LAN_SOFT_OBJ)/mnemo_lan_io_PR12: $(LAN_SOFT_SRC)/mnemo_lan_io_PR12.c $(H_LIST) $(ID)/def_mnemo.h
+	echo "  CPP  mnemo_lan_io_PR12" && g++ $(CPPFLAGS) $(LAN_SOFT_SRC)/mnemo_lan_io_PR12.c  -c -o $(LAN_SOFT_OBJ)/mnemo_lan_io_PR12.o
 
 
 

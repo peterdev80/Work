@@ -38,13 +38,13 @@ namespace PultMnemo
                 {
 
 
+                    Random rnd = new Random();
 
-                  
                     var val = ViewModelVariableList.Instance;
                     var d = ((BitIntVar)val.GetVariable("__UKDU_1").VarM).Dispatcher;
 
 
-                    d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__MNEMO_RES_51").VarM).VarBitInt = 2));
+                    d.Invoke(new Action(() => ((IntVar)val.GetVariable("__select_MFL").VarM).VaRStateInt = rnd.Next(100,131)));
                 }
             };
         }

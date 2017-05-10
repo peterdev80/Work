@@ -180,7 +180,13 @@ namespace WPFMnemoLibrary.Model
                         d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__OK39_ND_5").VarM).VarBitInt = BitConverter.ToInt32(message, 56 * 4)));
                         d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__OK39_ND_6").VarM).VarBitInt = BitConverter.ToInt32(message, 57 * 4)));
 
-
+                        //PR12
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PR12_MC_F").VarM).VarBitInt = BitConverter.ToInt32(message, 58 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PR12_MC_1").VarM).VarBitInt = BitConverter.ToInt32(message, 59 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__PR12_MC_2").VarM).VarBitInt = BitConverter.ToInt32(message, 60 * 4)));
+                        d.Invoke(new Action(() => ((FloatVar)val.GetVariable("__PR12_MC_3").VarM).VaRStatefloat = BitConverter.ToSingle(message, 61 * 4)));
+                        //управление переменными
+                        d.Invoke(new Action(() => ((IntVar)val.GetVariable("__select_MFL").VarM).VaRStateInt = BitConverter.ToInt32(message, 62 * 4)));
 
 
 

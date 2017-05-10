@@ -82,5 +82,6 @@
         <Path Data="M0.5,0.5 L0.5,61 M0.5,60.5 L470.5,60.5" Height="61.5" Canvas.Left="375" Stretch="Fill" Stroke="#FFF01010" Canvas.Top="435" Width="471"/>
         <ed:RegularPolygon Height="11.6" InnerRadius="1" Canvas.Left="370" PointCount="3" Stretch="Fill" Stroke="Black" Canvas.Top="423.4" Width="12.133"/>
         <Path Data="M0.5,0.5 L7,0.5 L7,21.5 L0.5,21.5 z" Height="22" Canvas.Left="391.25" Stretch="Fill" Stroke="#FFF01010" Canvas.Top="473.967" Width="7.5"/>
+        <Path Data="M745,880.25 L745,910.25" Fill="#FFF4F4F5" Height="31" Canvas.Left="745" Stretch="Fill" Stroke="Black" Canvas.Top="880.25" Width="1"/>
     </Canvas>
 </Window>

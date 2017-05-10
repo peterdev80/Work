@@ -186,6 +186,7 @@ namespace PatchMnemoLib.View
         private void button14_Click(object sender, RoutedEventArgs e)
         {
             var vm = sgrid2.DataContext as ViewModelRout.ViewModelShower;
+            if (label11.Content!=null)
             vm.AddGraphics(label11.Content.ToString());
         }
 

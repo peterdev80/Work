@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ArrayOfRoute xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfRoute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Route>
     <Name>MS1ActivePipeSCharge1by</Name>
     <NamePen>
@@ -4176,6 +4176,9 @@
       <StringItem>
         <Value>l124_107</Value>
       </StringItem>
+      <StringItem>
+        <Value>l225_144</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__KDU_3</ValueName>
     <TypRoute>0</TypRoute>
@@ -4317,6 +4320,9 @@
       <StringItem>
         <Value>l87_71</Value>
       </StringItem>
+      <StringItem>
+        <Value>l116_82</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__KDU_5</ValueName>
     <TypRoute>0</TypRoute>
@@ -4351,6 +4357,9 @@
       </StringItem>
       <StringItem>
         <Value>l127_38</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l122_38</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__KDU_5</ValueName>
@@ -11315,6 +11324,64 @@
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
     <ValuePos>0</ValuePos>
+  </Route>
+  <Route>
+    <Name>MS1ActivePipeACEbyFuel1</Name>
+    <NamePen>
+      <StringItem>
+        <Value>Gactiv</Value>
+      </StringItem>
+      <StringItem>
+        <Value>Ganim1</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>l186_159</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l216_140</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l217_57</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l218_153</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l219_118</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l220_123</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__OK39_ND_5</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>26</ValuePos>
+  </Route>
+  <Route>
+    <Name>o2_in_pk3</Name>
+    <NamePen>
+      <StringItem>
+        <Value>OAct</Value>
+      </StringItem>
+      <StringItem>
+        <Value>OAnim2</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>l125_35</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l126_11</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__KDU_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>16</ValuePos>
   </Route>
   <Route>
     <Name>O1</Name>
