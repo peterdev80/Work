@@ -76,7 +76,7 @@ namespace WPFMnemoLibrary.ViewModel
             //работа с обменном на прямую
            
             {
-                var val = ViewModelVariableList.Instance.GetVariable("__select_MFL");
+              var val = ViewModelVariableList.Instance.GetVariable("__select_MFL");
                 mnemoSelector = ((IntVar)val.VarM).ValState;
                 mnemoSelector.PropertyChanged += mnemoSelector_PropertyChanged;
                

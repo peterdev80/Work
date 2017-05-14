@@ -2723,7 +2723,7 @@
   <VariableM>
     <VarID>Mnemo</VarID>
     <VarName>__select_MFL</VarName>
-    <Typ>BitIntVar</Typ>
+    <Typ>Int</Typ>
     <Mask>
       <int>1</int>
       <int>1</int>
