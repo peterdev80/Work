@@ -187,7 +187,8 @@ namespace WPFMnemoLibrary.Model
                         d.Invoke(new Action(() => ((FloatVar)val.GetVariable("__PR12_MC_3").VarM).VaRStatefloat = BitConverter.ToSingle(message, 61 * 4)));
                         //управление переменными
                         d.Invoke(new Action(() => ((IntVar)val.GetVariable("__select_MFL").VarM).VaRStateInt = BitConverter.ToInt32(message, 62 * 4)));
-
+                        //PR12 add
+                        d.Invoke(new Action(() => ((FloatVar)val.GetVariable("__PR12_MC_4").VarM).VaRStatefloat = BitConverter.ToSingle(message, 63 * 4)));
 
 
                         //переменные мнемосхем

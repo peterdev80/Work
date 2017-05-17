@@ -928,7 +928,7 @@
     <Name>T2385</Name>
     <NamePen>
       <StringItem>
-        <Value>pBlack</Value>
+        <Value>pGreen</Value>
       </StringItem>
       <StringItem>
         <Value>pBlue</Value>
@@ -940,6 +940,12 @@
       </StringItem>
       <StringItem>
         <Value>kl219_182</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl308_161</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl225_96</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PR12_MC_1</ValueName>
@@ -961,6 +967,9 @@
       <StringItem>
         <Value>l204_123</Value>
       </StringItem>
+      <StringItem>
+        <Value>kl312_179</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__PR12_MC_1</ValueName>
     <TypRoute>0</TypRoute>
@@ -980,6 +989,9 @@
     <NameGraphics>
       <StringItem>
         <Value>l203_99</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl311_188</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PR12_MC_1</ValueName>
@@ -1001,6 +1013,9 @@
       <StringItem>
         <Value>l202_77</Value>
       </StringItem>
+      <StringItem>
+        <Value>kl310_72</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__PR12_MC_1</ValueName>
     <TypRoute>0</TypRoute>
@@ -1020,6 +1035,9 @@
     <NameGraphics>
       <StringItem>
         <Value>l201_23</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl309_68</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PR12_MC_1</ValueName>
@@ -1801,7 +1819,20 @@
         <Value>vl296_34</Value>
       </StringItem>
     </NameGraphics>
-    <ValueName>__SEP_6</ValueName>
+    <ValueName>__PR12_MC_3</ValueName>
+    <TypRoute>2</TypRoute>
+    <ValueType>Float</ValueType>
+    <ValuePos>0</ValuePos>
+  </Route>
+  <Route>
+    <Name>ZT1</Name>
+    <NamePen />
+    <NameGraphics>
+      <StringItem>
+        <Value>vl305_184</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__PR12_MC_4</ValueName>
     <TypRoute>2</TypRoute>
     <ValueType>Float</ValueType>
     <ValuePos>0</ValuePos>

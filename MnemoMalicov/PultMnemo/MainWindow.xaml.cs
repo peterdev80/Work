@@ -23,8 +23,12 @@ namespace PultMnemo
     /// </summary>
     public partial class MainWindow : Window
     {
+        static float x = 0.23f;
+        static float y = 0.23f;
+
         public MainWindow()
         {
+           
             /*var dc = VariablesDataContext.GetNamedContext("mnemo");
             dc.VariablesChannelName = "VarModel";
             dc.Manager = Manager.GetAPI("mnemo", Guid.Parse("B7BC704A-3000-4B17-8AD4-823EF6A4D892"));
@@ -44,7 +48,9 @@ namespace PultMnemo
                     var d = ((BitIntVar)val.GetVariable("__UKDU_1").VarM).Dispatcher;
 
 
-                    d.Invoke(new Action(() => ((IntVar)val.GetVariable("__select_MFL").VarM).VaRStateInt = rnd.Next(100,131)));
+                    //d.Invoke(new Action(() => ((IntVar)val.GetVariable("__select_MFL").VarM).VaRStateInt = rnd.Next(100,131)));
+                    d.Invoke(new Action(() => ((FloatVar)val.GetVariable("__PR12_MC_4").VarM).VaRStatefloat = x++));
+                    d.Invoke(new Action(() => ((FloatVar)val.GetVariable("__PR12_MC_3").VarM).VaRStatefloat = x++));
                 }
             };
         }

@@ -2760,4 +2760,44 @@
     </Mask>
     <Remark>Переменная переключения мнемосхем</Remark>
   </VariableM>
+  <VariableM>
+    <VarID>Mnemo</VarID>
+    <VarName>__PR12_MC_4</VarName>
+    <Typ>Float</Typ>
+    <Mask>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+    </Mask>
+    <Remark>минуты </Remark>
+  </VariableM>
 </ArrayOfVariableM>
