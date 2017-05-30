@@ -14,15 +14,15 @@
         <!--<vm:ViewModelEditor x:Key="model" FShema="SerializationUDPO_MC.xml" FRout="RoutedUDPO_MC.xml" />-->
         <vm:ViewModelEditor x:Key="modelRaz" FShema="SerializationRAZ.xml" FRout="RoutedRAZ.xml" />
         <vm:ViewModelEditor x:Key="modelSEP" FShema="SerializationSEP.xml" FRout="RoutedSEP.xml" />
-        <vm:ViewModelEditor x:Key="modelSEP_MC" FShema="SerializationSEP_MC.xml" FRout="RoutedSEP_MC.xml" />
+        <vm:ViewModelEditor x:Key="model" FShema="SerializationSEP_MC.xml" FRout="RoutedSEP_MC.xml" />
         <vm:ViewModelEditor x:Key="modelUKDU_MC" FShema="SerializationUKDU_MC.xml" FRout="RoutedUKDU_MC.xml" />
         <vm:ViewModelEditor x:Key="model_std" FShema="SerializationSTD.xml" FRout="STDRouted.xml" />
         <vm:ViewModelEditor x:Key="modelPitSSVP_MC" FShema="SerializationPitSSVP_MC.xml" FRout="RoutedPitSSVP_MC.xml" />
         <vm:ViewModelEditor x:Key="modelFKDU_MC" FShema="SerializationFKDU_MC.xml" FRout="RoutedFKDU_MC.xml" />
         <vm:ViewModelEditor x:Key="modelKDU700" FShema="SerializationKDU.xml" FRout="KDURouted.xml" />
-        <vm:ViewModelEditor x:Key="modelUDPO_M" FShema="SerializationUDPO_MC.xml" FRout="RoutedUDPO_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelUDPO_MC" FShema="SerializationUDPO_MC.xml" FRout="RoutedUDPO_MC.xml" />
         <vm:ViewModelEditor x:Key="modelSR32_MC" FShema="SerializationSR32_MC.xml" FRout="RoutedSR32_MC.xml" />
-        <vm:ViewModelEditor x:Key="model" FShema="SerializationPR12_MC.xml" FRout="RoutedPR12_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelPR12_MC" FShema="SerializationPR12_MC.xml" FRout="RoutedPR12_MC.xml" />
     </Window.Resources>
     <StackPanel  Name="stackPanel1" DataContext="{Binding Source={StaticResource model}}" >
         <Menu Name="menu1" Height="23">

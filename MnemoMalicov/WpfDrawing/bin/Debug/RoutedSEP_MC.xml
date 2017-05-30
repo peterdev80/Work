@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<ArrayOfRoute xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<ArrayOfRoute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Route>
     <Name>Ems_L1a</Name>
     <NamePen>
@@ -1310,6 +1310,9 @@
       <StringItem>
         <Value>l152_65</Value>
       </StringItem>
+      <StringItem>
+        <Value>kl236_183</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__SEP_2</ValueName>
     <TypRoute>0</TypRoute>
@@ -2060,6 +2063,29 @@
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
     <ValuePos>22</ValuePos>
+  </Route>
+  <Route>
+    <Name>E6334</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>kl189_127</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl190_158</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SEP_2</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>26</ValuePos>
   </Route>
   <Route>
     <Name>ISB</Name>
