@@ -189,11 +189,24 @@ namespace WPFMnemoLibrary.Model
                         d.Invoke(new Action(() => ((IntVar)val.GetVariable("__select_MFL").VarM).VaRStateInt = BitConverter.ToInt32(message, 62 * 4)));
                         //PR12 add
                         d.Invoke(new Action(() => ((FloatVar)val.GetVariable("__PR12_MC_4").VarM).VaRStatefloat = BitConverter.ToSingle(message, 63 * 4)));
+                        //std
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__STD_1").VarM).VarBitInt = BitConverter.ToInt32(message, 64 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__STD_2").VarM).VarBitInt = BitConverter.ToInt32(message, 65 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__MNEMO_RES_52").VarM).VarBitInt = BitConverter.ToInt32(message, 66 * 4)));
+
+                        //sr
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__URO_1").VarM).VarBitInt = BitConverter.ToInt32(message, 67 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__URO_2").VarM).VarBitInt = BitConverter.ToInt32(message, 68 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__URO_3").VarM).VarBitInt = BitConverter.ToInt32(message, 69 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__URO_4").VarM).VarBitInt = BitConverter.ToInt32(message, 70 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__URO_5").VarM).VarBitInt = BitConverter.ToInt32(message, 71 * 4)));
 
 
                         //переменные мнемосхем
                         // Если дана команда остановить поток, останавливаем бесконечный цикл.
                         if (stopReceive == true) break;
+
+                        
                     }
                   
                     

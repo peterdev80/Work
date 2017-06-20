@@ -136,6 +136,16 @@ namespace WPFMnemoLibrary.Model
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__select_MFL").VarM).VarBitInt = (Int32)rd.ReadUInt32();
                 //PR12
                 ((FloatVar)ViewModelVariableList.Instance.GetVariable("__PR12_MC_4").VarM).VaRStatefloat = rd.ReadSingle();
+                //std
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__STD_1").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__STD_2").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__MNEMO_RES_52").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                //sr
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__URO_1").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__URO_2").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__URO_3").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__URO_4").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__URO_5").VarM).VarBitInt = (Int32)rd.ReadUInt32();
             }
         }
     }

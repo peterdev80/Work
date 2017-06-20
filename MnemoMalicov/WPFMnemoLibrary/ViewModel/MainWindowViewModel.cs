@@ -155,6 +155,8 @@ namespace WPFMnemoLibrary.ViewModel
                 case 120: { selectModel = "СОТР   "; Model = new SotrMCView(); break; }
                 case 130: { selectModel = "Питание ССВП"; Model = new View.ViewPitSEP_MC(); break; }
                 case 131: { selectModel = "Программа12"; Model = new View.ViewPR12_MC(); break; }
+                case 140: { selectModel = "Система ^Термо Датчиков".Replace("^ ", Environment.NewLine); Model = new STDView(); break; }
+                case 141: { selectModel = "Система Разделения"; Model = new SRView(); break; }
             }
 
 
@@ -265,8 +267,15 @@ namespace WPFMnemoLibrary.ViewModel
 
                 new CommandViewModel(
                     "Программа12",
-                    new RelayCommand(param => {selectModel=  "Программа12"; Model=new View.ViewPR12_MC();}))
+                    new RelayCommand(param => {selectModel=  "Программа12"; Model=new View.ViewPR12_MC();})),
 
+                new CommandViewModel(
+                    "Система^ Термо Датчиков". Replace("^ ", Environment.NewLine),
+                    new RelayCommand(param => {selectModel=  "Система ^Термо Датчиков". Replace("^ ", Environment.NewLine); Model=new STDView();})),
+
+                 new CommandViewModel(
+                    "Система Разделения",
+                    new RelayCommand(param => {selectModel=  "Система Разделения"; Model=new SRView();}))
 
 
             };
