@@ -433,7 +433,7 @@ namespace PatchMnemoLib.ViewModel
             if (MC.SelectedGraphics != null)
             {
                 Window wnd = new Window();
-
+              
                 switch (MC.SelectedGraphics.TVisual)
                 {
                     case 1:

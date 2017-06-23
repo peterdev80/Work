@@ -625,6 +625,9 @@
       <StringItem>
         <Value>kl136_106</Value>
       </StringItem>
+      <StringItem>
+        <Value>kl133_107</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__PitSSWP_1</ValueName>
     <TypRoute>0</TypRoute>
@@ -647,9 +650,6 @@
       </StringItem>
       <StringItem>
         <Value>kl56_29</Value>
-      </StringItem>
-      <StringItem>
-        <Value>kl133_107</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PitSSWP_1</ValueName>
@@ -767,9 +767,6 @@
     </NamePen>
     <NameGraphics>
       <StringItem>
-        <Value>kl55_9</Value>
-      </StringItem>
-      <StringItem>
         <Value>l61_42</Value>
       </StringItem>
       <StringItem>
@@ -792,6 +789,9 @@
       </StringItem>
       <StringItem>
         <Value>kl419_224</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl186_54</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PitSSWP_1</ValueName>

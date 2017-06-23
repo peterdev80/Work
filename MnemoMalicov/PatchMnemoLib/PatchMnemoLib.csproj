@@ -101,6 +101,7 @@
     <Compile Include="PropertyLispKlapanGraphics.cs" />
     <Compile Include="PropertyVoltmetr.cs" />
     <Compile Include="ShowShemeClass.cs" />
+    <Compile Include="TVisualClass.cs" />
     <Compile Include="UtilControl\KlapanItemVoltmetr.cs" />
     <Compile Include="UtilControl\StateKey.cs" />
     <Compile Include="MnemoCanvas.cs" />
