@@ -200,7 +200,8 @@ namespace WPFMnemoLibrary.Model
                         d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__URO_3").VarM).VarBitInt = BitConverter.ToInt32(message, 69 * 4)));
                         d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__URO_4").VarM).VarBitInt = BitConverter.ToInt32(message, 70 * 4)));
                         d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__URO_5").VarM).VarBitInt = BitConverter.ToInt32(message, 71 * 4)));
-
+                        //PitSSwp add
+                        d.Invoke(new Action(() => ((FloatVar)val.GetVariable("__PIT_SSWP").VarM).VaRStatefloat = BitConverter.ToSingle(message, 72 * 4)));
 
                         //переменные мнемосхем
                         // Если дана команда остановить поток, останавливаем бесконечный цикл.
