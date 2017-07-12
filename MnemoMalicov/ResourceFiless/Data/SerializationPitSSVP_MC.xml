@@ -2,7 +2,7 @@
 <Graphics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Graphics>
     <PropertyKlapanGraphics>
-      <Name>kl405_87</Name>
+      <Name>kl417_239</Name>
       <TransX>0</TransX>
       <TransY>0</TransY>
       <RotateAngle>0</RotateAngle>
@@ -14,52 +14,14 @@
       <FrameElement>1</FrameElement>
       <GDats>
         <KlapanItem>
-          <GData>M121.328125491353 , 583.21484375L366.891122785507 , 583.21484375 , 367.391122781032 , 671.21484375 , 1429.391125 , 671.21484375 , 1429.391125 , 807.21484375 , 121.328125491353 , 807.21484375z</GData>
+          <GData>M135.705078125 , 1.4521484375L1333.872078125 , 1.4521484375L1333.872078125 , 69.8271484375L135.705078125 , 69.8271484375z</GData>
           <GBrush>
-            <A>59</A>
-            <R>243</R>
-            <G>222</G>
-            <B>215</B>
-            <ScA>0.23137255</ScA>
-            <ScR>0.8962694</ScR>
-            <ScG>0.730460763</ScG>
-            <ScB>0.6795425</ScB>
-          </GBrush>
-          <GPen>
-            <A>255</A>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <ScA>1</ScA>
-            <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>0</ScB>
-          </GPen>
-          <GpenSize>1</GpenSize>
-        </KlapanItem>
-      </GDats>
-    </PropertyKlapanGraphics>
-    <PropertyKlapanGraphics>
-      <Name>kl411_388</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>true</RedrawType>
-      <FrameElement>1</FrameElement>
-      <GDats>
-        <KlapanItem>
-          <GData>M1005.0166015625 , 342.3212890625L1472.2666015625 , 342.3212890625L1472.2666015625 , 558.5712890625L1005.0166015625 , 558.5712890625z</GData>
-          <GBrush>
-            <A>218</A>
-            <R>204</R>
+            <A>193</A>
+            <R>223</R>
             <G>208</G>
             <B>201</B>
-            <ScA>0.854901969</ScA>
-            <ScR>0.603827357</ScR>
+            <ScA>0.75686276</ScA>
+            <ScR>0.7379104</ScR>
             <ScG>0.630757153</ScG>
             <ScB>0.584078431</ScB>
           </GBrush>
@@ -78,7 +40,7 @@
       </GDats>
     </PropertyKlapanGraphics>
     <PropertyKlapanGraphics>
-      <Name>kl410_187</Name>
+      <Name>kl413_385</Name>
       <TransX>0</TransX>
       <TransY>0</TransY>
       <RotateAngle>0</RotateAngle>
@@ -90,14 +52,14 @@
       <FrameElement>1</FrameElement>
       <GDats>
         <KlapanItem>
-          <GData>M643.2001953125 , 343.2734375L999.7001953125 , 343.2734375L999.7001953125 , 558.5234375L643.2001953125 , 558.5234375z</GData>
+          <GData>M137.609375 , 87.1455078125L1335.776375 , 87.1455078125L1335.776375 , 155.5205078125L137.609375 , 155.5205078125z</GData>
           <GBrush>
-            <A>218</A>
-            <R>204</R>
+            <A>191</A>
+            <R>220</R>
             <G>208</G>
             <B>201</B>
-            <ScA>0.854901969</ScA>
-            <ScR>0.603827357</ScR>
+            <ScA>0.7490196</ScA>
+            <ScR>0.7156935</ScR>
             <ScG>0.630757153</ScG>
             <ScB>0.584078431</ScB>
           </GBrush>
@@ -107,158 +69,6 @@
             <G>0</G>
             <B>0</B>
             <ScA>0</ScA>
-            <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>0</ScB>
-          </GPen>
-          <GpenSize>1</GpenSize>
-        </KlapanItem>
-      </GDats>
-    </PropertyKlapanGraphics>
-    <PropertyKlapanGraphics>
-      <Name>kl409_177</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>true</RedrawType>
-      <FrameElement>1</FrameElement>
-      <GDats>
-        <KlapanItem>
-          <GData>M71.9111328125 , 325.1826171875L636.1191328125 , 325.1826171875L636.1191328125 , 558.7656171875L71.9111328125 , 558.7656171875z</GData>
-          <GBrush>
-            <A>218</A>
-            <R>204</R>
-            <G>208</G>
-            <B>201</B>
-            <ScA>0.854901969</ScA>
-            <ScR>0.603827357</ScR>
-            <ScG>0.630757153</ScG>
-            <ScB>0.584078431</ScB>
-          </GBrush>
-          <GPen>
-            <A>0</A>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <ScA>0</ScA>
-            <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>0</ScB>
-          </GPen>
-          <GpenSize>1</GpenSize>
-        </KlapanItem>
-      </GDats>
-    </PropertyKlapanGraphics>
-    <PropertyKlapanGraphics>
-      <Name>kl408_251</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>true</RedrawType>
-      <FrameElement>1</FrameElement>
-      <GDats>
-        <KlapanItem>
-          <GData>M986.1640625 , 698.234375L1411.9970625 , 698.234375L1411.9970625 , 799.567375L986.1640625 , 799.567375z</GData>
-          <GBrush>
-            <A>255</A>
-            <R>255</R>
-            <G>173</G>
-            <B>101</B>
-            <ScA>1</ScA>
-            <ScR>1</ScR>
-            <ScG>0.417885065</ScG>
-            <ScB>0.130136475</ScB>
-          </GBrush>
-          <GPen>
-            <A>255</A>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <ScA>1</ScA>
-            <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>0</ScB>
-          </GPen>
-          <GpenSize>1</GpenSize>
-        </KlapanItem>
-      </GDats>
-    </PropertyKlapanGraphics>
-    <PropertyKlapanGraphics>
-      <Name>kl407_24</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>true</RedrawType>
-      <FrameElement>1</FrameElement>
-      <GDats>
-        <KlapanItem>
-          <GData>M605.3046875 , 700.51953125L969.1376875 , 700.51953125L969.1376875 , 801.18553125L605.3046875 , 801.18553125z</GData>
-          <GBrush>
-            <A>255</A>
-            <R>255</R>
-            <G>173</G>
-            <B>101</B>
-            <ScA>1</ScA>
-            <ScR>1</ScR>
-            <ScG>0.417885065</ScG>
-            <ScB>0.130136475</ScB>
-          </GBrush>
-          <GPen>
-            <A>255</A>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <ScA>1</ScA>
-            <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>0</ScB>
-          </GPen>
-          <GpenSize>1</GpenSize>
-        </KlapanItem>
-      </GDats>
-    </PropertyKlapanGraphics>
-    <PropertyKlapanGraphics>
-      <Name>kl406_72</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>true</RedrawType>
-      <FrameElement>1</FrameElement>
-      <GDats>
-        <KlapanItem>
-          <GData>M369.171875 , 699.7578125L596.422875 , 699.7578125L596.422875 , 801.2578125L369.171875 , 801.2578125z</GData>
-          <GBrush>
-            <A>255</A>
-            <R>255</R>
-            <G>173</G>
-            <B>101</B>
-            <ScA>1</ScA>
-            <ScR>1</ScR>
-            <ScG>0.417885065</ScG>
-            <ScB>0.130136475</ScB>
-          </GBrush>
-          <GPen>
-            <A>255</A>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <ScA>1</ScA>
             <ScR>0</ScR>
             <ScG>0</ScG>
             <ScB>0</ScB>
@@ -330,7 +140,7 @@
       </GDats>
     </PropertyKlapanGraphics>
     <PropertyKlapanGraphics>
-      <Name>kl413_385</Name>
+      <Name>kl406_72</Name>
       <TransX>0</TransX>
       <TransY>0</TransY>
       <RotateAngle>0</RotateAngle>
@@ -342,14 +152,128 @@
       <FrameElement>1</FrameElement>
       <GDats>
         <KlapanItem>
-          <GData>M137.609375 , 87.1455078125L1335.776375 , 87.1455078125L1335.776375 , 155.5205078125L137.609375 , 155.5205078125z</GData>
+          <GData>M369.171875 , 699.7578125L596.422875 , 699.7578125L596.422875 , 801.2578125L369.171875 , 801.2578125z</GData>
           <GBrush>
-            <A>191</A>
-            <R>220</R>
+            <A>255</A>
+            <R>255</R>
+            <G>173</G>
+            <B>101</B>
+            <ScA>1</ScA>
+            <ScR>1</ScR>
+            <ScG>0.417885065</ScG>
+            <ScB>0.130136475</ScB>
+          </GBrush>
+          <GPen>
+            <A>255</A>
+            <R>0</R>
+            <G>0</G>
+            <B>0</B>
+            <ScA>1</ScA>
+            <ScR>0</ScR>
+            <ScG>0</ScG>
+            <ScB>0</ScB>
+          </GPen>
+          <GpenSize>1</GpenSize>
+        </KlapanItem>
+      </GDats>
+    </PropertyKlapanGraphics>
+    <PropertyKlapanGraphics>
+      <Name>kl407_24</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>true</RedrawType>
+      <FrameElement>1</FrameElement>
+      <GDats>
+        <KlapanItem>
+          <GData>M605.3046875 , 700.51953125L969.1376875 , 700.51953125L969.1376875 , 801.18553125L605.3046875 , 801.18553125z</GData>
+          <GBrush>
+            <A>255</A>
+            <R>255</R>
+            <G>173</G>
+            <B>101</B>
+            <ScA>1</ScA>
+            <ScR>1</ScR>
+            <ScG>0.417885065</ScG>
+            <ScB>0.130136475</ScB>
+          </GBrush>
+          <GPen>
+            <A>255</A>
+            <R>0</R>
+            <G>0</G>
+            <B>0</B>
+            <ScA>1</ScA>
+            <ScR>0</ScR>
+            <ScG>0</ScG>
+            <ScB>0</ScB>
+          </GPen>
+          <GpenSize>1</GpenSize>
+        </KlapanItem>
+      </GDats>
+    </PropertyKlapanGraphics>
+    <PropertyKlapanGraphics>
+      <Name>kl408_251</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>true</RedrawType>
+      <FrameElement>1</FrameElement>
+      <GDats>
+        <KlapanItem>
+          <GData>M986.1640625 , 698.234375L1411.9970625 , 698.234375L1411.9970625 , 799.567375L986.1640625 , 799.567375z</GData>
+          <GBrush>
+            <A>255</A>
+            <R>255</R>
+            <G>173</G>
+            <B>101</B>
+            <ScA>1</ScA>
+            <ScR>1</ScR>
+            <ScG>0.417885065</ScG>
+            <ScB>0.130136475</ScB>
+          </GBrush>
+          <GPen>
+            <A>255</A>
+            <R>0</R>
+            <G>0</G>
+            <B>0</B>
+            <ScA>1</ScA>
+            <ScR>0</ScR>
+            <ScG>0</ScG>
+            <ScB>0</ScB>
+          </GPen>
+          <GpenSize>1</GpenSize>
+        </KlapanItem>
+      </GDats>
+    </PropertyKlapanGraphics>
+    <PropertyKlapanGraphics>
+      <Name>kl409_177</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>true</RedrawType>
+      <FrameElement>1</FrameElement>
+      <GDats>
+        <KlapanItem>
+          <GData>M71.9111328125 , 325.1826171875L636.1191328125 , 325.1826171875L636.1191328125 , 558.7656171875L71.9111328125 , 558.7656171875z</GData>
+          <GBrush>
+            <A>218</A>
+            <R>204</R>
             <G>208</G>
             <B>201</B>
-            <ScA>0.7490196</ScA>
-            <ScR>0.7156935</ScR>
+            <ScA>0.854901969</ScA>
+            <ScR>0.603827357</ScR>
             <ScG>0.630757153</ScG>
             <ScB>0.584078431</ScB>
           </GBrush>
@@ -368,7 +292,7 @@
       </GDats>
     </PropertyKlapanGraphics>
     <PropertyKlapanGraphics>
-      <Name>kl417_239</Name>
+      <Name>kl410_187</Name>
       <TransX>0</TransX>
       <TransY>0</TransY>
       <RotateAngle>0</RotateAngle>
@@ -380,14 +304,14 @@
       <FrameElement>1</FrameElement>
       <GDats>
         <KlapanItem>
-          <GData>M135.705078125 , 1.4521484375L1333.872078125 , 1.4521484375L1333.872078125 , 69.8271484375L135.705078125 , 69.8271484375z</GData>
+          <GData>M643.2001953125 , 343.2734375L999.7001953125 , 343.2734375L999.7001953125 , 558.5234375L643.2001953125 , 558.5234375z</GData>
           <GBrush>
-            <A>193</A>
-            <R>223</R>
+            <A>218</A>
+            <R>204</R>
             <G>208</G>
             <B>201</B>
-            <ScA>0.75686276</ScA>
-            <ScR>0.7379104</ScR>
+            <ScA>0.854901969</ScA>
+            <ScR>0.603827357</ScR>
             <ScG>0.630757153</ScG>
             <ScB>0.584078431</ScB>
           </GBrush>
@@ -397,6 +321,82 @@
             <G>0</G>
             <B>0</B>
             <ScA>0</ScA>
+            <ScR>0</ScR>
+            <ScG>0</ScG>
+            <ScB>0</ScB>
+          </GPen>
+          <GpenSize>1</GpenSize>
+        </KlapanItem>
+      </GDats>
+    </PropertyKlapanGraphics>
+    <PropertyKlapanGraphics>
+      <Name>kl411_388</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>true</RedrawType>
+      <FrameElement>1</FrameElement>
+      <GDats>
+        <KlapanItem>
+          <GData>M1005.0166015625 , 342.3212890625L1472.2666015625 , 342.3212890625L1472.2666015625 , 558.5712890625L1005.0166015625 , 558.5712890625z</GData>
+          <GBrush>
+            <A>218</A>
+            <R>204</R>
+            <G>208</G>
+            <B>201</B>
+            <ScA>0.854901969</ScA>
+            <ScR>0.603827357</ScR>
+            <ScG>0.630757153</ScG>
+            <ScB>0.584078431</ScB>
+          </GBrush>
+          <GPen>
+            <A>0</A>
+            <R>0</R>
+            <G>0</G>
+            <B>0</B>
+            <ScA>0</ScA>
+            <ScR>0</ScR>
+            <ScG>0</ScG>
+            <ScB>0</ScB>
+          </GPen>
+          <GpenSize>1</GpenSize>
+        </KlapanItem>
+      </GDats>
+    </PropertyKlapanGraphics>
+    <PropertyKlapanGraphics>
+      <Name>kl405_87</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>true</RedrawType>
+      <FrameElement>1</FrameElement>
+      <GDats>
+        <KlapanItem>
+          <GData>M121.328125491353 , 583.21484375L366.891122785507 , 583.21484375 , 367.391122781032 , 671.21484375 , 1429.391125 , 671.21484375 , 1429.391125 , 807.21484375 , 121.328125491353 , 807.21484375z</GData>
+          <GBrush>
+            <A>59</A>
+            <R>243</R>
+            <G>222</G>
+            <B>215</B>
+            <ScA>0.23137255</ScA>
+            <ScR>0.8962694</ScR>
+            <ScG>0.730460763</ScG>
+            <ScB>0.6795425</ScB>
+          </GBrush>
+          <GPen>
+            <A>255</A>
+            <R>0</R>
+            <G>0</G>
+            <B>0</B>
+            <ScA>1</ScA>
             <ScR>0</ScR>
             <ScG>0</ScG>
             <ScB>0</ScB>
@@ -9036,75 +9036,6 @@
         </KlapanItem>
       </GDats>
     </PropertyKlapanGraphics>
-    <PropertyLispKlapanGraphics>
-      <Name>lkl420_28</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>false</RedrawType>
-      <GDats>
-        <LispKlapanItem>
-          <GData>M458.124479166672 , 750.135937499992C458.124479166672 , 755.279089232794 , 453.367504633624 , 759.448437499992 , 447.499479166673 , 759.448437499992C441.63145369972 , 759.448437499992 , 436.874479166672 , 755.279089232794 , 436.874479166672 , 750.135937499992C436.874479166672 , 744.992785767194 , 441.63145369972 , 740.823437499992 , 447.499479166673 , 740.823437499992C453.367504633624 , 740.823437499992 , 458.124479166672 , 744.992785767194 , 458.124479166672 , 750.135937499992zM465.499479166672 , 750.260937499992C465.499479166672 , 758.993940106692 , 457.552533476169 , 766.073437499992 , 447.749479166673 , 766.073437499992C437.946424857176 , 766.073437499992 , 429.999479166672 , 758.993940106692 , 429.999479166672 , 750.260937499992C429.999479166672 , 741.527934893295 , 437.946424857176 , 734.448437499992 , 447.749479166673 , 734.448437499992C457.552533476169 , 734.448437499992 , 465.499479166672 , 741.527934893295 , 465.499479166672 , 750.260937499992z</GData>
-          <GBrush>
-            <A>0</A>
-            <R>255</R>
-            <G>255</G>
-            <B>255</B>
-            <ScA>0</ScA>
-            <ScR>1</ScR>
-            <ScG>1</ScG>
-            <ScB>1</ScB>
-          </GBrush>
-          <GPen>
-            <A>255</A>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <ScA>1</ScA>
-            <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>0</ScB>
-          </GPen>
-          <GpenSize>1</GpenSize>
-          <transformBit>false</transformBit>
-          <Xtransform>0</Xtransform>
-          <Ytransform>0</Ytransform>
-          <TypeTransform>Rotate</TypeTransform>
-        </LispKlapanItem>
-        <LispKlapanItem>
-          <GData>M457.050060145067 , 754.448437499992L463.230644098923 , 758.192799377435 , 463.198886744187 , 758.24065666198C460.085761896775 , 762.804915237419 , 454.451866022751 , 765.853800582881 , 448.018611780809 , 765.853800582881 , 442.5043944041 , 765.853800582881 , 437.57746016185 , 763.613802719108 , 434.321848742172 , 760.099518585198L433.999479166672 , 759.734074401848 , 439.453479639694 , 755.710129547112 , 439.569845072435 , 755.839915084832C441.518626085922 , 757.909592437737 , 444.467847696946 , 759.228800582881 , 447.768611780809 , 759.228800582881 , 451.619502894089 , 759.228800582881 , 454.991905085251 , 757.433213043205 , 456.855394236253 , 754.745171356197z</GData>
-          <GBrush>
-            <A>255</A>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <ScA>1</ScA>
-            <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>0</ScB>
-          </GBrush>
-          <GPen>
-            <A>255</A>
-            <R>0</R>
-            <G>0</G>
-            <B>0</B>
-            <ScA>1</ScA>
-            <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>0</ScB>
-          </GPen>
-          <GpenSize>1</GpenSize>
-          <transformBit>false</transformBit>
-          <Xtransform>0</Xtransform>
-          <Ytransform>0</Ytransform>
-          <TypeTransform>Rotate</TypeTransform>
-        </LispKlapanItem>
-      </GDats>
-    </PropertyLispKlapanGraphics>
     <PropertyPatchGraphics>
       <Name>l2_0</Name>
       <TransX>0</TransX>
@@ -17816,5 +17747,74 @@
         </KlapanItem>
       </GDats>
     </PropertyKlapanGraphics>
+    <PropertyLispKlapanGraphics>
+      <Name>lkl420_28</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>false</RedrawType>
+      <GDats>
+        <LispKlapanItem>
+          <GData>M458.124479166672 , 750.135937499992C458.124479166672 , 755.279089232794 , 453.367504633624 , 759.448437499992 , 447.499479166673 , 759.448437499992C441.63145369972 , 759.448437499992 , 436.874479166672 , 755.279089232794 , 436.874479166672 , 750.135937499992C436.874479166672 , 744.992785767194 , 441.63145369972 , 740.823437499992 , 447.499479166673 , 740.823437499992C453.367504633624 , 740.823437499992 , 458.124479166672 , 744.992785767194 , 458.124479166672 , 750.135937499992zM465.499479166672 , 750.260937499992C465.499479166672 , 758.993940106692 , 457.552533476169 , 766.073437499992 , 447.749479166673 , 766.073437499992C437.946424857176 , 766.073437499992 , 429.999479166672 , 758.993940106692 , 429.999479166672 , 750.260937499992C429.999479166672 , 741.527934893295 , 437.946424857176 , 734.448437499992 , 447.749479166673 , 734.448437499992C457.552533476169 , 734.448437499992 , 465.499479166672 , 741.527934893295 , 465.499479166672 , 750.260937499992z</GData>
+          <GBrush>
+            <A>0</A>
+            <R>255</R>
+            <G>255</G>
+            <B>255</B>
+            <ScA>0</ScA>
+            <ScR>1</ScR>
+            <ScG>1</ScG>
+            <ScB>1</ScB>
+          </GBrush>
+          <GPen>
+            <A>255</A>
+            <R>0</R>
+            <G>0</G>
+            <B>0</B>
+            <ScA>1</ScA>
+            <ScR>0</ScR>
+            <ScG>0</ScG>
+            <ScB>0</ScB>
+          </GPen>
+          <GpenSize>1</GpenSize>
+          <transformBit>false</transformBit>
+          <Xtransform>0</Xtransform>
+          <Ytransform>0</Ytransform>
+          <TypeTransform>Rotate</TypeTransform>
+        </LispKlapanItem>
+        <LispKlapanItem>
+          <GData>M457.050060145067 , 754.448437499992L463.230644098923 , 758.192799377435 , 463.198886744187 , 758.24065666198C460.085761896775 , 762.804915237419 , 454.451866022751 , 765.853800582881 , 448.018611780809 , 765.853800582881 , 442.5043944041 , 765.853800582881 , 437.57746016185 , 763.613802719108 , 434.321848742172 , 760.099518585198L433.999479166672 , 759.734074401848 , 439.453479639694 , 755.710129547112 , 439.569845072435 , 755.839915084832C441.518626085922 , 757.909592437737 , 444.467847696946 , 759.228800582881 , 447.768611780809 , 759.228800582881 , 451.619502894089 , 759.228800582881 , 454.991905085251 , 757.433213043205 , 456.855394236253 , 754.745171356197z</GData>
+          <GBrush>
+            <A>255</A>
+            <R>0</R>
+            <G>0</G>
+            <B>0</B>
+            <ScA>1</ScA>
+            <ScR>0</ScR>
+            <ScG>0</ScG>
+            <ScB>0</ScB>
+          </GBrush>
+          <GPen>
+            <A>255</A>
+            <R>0</R>
+            <G>0</G>
+            <B>0</B>
+            <ScA>1</ScA>
+            <ScR>0</ScR>
+            <ScG>0</ScG>
+            <ScB>0</ScB>
+          </GPen>
+          <GpenSize>1</GpenSize>
+          <transformBit>true</transformBit>
+          <Xtransform>448</Xtransform>
+          <Ytransform>750</Ytransform>
+          <TypeTransform>Rotate</TypeTransform>
+        </LispKlapanItem>
+      </GDats>
+    </PropertyLispKlapanGraphics>
   </Graphics>
 </Graphics>
