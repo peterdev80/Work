@@ -2840,4 +2840,44 @@
     </Mask>
     <Remark>показания ЛИЗ</Remark>
   </VariableM>
+  <VariableM>
+    <VarID>Mnemo</VarID>
+    <VarName>__URO_6</VarName>
+    <Typ>BitStuct</Typ>
+    <Mask>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+      <int>1</int>
+    </Mask>
+    <Remark>дополняем разделение</Remark>
+  </VariableM>
 </ArrayOfVariableM>

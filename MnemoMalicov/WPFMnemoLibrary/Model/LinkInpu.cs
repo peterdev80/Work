@@ -148,6 +148,8 @@ namespace WPFMnemoLibrary.Model
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__URO_5").VarM).VarBitInt = (Int32)rd.ReadUInt32();
                 //PitSSwp add
                 ((FloatVar)ViewModelVariableList.Instance.GetVariable("__PIT_SSWP").VarM).VaRStatefloat = rd.ReadSingle();
+                //sr add
+                ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__URO_6").VarM).VarBitInt = (Int32)rd.ReadUInt32();
             }
         }
     }
