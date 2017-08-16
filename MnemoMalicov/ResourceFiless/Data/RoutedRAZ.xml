@@ -2936,7 +2936,7 @@
         <Value>pBlack</Value>
       </StringItem>
       <StringItem>
-        <Value>pGreen</Value>
+        <Value>pBlue</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -2948,6 +2948,9 @@
       </StringItem>
       <StringItem>
         <Value>kl523_183</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl487_346</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__URO_4</ValueName>
@@ -3575,11 +3578,7 @@
         <Value>penRed</Value>
       </StringItem>
     </NamePen>
-    <NameGraphics>
-      <StringItem>
-        <Value>vl534_236</Value>
-      </StringItem>
-    </NameGraphics>
+    <NameGraphics />
     <ValueName>__URO_5</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
@@ -3595,11 +3594,7 @@
         <Value>penRed</Value>
       </StringItem>
     </NamePen>
-    <NameGraphics>
-      <StringItem>
-        <Value>vl533_504</Value>
-      </StringItem>
-    </NameGraphics>
+    <NameGraphics />
     <ValueName>__URO_5</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
@@ -3724,7 +3719,7 @@
         <Value>pBlack</Value>
       </StringItem>
       <StringItem>
-        <Value>pBlue</Value>
+        <Value>pRed</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -4252,7 +4247,7 @@
         <Value>pBlack</Value>
       </StringItem>
       <StringItem>
-        <Value>pBlue</Value>
+        <Value>pRed</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -4434,6 +4429,38 @@
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
     <ValuePos>29</ValuePos>
+  </Route>
+  <Route>
+    <Name>UD54</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl492_29</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l490_266</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl489_237</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl491_256</Value>
+      </StringItem>
+      <StringItem>
+        <Value>vl493_415</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__URO_6</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>30</ValuePos>
   </Route>
   <Route>
     <Name>mmvm907</Name>
