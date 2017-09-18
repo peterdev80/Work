@@ -88,42 +88,14 @@ namespace WPFMnemoLibrary.ViewModel
         
 
 
-        //    mnemoSelector.ValueState = ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__select_MFL").VarM).VarBitInt;
-        //   mnemoSelector.PropertyChanged += mnemoSelector_PropertyChanged;
-        /*  base.DisplayName = "Main";
-          mSelector = new IntVar("Mnemo");
-          mSelector.VarName = "__select_MFL";
-          mnemoSelector = mSelector.ValState;
-             mnemoSelector.ValueState=((BitIntVar)ViewModelVariableList.Instance.GetVariable("__select_MFL").VarM).ValState;
-          mnemoSelector.PropertyChanged += mnemoSelector_PropertyChanged;
-
-
-
-         mSystemSelector = new IntVar("Mnemo");
-         mSystemSelector.VarName = "__MNEMO_RES_64";
-          mSystemSelector.VaRStateInt = 2;
-         mnemoSystemSelector = mSystemSelector.ValState;
-
-          mnemoSystemSelector.PropertyChanged += mnemoSystemSelector_PropertyChanged;
-          */
-
+     
 
 
     }
 
         public void AttachToRemoteControl()
         {
-           /* mSelector = new IntVar("Mnemo");
-            mSelector.VarName = "__select_MFL";
-            mnemoSelector = mSelector.ValState;
-
-            mnemoSelector.PropertyChanged += mnemoSelector_PropertyChanged;
-
-            mSystemSelector = new IntVar("Mnemo");
-            mSystemSelector.VarName = "__MNEMO_RES_64"; //выбор типа корабля Союз МС
-            mnemoSystemSelector = mSystemSelector.ValState;
-
-            mnemoSystemSelector.PropertyChanged += mnemoSystemSelector_PropertyChanged;*/
+          
         }
         void mnemoSystemSelector_PropertyChanged(object sender, PropertyChangedEventArgs e)
         {
@@ -135,15 +107,7 @@ namespace WPFMnemoLibrary.ViewModel
         void mnemoSelector_PropertyChanged(object sender, PropertyChangedEventArgs e)
         {
             var i = mnemoSelector.ValueState;
-         //   if (i == 2) MessageBox.Show("OK");
-           /* if (i < 1 || i > Commands.Count)
-            {
-                Model = null;
-
-                return;
-            }
-
-            Commands[i - 1].Command.Execute(0);*/
+        
 
             switch (i)
             {
@@ -155,48 +119,14 @@ namespace WPFMnemoLibrary.ViewModel
                 case 120: { selectModel = "СОТР   "; Model = new SotrMCView(); break; }
                 case 130: { selectModel = "Питание ССВП"; Model = new View.ViewPitSEP_MC(); break; }
                 case 131: { selectModel = "Программа12"; Model = new View.ViewPR12_MC(); break; }
-                case 140: { selectModel = "Система ^Термо Датчиков".Replace("^ ", Environment.NewLine); Model = new STDView(); break; }
-                case 141: { selectModel = "Система Разделения"; Model = new SRView(); break; }
+                case 150: { selectModel = "Система ^Термо Датчиков".Replace("^ ", Environment.NewLine); Model = new STDView(); break; }
+                case 200: { selectModel = "Система Разделения"; Model = new SRView(); break; }
             }
 
 
 
 
 
-
-          /*  if (i == 11) { selectModel = "Функ.схема КДУ"; Model = new KDUFuncView(); }
-            if (i == 12) { selectModel = "Расположение^ двигателей".Replace("^ ", Environment.NewLine); Model = new DvigView(); }
-           if (i==13) { selectModel= "Управление ДПО-Б^ по командам из^ ССВП".Replace("^ ", Environment.NewLine);  Model = new ViewOtvodPodvod(); }
-               // if (i == 13) fmMenuMnemoSxems->TargetWPFWindows("WPF//FrmMnemo.exe Otvod", "WPFForm", true); //FormOTV_POD->Show();  else
-            if (i == 14) { selectModel = "БА ДПО  "; Model = new BADPOView(); }
-
-            if (i == 15) { selectModel = "Управление КДУ"; Model = new UpravKDU(); }
-            if (i == 16) {selectModel=  "Управление^ наддувом КДУ". Replace("^ ", Environment.NewLine); Model=new NaduvView();}
-
-            if (i == 21) { selectModel = "СЭП"; Model = new ViewSEP(); }
-            if (i == 31) { selectModel = "СОТР   "; Model = new SOTRView(); }
-
-            if (i == 32) {selectModel=  "Система ^Межмодульной Вентиляции". Replace("^ ", Environment.NewLine); Model=new SMVView();}
-            if (i == 41) { selectModel = "Циклограмма^ автоматической^ стыковки".Replace("^ ", Environment.NewLine); Model = new ViewCiclogramm(); }
-            //if (__select_MFL==42)   frmCiclUnDock->Show();  else
-            if (i == 43) { selectModel = "Питание ССВП"; Model = new PitSSWP(); }
-            if (i==44) { selectModel = "Распределение шин^ электропитания (ст.)".Replace("^ ", Environment.NewLine); Model = new ViewEP(); }
-            if (i==45) { selectModel = "Сигнализация ССВП(ст.)"; Model = new ViewSIG(); }
-            if (i==46) { selectModel = "СИОС(ст.)"; Model = new ViewSios(); }
-            if (i == 51) { selectModel = "СКГС ТК+БО"; Model = new SUView(); }
-            if (i == 52) { selectModel = "СКГС ТК"; Model = new SULiteView(); }
-
-            if (i == 61) { selectModel = "Система ^Термо Датчиков".Replace("^ ", Environment.NewLine); Model = new STDView(); }
-            if (i == 71) {selectModel=  "Система Разделения"; Model=new SRView();}
-            else
-                //	if (__select_MFL==85)   FormRSP->Show();
-                //	if (__select_MFL==90)   frmDPO->Show();
-                if (i == 87) { selectModel = "Управление Пр.12"; Model = new Pr12View(); }
-            if (i == 115) { selectModel = "Управление КДУ"; Model = new ViewOK29_MC(); }
-            if (i == 121) { selectModel = "СЭП"; Model = new ViewSEPMC(); }
-            if (i == 143) { selectModel = "Питание ССВП"; Model = new ViewPitSEP_MC(); }
-            if (i == 131) { selectModel = "СОТР   "; Model = new SotrMCView(); }
-            */
 
 
         }
