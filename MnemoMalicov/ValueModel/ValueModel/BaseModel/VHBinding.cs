@@ -129,7 +129,7 @@ namespace ValueModel.BaseModel
 #endif
 
 
-            ExpressionBinding.SetBinding(bnd, dp, varObmen);
+            ExpressionBinding.SetBinding(bnd, BoolVarFMS.VaRStateBoolPropertyFMS, varObmen);
         }
 
       
