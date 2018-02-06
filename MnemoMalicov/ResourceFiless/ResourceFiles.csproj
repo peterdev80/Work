@@ -145,6 +145,10 @@
     <Resource Include="Data\RoutedPR12_MC.xml" />
     <Resource Include="Data\SerializationPR12_MC.xml" />
   </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Data\RoutedSKGS_MC.xml" />
+    <Resource Include="Data\SerializationSKGS_MC.xml" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

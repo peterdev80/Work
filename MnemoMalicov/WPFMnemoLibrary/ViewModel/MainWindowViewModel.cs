@@ -205,7 +205,11 @@ namespace WPFMnemoLibrary.ViewModel
 
                  new CommandViewModel(
                     "Система Разделения",
-                    new RelayCommand(param => {selectModel=  "Система Разделения"; Model=new SRView();}))
+                    new RelayCommand(param => {selectModel=  "Система Разделения"; Model=new SRView();})),
+
+                     new CommandViewModel(
+                    "СКГС",
+                    new RelayCommand(param => {selectModel=  "СКГС"; Model=new ViewSKGS_MC();}))
 
 
             };
