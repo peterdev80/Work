@@ -1,0 +1,41 @@
+﻿<Window x:Class="SKGS.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SKGS"
+        mc:Ignorable="d"
+       Title="SKGS" Height="1080" Width="1920">
+    <Canvas>
+        <Image Source="Упр_SKGS.jpg" Height="956.4" Canvas.Left="3" Canvas.Top="38" Width="1907.6"/>
+        <Path Data="M439.8,941.6 L693.93333,941.6" Fill="#FFF4F4F5" Height="1" Canvas.Left="439.8" Stretch="Fill" Stroke="Black" Canvas.Top="941.6" Width="255.133"/>
+        <Path Data="M439.93333,916.03068 L694.06666,916.03068" Fill="#FFF4F4F5" Height="1" Canvas.Left="439.933" Stretch="Fill" Stroke="Black" Canvas.Top="916.033" Width="255.133"/>
+        <Path Data="M439.8,891.6 L693.93333,891.6" Fill="#FFF4F4F5" Height="1" Canvas.Left="439.8" Stretch="Fill" Stroke="Black" Canvas.Top="891.6" Width="255.133"/>
+        <Path Data="M439.8,869.8 L581.24987,869.61695 588.57217,861.66082 588.46781,754.75954" Height="116.033" Canvas.Left="439.8" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="754.767" Width="149.771"/>
+        <Path Data="M439.8,846.1 L570.20009,846.06889 578.59867,838.01981 578.81933,783.30918 571.30001,775.48325" Height="70.925" Canvas.Left="439.8" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="776.175" Width="140.019"/>
+        <Path Data="M618.15,775.90312 L571.2406,775.90311" Height="1" Canvas.Left="571.242" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="775.902" Width="47.909"/>
+        <Path Data="M571.28367,775.925 L310.81633,775.925 302.9741,767.58527 303.1629,602.0016 311.19608,593.4268 344.90003,593.40157" Height="183.526" Canvas.Left="302.974" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="593.397" Width="269.31"/>
+        <Path Data="M618.3625,763.375 L595.91251,763.375 588.72521,755.07035" Height="9.305" Canvas.Left="588.725" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="755.075" Width="30.637"/>
+        <Path Data="M588.475,754.767 L588.475,601.47495 580.16681,593.38203 502.64007,593.42644" Height="162.424" Canvas.Left="502.639" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="593.343" Width="86.838"/>
+        <Path Data="M707.36667,941.6 L808.3,941.6" Height="1" Canvas.Left="707.367" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="941.6" Width="101.933"/>
+        <Path Data="M707.36667,916.6 L808.3,916.6" Height="1" Canvas.Left="707.367" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="916.55" Width="101.933"/>
+        <Path Data="M707.36667,891.93333 L808.3,891.93333" Height="1" Canvas.Left="707.367" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="891.834" Width="101.933"/>
+        <Path Data="M824.11667,941.6 L1244.6767,941.6 1252.2996,949.35543 1252.193,985.80041 1259.761,993.01604 1507.712,993.3808 1515.3419,985.22805 1515.1276,924.17568 1508.2123,917.07509" Height="77.306" Canvas.Left="824.116" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="917.075" Width="692.264"/>
+        <Path Data="M1202.5924,941.34998 L1210.1378,933.35033 1210.0497,917.075" Height="25.275" Canvas.Left="1202.6" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="917.075" Width="8.538"/>
+        <Path Data="M824.03267,916.38333 L1074.3333,916.38333" Height="1" Canvas.Left="824.033" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="916.384" Width="251.3"/>
+        <Path Data="M824.03267,891.96666 L1074.3333,891.96666" Height="1" Canvas.Left="824.033" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="892.001" Width="251.3"/>
+        <Path Data="M1090.5167,891.75837 L1202.3252,891.76636 1209.7612,900.52947 1209.9753,902.96198" Height="10.379" Canvas.Left="1090.517" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="891.771" Width="120.458"/>
+        <Path Data="M1089.917,916.44462 L1200.5752,916.45033 1200.5877,914.2414" Height="3.614" Canvas.Left="1089.917" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="913.836" Width="111.67"/>
+        <Path Data="M1219.3799,913.9785 L1219.4112,916.42369 1259.4997,916.42369" Height="3.443" Canvas.Left="1219.362" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="913.965" Width="41.114"/>
+        <Path Data="M1252.3812,791.25 L1252.375,810.95938" Height="20.709" Canvas.Left="1252.396" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="791.25" Width="1.006"/>
+        <Path Data="M1252.396,827.23333 L1252.396,849.71667" Height="23.484" Canvas.Left="1252.396" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="827.233" Width="1"/>
+        <Path Data="M1204.4,841.80001 L1244.5,841.61856 1252.3002,849.4138" Height="8.797" Canvas.Left="1204.403" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="841.62" Width="48.897"/>
+        <Path Data="M1252.396,849.66696 L1252.396,871.66667" Height="22.997" Canvas.Left="1252.396" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="849.67" Width="1"/>
+        <Path Height="100" Canvas.Left="1229.975" Stroke="#FFF61212" Canvas.Top="864.775" Width="100"/>
+        <Path Data="M1229.975,864.275 L1244.775,864.275 1252.075,871.57502" Height="8.3" Canvas.Left="1229.975" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="864.275" Width="23.1"/>
+        <Path Data="M1252.3906,871.6626 L1252.3906,882.5499" Height="11.898" Canvas.Left="1252.391" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="871.655" Width="1"/>
+        <Path Data="M1252.3875,898.625 L1252.3875,908.92501 1259.5288,916.00002" Height="18.375" Canvas.Left="1252.392" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="898.625" Width="8.141"/>
+        <Path Data="M1259.4916,916.40838 L1323.9718,916.41039" Height="1.002" Canvas.Left="1259.468" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="916.406" Width="65.499"/>
+        <Path Data="M1299.55,916.49354 L1307.3078,924.32949 1307.3,929.33683" Height="13.843" Canvas.Left="1299.55" Stretch="Fill" Stroke="#FFF61212" Canvas.Top="916.494" Width="8.758"/>
+    </Canvas>
+</Window>

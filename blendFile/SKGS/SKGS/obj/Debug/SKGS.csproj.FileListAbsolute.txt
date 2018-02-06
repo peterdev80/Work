@@ -1,0 +1,15 @@
+D:\GitWork\blendFile\SKGS\SKGS\bin\Debug\SKGS.exe.config
+D:\GitWork\blendFile\SKGS\SKGS\bin\Debug\SKGS.exe
+D:\GitWork\blendFile\SKGS\SKGS\bin\Debug\SKGS.pdb
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\SKGS.csprojResolveAssemblyReference.cache
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\MainWindow.g.cs
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\App.g.cs
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\SKGS_MarkupCompile.cache
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\SKGS_MarkupCompile.lref
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\MainWindow.baml
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\SKGS.g.resources
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\SKGS.Properties.Resources.resources
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\SKGS.csproj.GenerateResource.Cache
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\SKGS.csproj.CoreCompileInputs.cache
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\SKGS.exe
+D:\GitWork\blendFile\SKGS\SKGS\obj\Debug\SKGS.pdb
