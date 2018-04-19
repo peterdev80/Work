@@ -103,6 +103,7 @@ namespace PatchMnemoLib.ViewModel
                             vmr.DeleteElementfromShower(MC.SelectedGraphics.Name);
                             vmr.DeleteElementfromRoute(MC.SelectedGraphics.Name);
                             MC.SelectedViewModelGraphics.DeleteElement();
+                            MC.SelectedGraphics = null;
                         }
 
                     });
