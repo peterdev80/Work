@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<AnimPen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<AnimPen xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ListAnimation>
     <GraphicsAnimation>
       <Name>anim1</Name>
@@ -1091,6 +1091,24 @@
       <PenSize>4</PenSize>
       <AnimateName />
       <PenName>PASIVBRUSH4</PenName>
+      <Animate>false</Animate>
+    </GraphicsPen>
+    <GraphicsPen>
+      <LineDas>0</LineDas>
+      <SpaceDash>0</SpaceDash>
+      <ColorPen>
+        <A>255</A>
+        <R>0</R>
+        <G>0</G>
+        <B>255</B>
+        <ScA>1</ScA>
+        <ScR>0</ScR>
+        <ScG>0</ScG>
+        <ScB>1</ScB>
+      </ColorPen>
+      <PenSize>6</PenSize>
+      <AnimateName />
+      <PenName>6Blue</PenName>
       <Animate>false</Animate>
     </GraphicsPen>
   </ListPen>
