@@ -204,6 +204,11 @@ namespace WPFMnemoLibrary.Model
                         d.Invoke(new Action(() => ((FloatVar)val.GetVariable("__PIT_SSWP").VarM).VaRStatefloat = BitConverter.ToSingle(message, 72 * 4)));
                         //sr add rez
                         d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__URO_6").VarM).VarBitInt = BitConverter.ToInt32(message, 73 * 4)));
+                        //СКГС
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__SKGSMC_1").VarM).VarBitInt = BitConverter.ToInt32(message, 74 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__SKGSMC_2").VarM).VarBitInt = BitConverter.ToInt32(message, 75 * 4)));
+                        d.Invoke(new Action(() => ((BitIntVar)val.GetVariable("__SKGSMC_3").VarM).VarBitInt = BitConverter.ToInt32(message, 76 * 4)));
+
                         //переменные мнемосхем
                         // Если дана команда остановить поток, останавливаем бесконечный цикл.
                         if (stopReceive == true) break;
