@@ -79,6 +79,17 @@ sttruct {
 	unsigned myW606                 :1;//10
 	unsigned myG1771                :1;//11
 	unsigned myW646                 :1;//12
+	unsigned myER_SOST              :1;//13
+	unsigned myQ33                  :1;//14
+	unsigned myQ57                  :1;//15
+	unsigned myQ25                  :1;//16
+	unsigned myQ121                 :1;//17
+	unsigned mymn_skgs_pk_c5        :1;//18
+	unsigned mymn_skgs_pk_c6        :1;//19
+	unsigned mymn_skgs_pk_c7        :1;//20  //C1
+	unsigned mymn_skgs_ovk11        :1;//21
+	unsigned mymn_skgs_ud6          :1;//22
+	unsigned myKR                   :1;//23
 	
 	/*unsigned my              :1;
 	unsigned my              :1;
@@ -173,7 +184,7 @@ void Uprav_SKGS()
   
   SKGSMC_3.mySYGN297                        =SYGN297;
   SKGSMC_3.mySYGN296                        =SYGN296;
-  SKGSMC_3.mySYGN51                        =SYGN51;
+  SKGSMC_3.mySYGN51                         =SYGN51;
   SKGSMC_3.mySYGN48                         =SYGN48;
   SKGSMC_3.myW_EM1                          =W_EM1;
   SKGSMC_3.myW_EM2                          =W_EM2;
@@ -184,6 +195,18 @@ void Uprav_SKGS()
   SKGSMC_3.myW606                           =W606 ; 
   SKGSMC_3.myG1771                          =G1771; 
   SKGSMC_3.myW646                           =W646 ; 
+  
+  //--------
+  SKGSMC_3.myER_SOST                        =Q27||Q31;  //электроразьем состыкован
+  SKGSMC_3.myQ33                            =Q33;//+19 
+  SKGSMC_3.myQ57                            =Q57;//+40 
+  SKGSMC_3.myQ25                            =Q25;//+13 станция состыкованна 
+  SKGSMC_3.myQ121                           =Q121;//+66
+  SKGSMC_3.mymn_skgs_pk_c5                  =mn_skgs_pk_c5;
+  SKGSMC_3.mymn_skgs_pk_c6                  =mn_skgs_pk_c6;
+  SKGSMC_3.mymn_skgs_pk_c7                  =mn_skgs_pk_c1;  ///вместо с7 с1
+  SKGSMC_3.mymn_skgs_ovk11                  =mn_skgs_ovk11;
+  SKGSMC_3.mymn_skgs_ud6                    =mn_skgs_ud6  ;
   
   
   

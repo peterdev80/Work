@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <ArrayOfRoute xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <Route>
-    <Name>W_DP_OKVDBOSU</Name>
+    <Name>W_OKVDBOSU</Name>
     <NamePen>
       <StringItem>
         <Value>pBlack</Value>
@@ -39,10 +39,10 @@
     <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>10</ValuePos>
+    <ValuePos>9</ValuePos>
   </Route>
   <Route>
-    <Name>W_DP_ZKVDBOSU</Name>
+    <Name>W_ZKVDBOSU</Name>
     <NamePen>
       <StringItem>
         <Value>pBlack</Value>
@@ -80,10 +80,10 @@
     <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>11</ValuePos>
+    <ValuePos>12</ValuePos>
   </Route>
   <Route>
-    <Name>W_DP_oKVDBOSU_red</Name>
+    <Name>W_oKVDBOSU_red</Name>
     <NamePen>
       <StringItem>
         <Value>pBlack</Value>
@@ -109,10 +109,10 @@
     <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>10</ValuePos>
+    <ValuePos>9</ValuePos>
   </Route>
   <Route>
-    <Name>W_DP_zKVDBOSU_red</Name>
+    <Name>W_zKVDBOSU_red</Name>
     <NamePen>
       <StringItem>
         <Value>pBlack</Value>
@@ -138,7 +138,7 @@
     <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>11</ValuePos>
+    <ValuePos>12</ValuePos>
   </Route>
   <Route>
     <Name>W_PK_C3</Name>
@@ -306,7 +306,7 @@
     <ValuePos>3</ValuePos>
   </Route>
   <Route>
-    <Name>W_DP_oKVDBOSU2</Name>
+    <Name>W_DP_oKVDBOSU</Name>
     <NamePen>
       <StringItem>
         <Value>pen1</Value>
@@ -326,7 +326,7 @@
     <ValuePos>10</ValuePos>
   </Route>
   <Route>
-    <Name>W_DP_zKVDBOSU2</Name>
+    <Name>W_DP_zKVDBOSU</Name>
     <NamePen>
       <StringItem>
         <Value>pen1</Value>
@@ -343,7 +343,7 @@
     <ValueName>__SKGSMC_2</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>10</ValuePos>
+    <ValuePos>11</ValuePos>
   </Route>
   <Route>
     <Name>W_otkrKVDBO</Name>
@@ -412,7 +412,7 @@
     <ValuePos>22</ValuePos>
   </Route>
   <Route>
-    <Name>W_DP_oKSDBO</Name>
+    <Name>W_oKSDBO</Name>
     <NamePen>
       <StringItem>
         <Value>pBlack</Value>
@@ -453,10 +453,10 @@
     <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>14</ValuePos>
+    <ValuePos>13</ValuePos>
   </Route>
   <Route>
-    <Name>W_DP_zKSDBO</Name>
+    <Name>W_zKSDBO</Name>
     <NamePen>
       <StringItem>
         <Value>pBlack</Value>
@@ -497,10 +497,10 @@
     <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>16</ValuePos>
+    <ValuePos>15</ValuePos>
   </Route>
   <Route>
-    <Name>W_DP_oKSDBO_red</Name>
+    <Name>W_oKSDBO_red</Name>
     <NamePen>
       <StringItem>
         <Value>pBlack</Value>
@@ -526,10 +526,10 @@
     <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>14</ValuePos>
+    <ValuePos>13</ValuePos>
   </Route>
   <Route>
-    <Name>W_DP_zKSDBO_red</Name>
+    <Name>W_zKSDBO_red</Name>
     <NamePen>
       <StringItem>
         <Value>pBlack</Value>
@@ -555,7 +555,7 @@
     <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>16</ValuePos>
+    <ValuePos>15</ValuePos>
   </Route>
   <Route>
     <Name>W_lSB3</Name>
@@ -946,6 +946,9 @@
       <StringItem>
         <Value>kl241_104</Value>
       </StringItem>
+      <StringItem>
+        <Value>vl248_93</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
@@ -1106,10 +1109,10 @@
         <Value>kl265_153</Value>
       </StringItem>
     </NameGraphics>
-    <ValueName>__SEP_3</ValueName>
+    <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>0</ValuePos>
+    <ValuePos>14</ValuePos>
   </Route>
   <Route>
     <Name>Key18_zKSDBO</Name>
@@ -1126,10 +1129,10 @@
         <Value>kl266_40</Value>
       </StringItem>
     </NameGraphics>
-    <ValueName>__SEP_3</ValueName>
+    <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>0</ValuePos>
+    <ValuePos>16</ValuePos>
   </Route>
   <Route>
     <Name>W_OtkrKSDBO</Name>
@@ -1574,5 +1577,302 @@
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
     <ValuePos>11</ValuePos>
+  </Route>
+  <Route>
+    <Name>W_zgl</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>kl441_331</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_1</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>8</ValuePos>
+  </Route>
+  <Route>
+    <Name>ER_SOST</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pRed</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl399_299</Value>
+      </StringItem>
+      <StringItem>
+        <Value>vl406_311</Value>
+      </StringItem>
+      <StringItem>
+        <Value>vl249_20</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>13</ValuePos>
+  </Route>
+  <Route>
+    <Name>Q33</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pRed</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl260_168</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>14</ValuePos>
+  </Route>
+  <Route>
+    <Name>Q57</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pRed</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl306_139</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>15</ValuePos>
+  </Route>
+  <Route>
+    <Name>Q25</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pRed</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl176_117</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>16</ValuePos>
+  </Route>
+  <Route>
+    <Name>Q121</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pRed</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl262_101</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>17</ValuePos>
+  </Route>
+  <Route>
+    <Name>mn_skgs_pk_c5 </Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl175_20</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl173_84</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>18</ValuePos>
+  </Route>
+  <Route>
+    <Name>mn_skgs_pk_c6</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl181_79</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl180_10</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>19</ValuePos>
+  </Route>
+  <Route>
+    <Name>mn_skgs_pk_c7</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl303_57</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl302_18</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>20</ValuePos>
+  </Route>
+  <Route>
+    <Name>mn_skgs_ovk11</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl255_4</Value>
+      </StringItem>
+      <StringItem>
+        <Value>vl254_28</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl253_239</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>21</ValuePos>
+  </Route>
+  <Route>
+    <Name>mn_skgs_ud6</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl264_133</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl263_15</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>22</ValuePos>
+  </Route>
+  <Route>
+    <Name>Pca</Name>
+    <NamePen />
+    <NameGraphics>
+      <StringItem>
+        <Value>clrInd13_4</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__MNEMO_RES_16</ValueName>
+    <TypRoute>2</TypRoute>
+    <ValueType>Float</ValueType>
+    <ValuePos>0</ValuePos>
+  </Route>
+  <Route>
+    <Name>Pbo</Name>
+    <NamePen />
+    <NameGraphics>
+      <StringItem>
+        <Value>clrInd14_10</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__MNEMO_RES_17</ValueName>
+    <TypRoute>2</TypRoute>
+    <ValueType>Float</ValueType>
+    <ValuePos>0</ValuePos>
+  </Route>
+  <Route>
+    <Name>Pcy</Name>
+    <NamePen />
+    <NameGraphics>
+      <StringItem>
+        <Value>clrInd7_3</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__MNEMO_RES_20</ValueName>
+    <TypRoute>2</TypRoute>
+    <ValueType>Float</ValueType>
+    <ValuePos>0</ValuePos>
+  </Route>
+  <Route>
+    <Name>Pob</Name>
+    <NamePen />
+    <NameGraphics>
+      <StringItem>
+        <Value>clrInd8_2</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__MNEMO_RES_19</ValueName>
+    <ValueRem>Float</ValueRem>
+    <TypRoute>2</TypRoute>
+    <ValueType>Float</ValueType>
+    <ValuePos>0</ValuePos>
   </Route>
 </ArrayOfRoute>

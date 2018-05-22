@@ -24,8 +24,8 @@
         <vm:ViewModelEditor x:Key="modelSR32_MC" FShema="SerializationSR32_MC.xml" FRout="RoutedSR32_MC.xml" />
         <vm:ViewModelEditor x:Key="modelPR12_MC" FShema="SerializationPR12_MC.xml" FRout="RoutedPR12_MC.xml" />
         <vm:ViewModelEditor x:Key="model_dell" FShema="SerializationSKGS_MC.xml" FRout="RoutedSKGS_MC.xml" />
-        <vm:ViewModelEditor x:Key="model" FShema="SerializationSKGS_TMA_MC.xml" FRout="RoutedSKGS_TMA_MC.xml" />
-        <vm:ViewModelEditor x:Key="modelST" FShema="SerializationSKGS_ST_MC.xml" FRout="RoutedSKGS_ST_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelnSKGS_TMA_MC" FShema="SerializationSKGS_TMA_MC.xml" FRout="RoutedSKGS_TMA_MC.xml" />
+        <vm:ViewModelEditor x:Key="model" FShema="SerializationSKGS_ST_MC.xml" FRout="RoutedSKGS_ST_MC.xml" />
     </Window.Resources>
     <StackPanel  Name="stackPanel1" DataContext="{Binding Source={StaticResource model}}" >
         <Menu Name="menu1" Height="23">
