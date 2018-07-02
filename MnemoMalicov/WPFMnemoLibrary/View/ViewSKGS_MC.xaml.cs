@@ -23,6 +23,8 @@ namespace WPFMnemoLibrary.View
         public ViewSKGS_MC()
         {
             InitializeComponent();
+            ViewModelEditor vm_bk = Vb0.DataContext as ViewModelEditor;
+            vm_bk.MC.Canva = MC_Back;
             ViewModelEditor vm_tma = Vb1.DataContext as ViewModelEditor;
             vm_tma.MC.Canva = MC_TMA;
             ViewModelEditor vm_st = Vb2.DataContext as ViewModelEditor;

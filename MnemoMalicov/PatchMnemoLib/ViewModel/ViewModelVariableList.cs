@@ -104,7 +104,8 @@ namespace PatchMnemoLib.ViewModel
            }
           
            foreach (var el in Seriaz)
-               ListVariable.Add(new ViewModelVariableM(el));         
+
+                ListVariable.Add(new ViewModelVariableM(el));         
 
             
        }

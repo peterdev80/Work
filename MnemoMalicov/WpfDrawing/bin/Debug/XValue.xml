@@ -2923,7 +2923,7 @@
   <VariableM>
     <VarID>Mnemo</VarID>
     <VarName>__SKGSMC_2</VarName>
-    <Typ>BitStuc</Typ>
+    <Typ>BitStuct</Typ>
     <Mask>
       <int>1</int>
       <int>1</int>

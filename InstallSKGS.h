@@ -90,6 +90,8 @@ sttruct {
 	unsigned mymn_skgs_ovk11        :1;//21
 	unsigned mymn_skgs_ud6          :1;//22
 	unsigned myKR                   :1;//23
+	unsigned mW607                  :1;//24
+	unsigned mW608                  :1;//25
 	
 	/*unsigned my              :1;
 	unsigned my              :1;
@@ -207,6 +209,9 @@ void Uprav_SKGS()
   SKGSMC_3.mymn_skgs_pk_c7                  =mn_skgs_pk_c1;  ///вместо с7 с1
   SKGSMC_3.mymn_skgs_ovk11                  =mn_skgs_ovk11;
   SKGSMC_3.mymn_skgs_ud6                    =mn_skgs_ud6  ;
+  
+ SKGSMC_3.mW607                             =W607;//24
+ SKGSMC_3.mW608                             =W608//25
   
   
   

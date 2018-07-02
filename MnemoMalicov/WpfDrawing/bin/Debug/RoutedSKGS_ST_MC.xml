@@ -359,7 +359,7 @@
     </NamePen>
     <NameGraphics>
       <StringItem>
-        <Value>kl338_135</Value>
+        <Value>kl132_48</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__SKGSMC_1</ValueName>
@@ -671,10 +671,10 @@
         <Value>l86_19</Value>
       </StringItem>
     </NameGraphics>
-    <ValueName>__SKGSMC_3</ValueName>
+    <ValueName>__SKGSMC_2</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>0</ValuePos>
+    <ValuePos>15</ValuePos>
   </Route>
   <Route>
     <Name>My_LkBO</Name>
@@ -717,6 +717,26 @@
     <ValueName>__SKGSMC_3</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
-    <ValuePos>0</ValuePos>
+    <ValuePos>13</ValuePos>
+  </Route>
+  <Route>
+    <Name>W608</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>kl342_257</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>25</ValuePos>
   </Route>
 </ArrayOfRoute>

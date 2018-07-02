@@ -12,9 +12,14 @@
         <UserControl.Resources>
             <vm:ViewModelEditor x:Key="model1" RShema="pack://application:,,,/ResourceFiles;component/Data/SerializationSKGS_TMA_MC.xml" RRout="pack://application:,,,/ResourceFiles;component/Data/RoutedSKGS_TMA_MC.xml" />
         <vm:ViewModelEditor x:Key="model2" RShema="pack://application:,,,/ResourceFiles;component/Data/SerializationSKGS_ST_MC.xml" RRout="pack://application:,,,/ResourceFiles;component/Data/RoutedSKGS_ST_MC.xml" />
+        <vm:ViewModelEditor x:Key="model3" RShema="pack://application:,,,/ResourceFiles;component/Data/SKGS_Back.xml" RRout="pack://application:,,,/ResourceFiles;component/Data/RoutedSKGS_MC.xml" />
+
     </UserControl.Resources>
         <Grid x:Name="root" >
-            <Viewbox x:Name="Vb1" DataContext="{Binding Source={StaticResource model1}}">
+        <Viewbox x:Name="Vb0" DataContext="{Binding Source={StaticResource model3}}">
+            <my:MnemoCanvas Width="1929" Height="980" Visibility="Visible" Name="MC_Back"   />
+        </Viewbox>
+        <Viewbox x:Name="Vb1" DataContext="{Binding Source={StaticResource model1}}">
                  <my:MnemoCanvas Width="1929" Height="980" Visibility="Visible" Name="MC_TMA"   />
             </Viewbox>
         <Viewbox x:Name="Vb2" DataContext="{Binding Source={StaticResource model2}}">

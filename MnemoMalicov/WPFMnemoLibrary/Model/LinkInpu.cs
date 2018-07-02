@@ -154,6 +154,12 @@ namespace WPFMnemoLibrary.Model
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__SKGSMC_1").VarM).VarBitInt = (Int32)rd.ReadUInt32();
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__SKGSMC_2").VarM).VarBitInt = (Int32)rd.ReadUInt32();
                 ((BitIntVar)ViewModelVariableList.Instance.GetVariable("__SKGSMC_3").VarM).VarBitInt = (Int32)rd.ReadUInt32();
+                ((FloatVar)ViewModelVariableList.Instance.GetVariable("__MNEMO_RES_16").VarM).VaRStatefloat = rd.ReadSingle();
+                ((FloatVar)ViewModelVariableList.Instance.GetVariable("__MNEMO_RES_17").VarM).VaRStatefloat = rd.ReadSingle();
+                ((FloatVar)ViewModelVariableList.Instance.GetVariable("__MNEMO_RES_20").VarM).VaRStatefloat = rd.ReadSingle();
+                ((FloatVar)ViewModelVariableList.Instance.GetVariable("__MNEMO_RES_19").VarM).VaRStatefloat = rd.ReadSingle();
+
+
 
             }
         }

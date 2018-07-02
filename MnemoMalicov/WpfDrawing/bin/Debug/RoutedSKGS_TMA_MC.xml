@@ -340,7 +340,7 @@
         <Value>kl222_176</Value>
       </StringItem>
     </NameGraphics>
-    <ValueName>__SKGSMC_2</ValueName>
+    <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
     <ValuePos>11</ValuePos>
@@ -403,7 +403,7 @@
     </NamePen>
     <NameGraphics>
       <StringItem>
-        <Value>kl372_22</Value>
+        <Value>kl231_114</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__SKGSMC_1</ValueName>
@@ -618,6 +618,18 @@
       <StringItem>
         <Value>kl259_235</Value>
       </StringItem>
+      <StringItem>
+        <Value>l25_16</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l62_50</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl270_222</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l26_21</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__SKGSMC_2</ValueName>
     <TypRoute>0</TypRoute>
@@ -646,6 +658,18 @@
       </StringItem>
       <StringItem>
         <Value>l24_3</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l25_16</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l62_50</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl270_222</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l26_21</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__SKGSMC_2</ValueName>
@@ -1148,9 +1172,6 @@
       <StringItem>
         <Value>kl290_115</Value>
       </StringItem>
-      <StringItem>
-        <Value>kl294_211</Value>
-      </StringItem>
     </NameGraphics>
     <ValueName>__SKGSMC_1</ValueName>
     <TypRoute>0</TypRoute>
@@ -1170,6 +1191,9 @@
     <NameGraphics>
       <StringItem>
         <Value>kl289_104</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl294_211</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__SKGSMC_1</ValueName>
@@ -1618,6 +1642,9 @@
       <StringItem>
         <Value>vl249_20</Value>
       </StringItem>
+      <StringItem>
+        <Value>vl250_195</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__SKGSMC_3</ValueName>
     <TypRoute>0</TypRoute>
@@ -1657,6 +1684,9 @@
     <NameGraphics>
       <StringItem>
         <Value>vl306_139</Value>
+      </StringItem>
+      <StringItem>
+        <Value>vl247_234</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__SKGSMC_3</ValueName>
@@ -1821,6 +1851,252 @@
     <TypRoute>0</TypRoute>
     <ValueType>BitStruct</ValueType>
     <ValuePos>22</ValuePos>
+  </Route>
+  <Route>
+    <Name>zakrKVDBOSU</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics />
+    <ValueName>__SKGSMC_1</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>22</ValuePos>
+  </Route>
+  <Route>
+    <Name>W_UD6</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl264_133</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl263_15</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l18_5</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l19_14</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l20_2</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l23_19</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l24_3</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l25_16</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l62_50</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl270_222</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l26_21</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl261_231</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl259_235</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_2</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>30</ValuePos>
+  </Route>
+  <Route>
+    <Name>W_C5</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>l171_39</Value>
+      </StringItem>
+      <StringItem>
+        <Value>vl175_20</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl173_84</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l170_135</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl174_110</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl182_80</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l172_60</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_2</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>20</ValuePos>
+  </Route>
+  <Route>
+    <Name>W_C6</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>vl181_79</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl180_10</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l178_116</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl185_45</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l179_119</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_2</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>21</ValuePos>
+  </Route>
+  <Route>
+    <Name>W_vixSYGN293</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>l167_162</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l166_147</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl188_42</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl168_12</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl384_335</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_2</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>15</ValuePos>
+  </Route>
+  <Route>
+    <Name>lQ21||Й31</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlack</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>l186_183</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl196_84</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl217_149</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l189_90</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>13</ValuePos>
+  </Route>
+  <Route>
+    <Name>MDDPBO</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pBlue</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>l190_63</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl192_169</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SEP_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>0</ValuePos>
+  </Route>
+  <Route>
+    <Name>W607</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>kl320_213</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__SKGSMC_3</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>24</ValuePos>
   </Route>
   <Route>
     <Name>Pca</Name>
