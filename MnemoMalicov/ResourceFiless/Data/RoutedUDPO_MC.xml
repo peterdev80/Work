@@ -157,6 +157,12 @@
       <StringItem>
         <Value>kl145_42</Value>
       </StringItem>
+      <StringItem>
+        <Value>l287_230</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl288_136</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_1</ValueName>
     <TypRoute>0</TypRoute>
@@ -185,6 +191,12 @@
       </StringItem>
       <StringItem>
         <Value>l38_37</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l284_214</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl285_280</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_1</ValueName>
@@ -292,6 +304,12 @@
       </StringItem>
       <StringItem>
         <Value>kl153_143</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l291_118</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl292_209</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_1</ValueName>
@@ -1494,6 +1512,9 @@
       <StringItem>
         <Value>kl119_63</Value>
       </StringItem>
+      <StringItem>
+        <Value>kl272_92</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_2</ValueName>
     <TypRoute>0</TypRoute>
@@ -1557,6 +1578,9 @@
       <StringItem>
         <Value>kl169_112</Value>
       </StringItem>
+      <StringItem>
+        <Value>kl279_5</Value>
+      </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_2</ValueName>
     <TypRoute>0</TypRoute>
@@ -1579,6 +1603,9 @@
       </StringItem>
       <StringItem>
         <Value>kl149_110</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl276_37</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__PTVOD_PODVOD_2</ValueName>

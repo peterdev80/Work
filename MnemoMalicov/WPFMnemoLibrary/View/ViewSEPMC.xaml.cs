@@ -23,7 +23,9 @@ namespace WPFMnemoLibrary.View
         public ViewSEPMC()
         {
             InitializeComponent();
-            ViewModelEditor vm = root.DataContext as ViewModelEditor;
+            ViewModelEditor vmb = Vb0.DataContext as ViewModelEditor;
+            vmb.MC.Canva = MC_Back;
+            ViewModelEditor vm = Vb1.DataContext as ViewModelEditor;
             vm.MC.Canva = MC;
         }
     }

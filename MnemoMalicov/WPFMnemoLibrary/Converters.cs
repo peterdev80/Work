@@ -44,6 +44,23 @@ namespace WPFMnemoLibrary
         }
     }
 
+    [ValueConversion(typeof(bool), typeof(System.Windows.Visibility))]
+
+    public class NegativeBitToVisibleConverter : IValueConverter
+    {
+        public object Convert(object value, Type targetType, object parameter, CultureInfo culture)
+        {
+            bool baseVal = (bool)value;
+            if (!baseVal) return Visibility.Visible;
+            return Visibility.Hidden;
+
+        }
+        object IValueConverter.ConvertBack(object value, Type targetType, object parameter, System.Globalization.CultureInfo culture)
+        {
+            throw new NotImplementedException();
+        }
+    }
+
 
 }
 

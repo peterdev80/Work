@@ -6,7 +6,8 @@
              xmlns:local="clr-namespace:WPFMnemoLibrary.View"
              xmlns:localvm="clr-namespace:WPFMnemoLibrary.ViewModel" 
               xmlns:my="clr-namespace:PatchMnemoLib;assembly=PatchMnemoLib"
-        xmlns:vm="clr-namespace:PatchMnemoLib.ViewModel;assembly=PatchMnemoLib" xmlns:WPFMnemoLibrary="clr-namespace:WPFMnemoLibrary" x:Class="WPFMnemoLibrary.View.SotrMCView"
+        xmlns:vm="clr-namespace:PatchMnemoLib.ViewModel;assembly=PatchMnemoLib"
+    xmlns:WPFMnemoLibrary="clr-namespace:WPFMnemoLibrary" x:Class="WPFMnemoLibrary.View.SotrMCView"
              mc:Ignorable="d" 
               >
     <UserControl.Resources>

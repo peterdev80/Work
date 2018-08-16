@@ -29,6 +29,7 @@ namespace WPFMnemoLibrary.View
             vm_tma.MC.Canva = MC_TMA;
             ViewModelEditor vm_st = Vb2.DataContext as ViewModelEditor;
             vm_st.MC.Canva = MC_ST;
+            
         }
     }
 }

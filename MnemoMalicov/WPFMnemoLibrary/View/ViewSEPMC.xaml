@@ -10,9 +10,15 @@
              xmlns:vm="clr-namespace:PatchMnemoLib.ViewModel;assembly=PatchMnemoLib">
     <UserControl.Resources>
         <vm:ViewModelEditor x:Key="model" RShema="pack://application:,,,/ResourceFiles;component/Data/SerializationSEP_MC.xml" RRout="pack://application:,,,/ResourceFiles;component/Data/RoutedSEP_MC.xml" />
+        <vm:ViewModelEditor x:Key="model3" RShema="pack://application:,,,/ResourceFiles;component/Data/SEP_Back.xml" RRout="pack://application:,,,/ResourceFiles;component/Data/RoutedSKGS_MC.xml" />
+
+
     </UserControl.Resources>
-    <Grid x:Name="root" DataContext="{Binding Source={StaticResource model}}">
-        <Viewbox>
+    <Grid x:Name="root" >
+        <Viewbox x:Name="Vb0" DataContext="{Binding Source={StaticResource model3}}">
+            <my:MnemoCanvas Width="1040" Height="630" Visibility="Visible" Name="MC_Back"   />
+        </Viewbox>
+        <Viewbox  x:Name="Vb1" DataContext="{Binding Source={StaticResource model}}">
             <my:MnemoCanvas Width="1040" Height="630" Visibility="Visible" Name="MC"   />
         </Viewbox>
     </Grid>

@@ -369,10 +369,10 @@
     <Name>W_vixSYGN292</Name>
     <NamePen>
       <StringItem>
-        <Value>pBlack</Value>
+        <Value>pGreen</Value>
       </StringItem>
       <StringItem>
-        <Value>PenGrin</Value>
+        <Value>Green1pix</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -814,7 +814,7 @@
     <Name>W_vixSYGN82</Name>
     <NamePen>
       <StringItem>
-        <Value>pBlack</Value>
+        <Value>pGreen</Value>
       </StringItem>
       <StringItem>
         <Value>PenGrin</Value>
@@ -1382,10 +1382,10 @@
     <Name>W_vixSygn291</Name>
     <NamePen>
       <StringItem>
-        <Value>pBlack</Value>
+        <Value>pGreen</Value>
       </StringItem>
       <StringItem>
-        <Value>pBlue</Value>
+        <Value>Green1pix</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -1998,10 +1998,10 @@
     <Name>W_vixSYGN293</Name>
     <NamePen>
       <StringItem>
-        <Value>pBlack</Value>
+        <Value>pGreen</Value>
       </StringItem>
       <StringItem>
-        <Value>pBlue</Value>
+        <Value>Green1pix</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -2071,6 +2071,15 @@
       </StringItem>
       <StringItem>
         <Value>kl192_169</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l195_173</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l183_181</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l184_109</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__SEP_3</ValueName>

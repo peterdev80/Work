@@ -134,6 +134,7 @@
     <Compile Include="ViewModel\UpravNaduvViewModel.cs" />
     <Compile Include="ViewModel\UpravProg12ViewModel.cs" />
     <Compile Include="ViewModel\ViewModelBase.cs" />
+    <Compile Include="ViewModel\ViewModel_SRMC.cs" />
     <Compile Include="View\BADPOView.xaml.cs">
       <DependentUpon>BADPOView.xaml</DependentUpon>
     </Compile>

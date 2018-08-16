@@ -657,10 +657,10 @@
     <Name>My_LZakr_L</Name>
     <NamePen>
       <StringItem>
-        <Value>pBlack</Value>
+        <Value>pGreen</Value>
       </StringItem>
       <StringItem>
-        <Value>pBlue</Value>
+        <Value>Green1pix</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -680,7 +680,7 @@
     <Name>My_LkBO</Name>
     <NamePen>
       <StringItem>
-        <Value>pBlack</Value>
+        <Value>pBlue</Value>
       </StringItem>
       <StringItem>
         <Value>pBlue</Value>
