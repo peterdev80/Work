@@ -181,14 +181,15 @@ namespace PatchMnemoLib.ViewModelRout
 
                 //ecnfyjdrf state
               var gp = _canva.GetPatch(st.Value) as ViewModelGraphics;
-              if (gp == null) MessageBox.Show(String.Format("Не найден элемент с именем {0}", st.Value));
-              else
-              {
-                  for (int i = 0; i < MPen.Count; i++)
-                      gp.AddMarshrut(new StatePatch(Marshrut.Name, MPen[i], i));
-                  gp.SetState(0, this.Name);
-                  MPatch.Add(gp);
-              }
+                if (gp == null) Debug.WriteLine(String.Format("Не найден элемент с именем {0}", st.Value)); //MessageBox.Show(String.Format("Не найден элемент с именем {0}", st.Value));
+                //!потенциальная ошибка, при использование скрытия элементов в режиме отображения данных 
+                else
+                {
+                    for (int i = 0; i < MPen.Count; i++)
+                        gp.AddMarshrut(new StatePatch(Marshrut.Name, MPen[i], i));
+                    gp.SetState(0, this.Name);
+                    MPatch.Add(gp);
+                }
                 
             }
          //   timerSG.Stop();

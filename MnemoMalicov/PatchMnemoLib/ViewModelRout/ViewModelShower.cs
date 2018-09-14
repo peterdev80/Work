@@ -261,6 +261,7 @@ namespace PatchMnemoLib.ViewModelRout
             foreach (var st in Marshrut.NameGraphics)
             {
                 var gpe = _canva.GetPatch(st.Value) ;
+                if (gpe == null) return; //Если значение скрыто не обновляем его Х добавленно для работы режима скрыть
                 if (gpe.TVisual == 4)
                 {
                     ViewModelValueLabel gp = (ViewModelValueLabel)gpe;

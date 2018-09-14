@@ -10972,16 +10972,10 @@
         <Value>l92_22</Value>
       </StringItem>
       <StringItem>
-        <Value>l93_75</Value>
-      </StringItem>
-      <StringItem>
         <Value>l94_28</Value>
       </StringItem>
       <StringItem>
         <Value>l96_57</Value>
-      </StringItem>
-      <StringItem>
-        <Value>l97_48</Value>
       </StringItem>
       <StringItem>
         <Value>l98_40</Value>
@@ -11002,19 +10996,7 @@
         <Value>kl288_136</Value>
       </StringItem>
       <StringItem>
-        <Value>kl265_154</Value>
-      </StringItem>
-      <StringItem>
-        <Value>kl263_223</Value>
-      </StringItem>
-      <StringItem>
         <Value>l129_23</Value>
-      </StringItem>
-      <StringItem>
-        <Value>l130_127</Value>
-      </StringItem>
-      <StringItem>
-        <Value>kl266_223</Value>
       </StringItem>
       <StringItem>
         <Value>l131_58</Value>
@@ -11036,6 +11018,45 @@
       </StringItem>
       <StringItem>
         <Value>l139_89</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl283_70</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l104_95</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l105_100</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl287_54</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l106_87</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl274_119</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l169_111</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl270_146</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l170_103</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl277_141</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l147_89</Value>
+      </StringItem>
+      <StringItem>
+        <Value>kl273_152</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l148_51</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__MNEMO_RES_51</ValueName>
@@ -11162,9 +11183,6 @@
         <Value>l160_2</Value>
       </StringItem>
       <StringItem>
-        <Value>l161_105</Value>
-      </StringItem>
-      <StringItem>
         <Value>l162_160</Value>
       </StringItem>
       <StringItem>
@@ -11192,16 +11210,10 @@
         <Value>l193_14</Value>
       </StringItem>
       <StringItem>
-        <Value>l194_139</Value>
-      </StringItem>
-      <StringItem>
         <Value>l195_78</Value>
       </StringItem>
       <StringItem>
         <Value>l197_143</Value>
-      </StringItem>
-      <StringItem>
-        <Value>l198_157</Value>
       </StringItem>
       <StringItem>
         <Value>l199_16</Value>
@@ -11214,6 +11226,18 @@
       </StringItem>
       <StringItem>
         <Value>l204_42</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l206_23</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l207_17</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l179_114</Value>
+      </StringItem>
+      <StringItem>
+        <Value>l180_49</Value>
       </StringItem>
     </NameGraphics>
     <ValueName>__MNEMO_RES_51</ValueName>

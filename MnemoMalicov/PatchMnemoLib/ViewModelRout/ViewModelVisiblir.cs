@@ -11,6 +11,7 @@ using System.Windows.Data;
 using System.Collections.ObjectModel;
 using ValueModel.BaseType;
 using ValueModel.BaseModel;
+using System.Diagnostics;
 
 namespace PatchMnemoLib.ViewModelRout
 {
@@ -152,8 +153,8 @@ namespace PatchMnemoLib.ViewModelRout
 
                //ecnfyjdrf state
                var gp = _canva.GetPatch(st.Value) as ViewModelGraphics;
-               if (gp == null) MessageBox.Show(String.Format("Не найден элемент с именем {0}", st.Value));
-               else
+                if (gp == null) Debug.WriteLine(String.Format("Не найден элемент с именем {0}", st.Value)); //  if (gp == null) MessageBox.Show(String.Format("Не найден элемент с именем {0}", st.Value));
+                else
                {
                  
                    MPatch.Add(gp);

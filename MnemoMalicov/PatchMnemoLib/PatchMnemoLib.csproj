@@ -105,7 +105,6 @@
     <Compile Include="UtilControl\StateKey.cs" />
     <Compile Include="MnemoCanvas.cs" />
     <Compile Include="Model\AnimPen.cs" />
-    <Compile Include="Model\ClassData.cs" />
     <Compile Include="Model\GraphicsAnimation.cs" />
     <Compile Include="Model\GraphicsPatch.cs" />
     <Compile Include="Model\GraphicsPen.cs" />

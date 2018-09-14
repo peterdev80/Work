@@ -6,10 +6,10 @@
         xmlns:vm="clr-namespace:PatchMnemoLib.ViewModel;assembly=PatchMnemoLib"
         Title="MainWindow" Height="973.6" Width="1500" Loaded="Window_Loaded">
     <Window.Resources>
-        <vm:ViewModelEditor x:Key="modelsotr" FShema="SerializationSOTR_MC.xml" FRout="RoutedSOTR_MC.xml" />
-        <vm:ViewModelEditor x:Key="modelkok" FShema="SerializationSOTRkok_MC.xml" FRout="RoutedSOTRkok_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelSOTR_MC" FShema="SerializationSOTR_MC.xml" FRout="RoutedSOTR_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelkok_MC" FShema="SerializationSOTRkok_MC.xml" FRout="RoutedSOTRkok_MC.xml" />
         <vm:ViewModelEditor x:Key="modelSOTRknr_MC" FShema="SerializationSOTRknr_MC.xml" FRout="RoutedSOTRknr_MC.xml" />
-        <vm:ViewModelEditor x:Key="modelkvo" FShema="SerializationSOTRkvo_MC.xml" FRout="RoutedSOTRkvo_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelSOTRkvo_MC" FShema="SerializationSOTRkvo_MC.xml" FRout="RoutedSOTRkvo_MC.xml" />
         <vm:ViewModelEditor x:Key="modelxsasa" FShema="SerializationSOTRxsasa_MC.xml" FRout="RoutedSOTRxsasa_MC.xml" />
         <!--<vm:ViewModelEditor x:Key="model" FShema="SerializationUDPO_MC.xml" FRout="RoutedUDPO_MC.xml" />-->
         <vm:ViewModelEditor x:Key="modelRAZ" FShema="SerializationRAZ.xml" FRout="RoutedRAZ.xml" />
@@ -19,15 +19,15 @@
         <vm:ViewModelEditor x:Key="modelUKDU_MC" FShema="SerializationUKDU_MC.xml" FRout="RoutedUKDU_MC.xml" />
         <vm:ViewModelEditor x:Key="modelSTD" FShema="SerializationSTD.xml" FRout="STDRouted.xml" />
         <vm:ViewModelEditor x:Key="modelPitSSVP_MC" FShema="SerializationPitSSVP_MC.xml" FRout="RoutedPitSSVP_MC.xml" />
-        <vm:ViewModelEditor x:Key="modelFKDU" FShema="SerializationFKDU_MC.xml" FRout="RoutedFKDU_MC.xml" />
+        <vm:ViewModelEditor x:Key="model" FShema="SerializationFKDU_MC.xml" FRout="RoutedFKDU_MC.xml" />
         <!--<vm:ViewModelEditor x:Key="modelKDU700" FShema="SerializationKDU.xml" FRout="KDURouted.xml" />-->
         <vm:ViewModelEditor x:Key="modelUDPO_MC" FShema="SerializationUDPO_MC.xml" FRout="RoutedUDPO_MC.xml" />
         <vm:ViewModelEditor x:Key="modelSR32_MC" FShema="SerializationSR32_MC.xml" FRout="RoutedSR32_MC.xml" />
-        <vm:ViewModelEditor x:Key="model" FShema="SerializationPR12_MC.xml" FRout="RoutedPR12_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelPR12_MC" FShema="SerializationPR12_MC.xml" FRout="RoutedPR12_MC.xml" />
         <vm:ViewModelEditor x:Key="model_dell" FShema="SerializationSKGS_MC.xml" FRout="RoutedSKGS_MC.xml" />
         <vm:ViewModelEditor x:Key="modelSKGS_TMA_MC" FShema="SerializationSKGS_TMA_MC.xml" FRout="RoutedSKGS_TMA_MC.xml" />
 
-        <vm:ViewModelEditor x:Key="modelSKGS_ST_MC" FShema="SerializationSKGS_ST_MC.xml" FRout="RoutedSKGS_ST_MC.xml" />
+        <vm:ViewModelEditor x:Key="modelSKGS_ST" FShema="SerializationSKGS_ST_MC.xml" FRout="RoutedSKGS_ST_MC.xml" />
         <vm:ViewModelEditor x:Key="modelSKGS_Back" FShema="SKGS_Back.xml" FRout="RoutedSKGS_MC.xml" />
     </Window.Resources>
     <StackPanel  Name="stackPanel1" DataContext="{Binding Source={StaticResource model}}" >
@@ -58,7 +58,7 @@
             <Button Content="Save" Height="23" Name="btnsave" Width="30" Command="{Binding cmdSave}"/>
             <Button Content="Load" Height="23" Name="btnload" Width="30" Click="btnload_Click" />
             <Button Content="Marshrut"  Name="btnload444" Width="30" Command="{Binding Path=CmdEditRout}" />
-            <Button Content="+1"  Name="btnload4444" Width="30" Click="btnload4444_Click"  />
+            <Button Content="+1"  Name="btnload4444" Width="30" Click="btnload4444_Click" VerticalAlignment="Bottom" Margin="0,0,0,0.4"  />
             <Button Content="AnimKlapan"  Name="btnload44444" Width="30" Click="btnload44444_Click"  Command="{Binding  CmdNewAnimKlapan}" />
             <Button Content="CopyPaste"  Name="btnload444445" Width="30" Command="{Binding cmdCopyPacte}" />
             <Button Content="Delete"  Name="btnload4444456" Width="30" Command="{Binding cmdDelete}" />

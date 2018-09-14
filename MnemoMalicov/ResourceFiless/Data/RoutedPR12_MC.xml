@@ -931,7 +931,7 @@
         <Value>pGreen</Value>
       </StringItem>
       <StringItem>
-        <Value>pBlue</Value>
+        <Value>Green1pix</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -1434,7 +1434,7 @@
         <Value>pGreen</Value>
       </StringItem>
       <StringItem>
-        <Value>pBlue</Value>
+        <Value>Green1pix</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -1463,7 +1463,7 @@
         <Value>pGreen</Value>
       </StringItem>
       <StringItem>
-        <Value>pBlue</Value>
+        <Value>Green1pix</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -1492,7 +1492,7 @@
         <Value>pGreen</Value>
       </StringItem>
       <StringItem>
-        <Value>pBlue</Value>
+        <Value>Green1pix</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -1550,7 +1550,7 @@
         <Value>pGreen</Value>
       </StringItem>
       <StringItem>
-        <Value>pBlue</Value>
+        <Value>Green1pix</Value>
       </StringItem>
     </NamePen>
     <NameGraphics>
@@ -1836,5 +1836,18 @@
     <TypRoute>2</TypRoute>
     <ValueType>Float</ValueType>
     <ValuePos>0</ValuePos>
+  </Route>
+  <Route>
+    <Name>visibleTime</Name>
+    <NamePen />
+    <NameGraphics>
+      <StringItem>
+        <Value>vl296_34</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__PR12_MC_2</ValueName>
+    <TypRoute>3</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>19</ValuePos>
   </Route>
 </ArrayOfRoute>

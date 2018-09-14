@@ -4541,7 +4541,7 @@
       <Alignment>0</Alignment>
     </PropertyValueLabelGraphics>
     <PropertyValueLabelGraphics>
-      <Name>vl296_34</Name>
+      <Name>vl66_6</Name>
       <TransX>0</TransX>
       <TransY>0</TransY>
       <RotateAngle>0</RotateAngle>
@@ -4561,15 +4561,15 @@
         <ScB>0</ScB>
       </GPen>
       <GpenSize>16</GpenSize>
-      <Xpos>1131.2001708720543</Xpos>
-      <Ypos>836.686097435815</Ypos>
+      <Xpos>1788.3042341847404</Xpos>
+      <Ypos>520.0599173329249</Ypos>
       <Shrift>Verdana</Shrift>
-      <Format>00</Format>
-      <ShowMessage>00</ShowMessage>
+      <Format />
+      <ShowMessage>КР "ОСМ"</ShowMessage>
       <Alignment>0</Alignment>
     </PropertyValueLabelGraphics>
     <PropertyValueLabelGraphics>
-      <Name>vl305_184</Name>
+      <Name>vl67_8</Name>
       <TransX>0</TransX>
       <TransY>0</TransY>
       <RotateAngle>0</RotateAngle>
@@ -4589,39 +4589,11 @@
         <ScB>0</ScB>
       </GPen>
       <GpenSize>16</GpenSize>
-      <Xpos>1163.7124901790683</Xpos>
-      <Ypos>836.84263877433136</Ypos>
+      <Xpos>1787.7469425180736</Xpos>
+      <Ypos>536.22137566625815</Ypos>
       <Shrift>Verdana</Shrift>
-      <Format>00</Format>
-      <ShowMessage>00</ShowMessage>
-      <Alignment>0</Alignment>
-    </PropertyValueLabelGraphics>
-    <PropertyValueLabelGraphics>
-      <Name>vl306_20</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>false</RedrawType>
-      <GPen>
-        <A>255</A>
-        <R>0</R>
-        <G>0</G>
-        <B>0</B>
-        <ScA>1</ScA>
-        <ScR>0</ScR>
-        <ScG>0</ScG>
-        <ScB>0</ScB>
-      </GPen>
-      <GpenSize>16</GpenSize>
-      <Xpos>1152.0289469137208</Xpos>
-      <Ypos>836.0935811545146</Ypos>
-      <Shrift>Verdana</Shrift>
-      <Format>f0</Format>
-      <ShowMessage>:</ShowMessage>
+      <Format />
+      <ShowMessage>КР "РР"</ShowMessage>
       <Alignment>0</Alignment>
     </PropertyValueLabelGraphics>
     <PropertyPatchGraphics>
@@ -5262,6 +5234,34 @@
       </DefPenColor>
       <DefPenSize>1</DefPenSize>
     </PropertyPatchGraphics>
+    <PropertyValueLabelGraphics>
+      <Name>vl36_32</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>false</RedrawType>
+      <GPen>
+        <A>255</A>
+        <R>0</R>
+        <G>0</G>
+        <B>0</B>
+        <ScA>1</ScA>
+        <ScR>0</ScR>
+        <ScG>0</ScG>
+        <ScB>0</ScB>
+      </GPen>
+      <GpenSize>16</GpenSize>
+      <Xpos>1542.309974825275</Xpos>
+      <Ypos>141.16617100178814</Ypos>
+      <Shrift>Verdana</Shrift>
+      <Format />
+      <ShowMessage>КР-Д17,КР "КРЮКИ ОТКР"</ShowMessage>
+      <Alignment>0</Alignment>
+    </PropertyValueLabelGraphics>
     <PropertyKlapanGraphics>
       <Name>kl21_1</Name>
       <TransX>0</TransX>
@@ -5347,6 +5347,34 @@
       </DefPenColor>
       <DefPenSize>1</DefPenSize>
     </PropertyPatchGraphics>
+    <PropertyValueLabelGraphics>
+      <Name>vl37_18</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>false</RedrawType>
+      <GPen>
+        <A>255</A>
+        <R>0</R>
+        <G>0</G>
+        <B>0</B>
+        <ScA>1</ScA>
+        <ScR>0</ScR>
+        <ScG>0</ScG>
+        <ScB>0</ScB>
+      </GPen>
+      <GpenSize>16</GpenSize>
+      <Xpos>1542.0226451644241</Xpos>
+      <Ypos>171.95984743249403</Ypos>
+      <Shrift>Verdana</Shrift>
+      <Format />
+      <ShowMessage>ПК,КР-Д13 "ЗАЩЕЛКИ ВЫДВ"</ShowMessage>
+      <Alignment>0</Alignment>
+    </PropertyValueLabelGraphics>
     <PropertyKlapanGraphics>
       <Name>kl22_21</Name>
       <TransX>0</TransX>
@@ -5432,6 +5460,34 @@
       </DefPenColor>
       <DefPenSize>1</DefPenSize>
     </PropertyPatchGraphics>
+    <PropertyValueLabelGraphics>
+      <Name>vl38_33</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>false</RedrawType>
+      <GPen>
+        <A>255</A>
+        <R>0</R>
+        <G>0</G>
+        <B>0</B>
+        <ScA>1</ScA>
+        <ScR>0</ScR>
+        <ScG>0</ScG>
+        <ScB>0</ScB>
+      </GPen>
+      <GpenSize>16</GpenSize>
+      <Xpos>1542.1663099948496</Xpos>
+      <Ypos>200.48386822993314</Ypos>
+      <Shrift>Verdana</Shrift>
+      <Format />
+      <ShowMessage>ПК-Г17,ПК "ЗАЩЕЛКИ ВТЯН"</ShowMessage>
+      <Alignment>0</Alignment>
+    </PropertyValueLabelGraphics>
     <PropertyKlapanGraphics>
       <Name>kl23_3</Name>
       <TransX>0</TransX>
@@ -5517,6 +5573,34 @@
       </DefPenColor>
       <DefPenSize>1</DefPenSize>
     </PropertyPatchGraphics>
+    <PropertyValueLabelGraphics>
+      <Name>vl39_20</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>false</RedrawType>
+      <GPen>
+        <A>255</A>
+        <R>0</R>
+        <G>0</G>
+        <B>0</B>
+        <ScA>1</ScA>
+        <ScR>0</ScR>
+        <ScG>0</ScG>
+        <ScB>0</ScB>
+      </GPen>
+      <GpenSize>16</GpenSize>
+      <Xpos>1543.0694543155375</Xpos>
+      <Ypos>224.43000494628654</Ypos>
+      <Shrift>Verdana</Shrift>
+      <Format />
+      <ShowMessage>АС1 "КАСАНИЕ"</ShowMessage>
+      <Alignment>0</Alignment>
+    </PropertyValueLabelGraphics>
     <PropertyKlapanGraphics>
       <Name>kl24_14</Name>
       <TransX>0</TransX>
@@ -5602,6 +5686,34 @@
       </DefPenColor>
       <DefPenSize>1</DefPenSize>
     </PropertyPatchGraphics>
+    <PropertyValueLabelGraphics>
+      <Name>vl40_19</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>false</RedrawType>
+      <GPen>
+        <A>255</A>
+        <R>0</R>
+        <G>0</G>
+        <B>0</B>
+        <ScA>1</ScA>
+        <ScR>0</ScR>
+        <ScG>0</ScG>
+        <ScB>0</ScB>
+      </GPen>
+      <GpenSize>16</GpenSize>
+      <Xpos>1543.263935035279</Xpos>
+      <Ypos>258.08686176261324</Ypos>
+      <Shrift>Verdana</Shrift>
+      <Format />
+      <ShowMessage>АС2 "НАЧАЛО СТЫКОВКИ"</ShowMessage>
+      <Alignment>0</Alignment>
+    </PropertyValueLabelGraphics>
     <PropertyKlapanGraphics>
       <Name>kl25_10</Name>
       <TransX>0</TransX>
@@ -5862,6 +5974,34 @@
       </DefPenColor>
       <DefPenSize>1</DefPenSize>
     </PropertyPatchGraphics>
+    <PropertyValueLabelGraphics>
+      <Name>vl55_17</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>false</RedrawType>
+      <GPen>
+        <A>255</A>
+        <R>0</R>
+        <G>0</G>
+        <B>0</B>
+        <ScA>1</ScA>
+        <ScR>0</ScR>
+        <ScG>0</ScG>
+        <ScB>0</ScB>
+      </GPen>
+      <GpenSize>16</GpenSize>
+      <Xpos>1542.5386091847404</Xpos>
+      <Ypos>346.74220899959153</Ypos>
+      <Shrift>Verdana</Shrift>
+      <Format />
+      <ShowMessage>АС3 "ПРОМАХ"</ShowMessage>
+      <Alignment>0</Alignment>
+    </PropertyValueLabelGraphics>
     <PropertyKlapanGraphics>
       <Name>kl54_23</Name>
       <TransX>0</TransX>
@@ -6060,6 +6200,62 @@
       </DefPenColor>
       <DefPenSize>1</DefPenSize>
     </PropertyPatchGraphics>
+    <PropertyValueLabelGraphics>
+      <Name>vl47_35</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>false</RedrawType>
+      <GPen>
+        <A>255</A>
+        <R>0</R>
+        <G>0</G>
+        <B>0</B>
+        <ScA>1</ScA>
+        <ScR>0</ScR>
+        <ScG>0</ScG>
+        <ScB>0</ScB>
+      </GPen>
+      <GpenSize>16</GpenSize>
+      <Xpos>1542.6432900998514</Xpos>
+      <Ypos>400.258425594347</Ypos>
+      <Shrift>Verdana</Shrift>
+      <Format />
+      <ShowMessage>ОВК12 "Отстрел СМ"</ShowMessage>
+      <Alignment>0</Alignment>
+    </PropertyValueLabelGraphics>
+    <PropertyValueLabelGraphics>
+      <Name>vl48_9</Name>
+      <TransX>0</TransX>
+      <TransY>0</TransY>
+      <RotateAngle>0</RotateAngle>
+      <ScaleX>0</ScaleX>
+      <ScaleY>0</ScaleY>
+      <CentrX>0</CentrX>
+      <CentrY>0</CentrY>
+      <RedrawType>false</RedrawType>
+      <GPen>
+        <A>255</A>
+        <R>0</R>
+        <G>0</G>
+        <B>0</B>
+        <ScA>1</ScA>
+        <ScR>0</ScR>
+        <ScG>0</ScG>
+        <ScB>0</ScB>
+      </GPen>
+      <GpenSize>16</GpenSize>
+      <Xpos>1542.6432900998516</Xpos>
+      <Ypos>418.67482609870893</Ypos>
+      <Shrift>Verdana</Shrift>
+      <Format />
+      <ShowMessage>ОВК14 "Резервн расстык"</ShowMessage>
+      <Alignment>0</Alignment>
+    </PropertyValueLabelGraphics>
     <PropertyKlapanGraphics>
       <Name>kl46_6</Name>
       <TransX>0</TransX>
@@ -7711,22 +7907,22 @@
           <GBrush>
             <A>255</A>
             <R>0</R>
-            <G>0</G>
-            <B>255</B>
+            <G>255</G>
+            <B>0</B>
             <ScA>1</ScA>
             <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>1</ScB>
+            <ScG>1</ScG>
+            <ScB>0</ScB>
           </GBrush>
           <GPen>
             <A>255</A>
             <R>0</R>
-            <G>0</G>
-            <B>255</B>
+            <G>255</G>
+            <B>0</B>
             <ScA>1</ScA>
             <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>1</ScB>
+            <ScG>1</ScG>
+            <ScB>0</ScB>
           </GPen>
           <GpenSize>1</GpenSize>
         </KlapanItem>
@@ -10134,22 +10330,22 @@
           <GBrush>
             <A>255</A>
             <R>0</R>
-            <G>0</G>
-            <B>255</B>
+            <G>255</G>
+            <B>0</B>
             <ScA>1</ScA>
             <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>1</ScB>
+            <ScG>1</ScG>
+            <ScB>0</ScB>
           </GBrush>
           <GPen>
             <A>255</A>
             <R>0</R>
-            <G>0</G>
-            <B>255</B>
+            <G>255</G>
+            <B>0</B>
             <ScA>1</ScA>
             <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>1</ScB>
+            <ScG>1</ScG>
+            <ScB>0</ScB>
           </GPen>
           <GpenSize>1</GpenSize>
         </KlapanItem>
@@ -10281,22 +10477,22 @@
           <GBrush>
             <A>255</A>
             <R>0</R>
-            <G>0</G>
-            <B>255</B>
+            <G>255</G>
+            <B>0</B>
             <ScA>1</ScA>
             <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>1</ScB>
+            <ScG>1</ScG>
+            <ScB>0</ScB>
           </GBrush>
           <GPen>
             <A>255</A>
             <R>0</R>
-            <G>0</G>
-            <B>255</B>
+            <G>255</G>
+            <B>0</B>
             <ScA>1</ScA>
             <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>1</ScB>
+            <ScG>1</ScG>
+            <ScB>0</ScB>
           </GPen>
           <GpenSize>1</GpenSize>
         </KlapanItem>
@@ -10428,22 +10624,22 @@
           <GBrush>
             <A>255</A>
             <R>0</R>
-            <G>0</G>
-            <B>255</B>
+            <G>255</G>
+            <B>0</B>
             <ScA>1</ScA>
             <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>1</ScB>
+            <ScG>1</ScG>
+            <ScB>0</ScB>
           </GBrush>
           <GPen>
             <A>255</A>
             <R>0</R>
-            <G>0</G>
-            <B>255</B>
+            <G>255</G>
+            <B>0</B>
             <ScA>1</ScA>
             <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>1</ScB>
+            <ScG>1</ScG>
+            <ScB>0</ScB>
           </GPen>
           <GpenSize>1</GpenSize>
         </KlapanItem>
@@ -10750,22 +10946,22 @@
           <GBrush>
             <A>255</A>
             <R>0</R>
-            <G>0</G>
-            <B>255</B>
+            <G>255</G>
+            <B>0</B>
             <ScA>1</ScA>
             <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>1</ScB>
+            <ScG>1</ScG>
+            <ScB>0</ScB>
           </GBrush>
           <GPen>
             <A>255</A>
             <R>0</R>
-            <G>0</G>
-            <B>255</B>
+            <G>255</G>
+            <B>0</B>
             <ScA>1</ScA>
             <ScR>0</ScR>
-            <ScG>0</ScG>
-            <ScB>1</ScB>
+            <ScG>1</ScG>
+            <ScB>0</ScB>
           </GPen>
           <GpenSize>1</GpenSize>
         </KlapanItem>
@@ -11894,7 +12090,7 @@
       </GDats>
     </PropertyKlapanGraphics>
     <PropertyValueLabelGraphics>
-      <Name>vl36_32</Name>
+      <Name>vl305_184</Name>
       <TransX>0</TransX>
       <TransY>0</TransY>
       <RotateAngle>0</RotateAngle>
@@ -11913,16 +12109,16 @@
         <ScG>0</ScG>
         <ScB>0</ScB>
       </GPen>
-      <GpenSize>16</GpenSize>
-      <Xpos>1542.309974825275</Xpos>
-      <Ypos>141.16617100178814</Ypos>
+      <GpenSize>5</GpenSize>
+      <Xpos>1168.7838443457349</Xpos>
+      <Ypos>871.61763877433134</Ypos>
       <Shrift>Verdana</Shrift>
-      <Format />
-      <ShowMessage>КР-Д17,КР "КРЮКИ ОТКР"</ShowMessage>
+      <Format>00</Format>
+      <ShowMessage>00</ShowMessage>
       <Alignment>0</Alignment>
     </PropertyValueLabelGraphics>
     <PropertyValueLabelGraphics>
-      <Name>vl37_18</Name>
+      <Name>vl306_20</Name>
       <TransX>0</TransX>
       <TransY>0</TransY>
       <RotateAngle>0</RotateAngle>
@@ -11941,16 +12137,16 @@
         <ScG>0</ScG>
         <ScB>0</ScB>
       </GPen>
-      <GpenSize>16</GpenSize>
-      <Xpos>1542.0226451644241</Xpos>
-      <Ypos>171.95984743249403</Ypos>
+      <GpenSize>5</GpenSize>
+      <Xpos>1160.7226969137207</Xpos>
+      <Ypos>867.9706644878479</Ypos>
       <Shrift>Verdana</Shrift>
-      <Format />
-      <ShowMessage>ПК,КР-Д13 "ЗАЩЕЛКИ ВЫДВ"</ShowMessage>
+      <Format>f0</Format>
+      <ShowMessage>:</ShowMessage>
       <Alignment>0</Alignment>
     </PropertyValueLabelGraphics>
     <PropertyValueLabelGraphics>
-      <Name>vl38_33</Name>
+      <Name>vl296_34</Name>
       <TransX>0</TransX>
       <TransY>0</TransY>
       <RotateAngle>0</RotateAngle>
@@ -11970,207 +12166,11 @@
         <ScB>0</ScB>
       </GPen>
       <GpenSize>16</GpenSize>
-      <Xpos>1542.1663099948496</Xpos>
-      <Ypos>200.48386822993314</Ypos>
+      <Xpos>1147.8631917053876</Xpos>
+      <Ypos>836.68609743581487</Ypos>
       <Shrift>Verdana</Shrift>
       <Format />
-      <ShowMessage>ПК-Г17,ПК "ЗАЩЕЛКИ ВТЯН"</ShowMessage>
-      <Alignment>0</Alignment>
-    </PropertyValueLabelGraphics>
-    <PropertyValueLabelGraphics>
-      <Name>vl39_20</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>false</RedrawType>
-      <GPen>
-        <A>255</A>
-        <R>0</R>
-        <G>0</G>
-        <B>0</B>
-        <ScA>1</ScA>
-        <ScR>0</ScR>
-        <ScG>0</ScG>
-        <ScB>0</ScB>
-      </GPen>
-      <GpenSize>16</GpenSize>
-      <Xpos>1543.0694543155375</Xpos>
-      <Ypos>224.43000494628654</Ypos>
-      <Shrift>Verdana</Shrift>
-      <Format />
-      <ShowMessage>АС1 "КАСАНИЕ"</ShowMessage>
-      <Alignment>0</Alignment>
-    </PropertyValueLabelGraphics>
-    <PropertyValueLabelGraphics>
-      <Name>vl40_19</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>false</RedrawType>
-      <GPen>
-        <A>255</A>
-        <R>0</R>
-        <G>0</G>
-        <B>0</B>
-        <ScA>1</ScA>
-        <ScR>0</ScR>
-        <ScG>0</ScG>
-        <ScB>0</ScB>
-      </GPen>
-      <GpenSize>16</GpenSize>
-      <Xpos>1543.263935035279</Xpos>
-      <Ypos>258.08686176261324</Ypos>
-      <Shrift>Verdana</Shrift>
-      <Format />
-      <ShowMessage>АС2 "НАЧАЛО СТЫКОВКИ"</ShowMessage>
-      <Alignment>0</Alignment>
-    </PropertyValueLabelGraphics>
-    <PropertyValueLabelGraphics>
-      <Name>vl55_17</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>false</RedrawType>
-      <GPen>
-        <A>255</A>
-        <R>0</R>
-        <G>0</G>
-        <B>0</B>
-        <ScA>1</ScA>
-        <ScR>0</ScR>
-        <ScG>0</ScG>
-        <ScB>0</ScB>
-      </GPen>
-      <GpenSize>16</GpenSize>
-      <Xpos>1542.5386091847404</Xpos>
-      <Ypos>346.74220899959153</Ypos>
-      <Shrift>Verdana</Shrift>
-      <Format />
-      <ShowMessage>АС3 "ПРОМАХ"</ShowMessage>
-      <Alignment>0</Alignment>
-    </PropertyValueLabelGraphics>
-    <PropertyValueLabelGraphics>
-      <Name>vl47_35</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>false</RedrawType>
-      <GPen>
-        <A>255</A>
-        <R>0</R>
-        <G>0</G>
-        <B>0</B>
-        <ScA>1</ScA>
-        <ScR>0</ScR>
-        <ScG>0</ScG>
-        <ScB>0</ScB>
-      </GPen>
-      <GpenSize>16</GpenSize>
-      <Xpos>1542.6432900998514</Xpos>
-      <Ypos>400.258425594347</Ypos>
-      <Shrift>Verdana</Shrift>
-      <Format />
-      <ShowMessage>ОВК12 "Отстрел СМ"</ShowMessage>
-      <Alignment>0</Alignment>
-    </PropertyValueLabelGraphics>
-    <PropertyValueLabelGraphics>
-      <Name>vl48_9</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>false</RedrawType>
-      <GPen>
-        <A>255</A>
-        <R>0</R>
-        <G>0</G>
-        <B>0</B>
-        <ScA>1</ScA>
-        <ScR>0</ScR>
-        <ScG>0</ScG>
-        <ScB>0</ScB>
-      </GPen>
-      <GpenSize>16</GpenSize>
-      <Xpos>1542.6432900998516</Xpos>
-      <Ypos>418.67482609870893</Ypos>
-      <Shrift>Verdana</Shrift>
-      <Format />
-      <ShowMessage>ОВК14 "Резервн расстык"</ShowMessage>
-      <Alignment>0</Alignment>
-    </PropertyValueLabelGraphics>
-    <PropertyValueLabelGraphics>
-      <Name>vl66_6</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>false</RedrawType>
-      <GPen>
-        <A>255</A>
-        <R>0</R>
-        <G>0</G>
-        <B>0</B>
-        <ScA>1</ScA>
-        <ScR>0</ScR>
-        <ScG>0</ScG>
-        <ScB>0</ScB>
-      </GPen>
-      <GpenSize>16</GpenSize>
-      <Xpos>1788.3042341847404</Xpos>
-      <Ypos>520.0599173329249</Ypos>
-      <Shrift>Verdana</Shrift>
-      <Format />
-      <ShowMessage>КР "ОСМ"</ShowMessage>
-      <Alignment>0</Alignment>
-    </PropertyValueLabelGraphics>
-    <PropertyValueLabelGraphics>
-      <Name>vl67_8</Name>
-      <TransX>0</TransX>
-      <TransY>0</TransY>
-      <RotateAngle>0</RotateAngle>
-      <ScaleX>0</ScaleX>
-      <ScaleY>0</ScaleY>
-      <CentrX>0</CentrX>
-      <CentrY>0</CentrY>
-      <RedrawType>false</RedrawType>
-      <GPen>
-        <A>255</A>
-        <R>0</R>
-        <G>0</G>
-        <B>0</B>
-        <ScA>1</ScA>
-        <ScR>0</ScR>
-        <ScG>0</ScG>
-        <ScB>0</ScB>
-      </GPen>
-      <GpenSize>16</GpenSize>
-      <Xpos>1787.7469425180736</Xpos>
-      <Ypos>536.22137566625815</Ypos>
-      <Shrift>Verdana</Shrift>
-      <Format />
-      <ShowMessage>КР "РР"</ShowMessage>
+      <ShowMessage>000</ShowMessage>
       <Alignment>0</Alignment>
     </PropertyValueLabelGraphics>
   </Graphics>

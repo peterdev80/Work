@@ -473,9 +473,19 @@ namespace PatchMnemoLib.ViewModel
            // return gpatch.Find(delegate(ViewModelGraphics vmp) { return vmp.Name == name; });
 
             if (DPatch.Count == 0) DictonaryUpdate();
-            
 
-            return DPatch[name];
+            //проверяем есть ли ключ в словаре
+            try
+            {
+                return DPatch[name];
+
+            }
+            catch
+            {
+                Debug.WriteLine(String.Format("Нет {0}  в массиве переменных",name));
+                return null;
+            }
+           // return DPatch[name];
 
         }
         public void SetPatch(List<ViewModelGraphics> val)

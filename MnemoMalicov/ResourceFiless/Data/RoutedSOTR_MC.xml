@@ -720,6 +720,29 @@
     <ValuePos>0</ValuePos>
   </Route>
   <Route>
+    <Name>mySYGN313</Name>
+    <NamePen>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+      <StringItem>
+        <Value>pen1</Value>
+      </StringItem>
+    </NamePen>
+    <NameGraphics>
+      <StringItem>
+        <Value>kl107_42</Value>
+      </StringItem>
+    </NameGraphics>
+    <ValueName>__MNEMO_RES_5</ValueName>
+    <TypRoute>0</TypRoute>
+    <ValueType>BitStruct</ValueType>
+    <ValuePos>17</ValuePos>
+  </Route>
+  <Route>
     <Name>XP6373</Name>
     <NamePen />
     <NameGraphics>

@@ -179,11 +179,12 @@ Pen p=  ((PatchMnemoLib.Model.StatePatch)cl.GetState()).MPen;*/
         private void btnload4444_Click(object sender, RoutedEventArgs e)
         {
 
-
+          //  ViewModelEditor vm = stackPanel1.DataContext as ViewModelEditor;
+            
             //indicator
 
-           /* if (vmr.ValueInt == 3) vmr.ValueInt = -1;
-            vmr.ValueInt++;*/
+            /* if (vmr.ValueInt == 3) vmr.ValueInt = -1;
+             vmr.ValueInt++;*/
         }
 
         private void btnload44444_Click(object sender, RoutedEventArgs e)
